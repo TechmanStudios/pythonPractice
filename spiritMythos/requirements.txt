@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+PyPDF2
+pdfminer.six
+pytesseract
+pillow
+pdf2image
+openai-whisper

@@ -5,6 +5,17 @@ from typing import List, Dict
 import unittest
 import re
 from collections import Counter
+import spacy
+from transformers import pipeline
+from textblob import TextBlob
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.decomposition import LatentDirichletAllocation
+import numpy as np
+
+# Load NLP models once
+spacy_nlp = spacy.load("en_core_web_sm")
+summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
+sentiment_analyzer = pipeline("sentiment-analysis")
 
 # The function to be tested (copied from the problem description)
 def basic_parse_esoteric_document(document_text: str, spiritual_keywords: list[str]) -> dict:
@@ -498,6 +509,74 @@ class TestBasicParseEsotericDocument(unittest.TestCase):
         self.assertEqual(blocks[1]["block_id"], "block_2")
         self.assertEqual(blocks[2]["block_id"], "block_3")
 
+# --- Advanced NLP Tools ---
+def nlp_ner(text: str) -> list:
+    doc = spacy_nlp(text)
+    return [(ent.text, ent.label_) for ent in doc.ents]
+
+def nlp_pos(text: str) -> list:
+    doc = spacy_nlp(text)
+    return [(token.text, token.pos_) for token in doc]
+
+def nlp_summarize(text: str) -> str:
+    summary = summarizer(text, max_length=60, min_length=10, do_sample=False)
+    return summary[0]['summary_text']
+
+def nlp_sentiment(text: str) -> dict:
+    result = sentiment_analyzer(text)[0]
+    return {"label": result['label'], "score": result['score']}
+
+def nlp_textblob_sentiment(text: str) -> dict:
+    blob = TextBlob(text)
+    return {"polarity": blob.sentiment.polarity, "subjectivity": blob.sentiment.subjectivity}
+
+def nlp_token_count(text: str) -> int:
+    return len(spacy_nlp(text))
+
+def nlp_word_count(text: str) -> int:
+    return len(text.split())
+
+def nlp_unique_words(text: str) -> int:
+    return len(set(text.split()))
+
+def nlp_tfidf_keywords(text: str, top_n: int = 5) -> list:
+    vectorizer = TfidfVectorizer(stop_words='english')
+    X = vectorizer.fit_transform([text])
+    indices = np.argsort(X.toarray()[0])[::-1][:top_n]
+    features = np.array(vectorizer.get_feature_names_out())
+    return features[indices].tolist()
+
+def nlp_topic_modeling(text: str, n_topics: int = 2) -> list:
+    vectorizer = TfidfVectorizer(stop_words='english')
+    X = vectorizer.fit_transform([text])
+    lda = LatentDirichletAllocation(n_components=n_topics, random_state=0)
+    lda.fit(X)
+    topics = []
+    for topic in lda.components_:
+        top_words = np.array(vectorizer.get_feature_names_out())[topic.argsort()[-5:][::-1]]
+        topics.append(top_words.tolist())
+    return topics
+
+def nlp_semantic_similarity(text1: str, text2: str) -> float:
+    doc1 = spacy_nlp(text1)
+    doc2 = spacy_nlp(text2)
+    return doc1.similarity(doc2)
+
+def nlp_language_detection(text: str) -> str:
+    blob = TextBlob(text)
+    return blob.detect_language() if hasattr(blob, 'detect_language') else 'unknown'
+
+def nlp_readability(text: str) -> float:
+    # Flesch Reading Ease (simple version)
+    blob = TextBlob(text)
+    words = blob.words
+    sentences = blob.sentences
+    syllables = sum([len(word) for word in words])
+    if len(sentences) == 0 or len(words) == 0:
+        return 0.0
+    return 206.835 - 1.015 * (len(words) / len(sentences)) - 84.6 * (syllables / len(words))
+
+# --- AI Agent with Extended NLP Tools ---
 def generate_response(messages: List[Dict]) -> str:
     api_key = os.environ.get('GOOGLE_API_KEY')
     if not api_key:
@@ -557,14 +636,23 @@ def main():
         {
             "role": "system",
             "content": """
-You are an AI agent that can perform tasks by using available tools.
+You are an AI agent that can perform advanced NLP and semantic analysis using the following tools.
 
 Available tools:
-- list_files() -> List[str]: List all files in the current directory.
-- read_file(file_name: str) -> str: Read the content of a file.
-- terminate(message: str): End the agent loop and print a summary to the user.
-
-If a user asks about files, list them before reading.
+- nlp_ner(text: str) -> list: Named Entity Recognition.
+- nlp_pos(text: str) -> list: Part-of-speech tagging.
+- nlp_summarize(text: str) -> str: Summarize the text.
+- nlp_sentiment(text: str) -> dict: Sentiment analysis (transformers).
+- nlp_textblob_sentiment(text: str) -> dict: Sentiment analysis (TextBlob).
+- nlp_token_count(text: str) -> int: Token count.
+- nlp_word_count(text: str) -> int: Word count.
+- nlp_unique_words(text: str) -> int: Unique word count.
+- nlp_tfidf_keywords(text: str, top_n: int) -> list: Top TF-IDF keywords.
+- nlp_topic_modeling(text: str, n_topics: int) -> list: Topic modeling.
+- nlp_semantic_similarity(text1: str, text2: str) -> float: Semantic similarity.
+- nlp_language_detection(text: str) -> str: Language detection.
+- nlp_readability(text: str) -> float: Flesch reading ease.
+- terminate(message: str): End the agent loop and print a summary.
 
 Every response MUST have an action.
 Respond in this format:
@@ -598,6 +686,32 @@ Respond in this format:
         elif action["tool_name"] == "terminate":
             print(action["args"].get("message", "Terminating agent."))
             break
+        elif action["tool_name"] == "nlp_ner":
+            result = {"result": nlp_ner(action["args"].get("text", ""))}
+        elif action["tool_name"] == "nlp_pos":
+            result = {"result": nlp_pos(action["args"].get("text", ""))}
+        elif action["tool_name"] == "nlp_summarize":
+            result = {"result": nlp_summarize(action["args"].get("text", ""))}
+        elif action["tool_name"] == "nlp_sentiment":
+            result = {"result": nlp_sentiment(action["args"].get("text", ""))}
+        elif action["tool_name"] == "nlp_textblob_sentiment":
+            result = {"result": nlp_textblob_sentiment(action["args"].get("text", ""))}
+        elif action["tool_name"] == "nlp_token_count":
+            result = {"result": nlp_token_count(action["args"].get("text", ""))}
+        elif action["tool_name"] == "nlp_word_count":
+            result = {"result": nlp_word_count(action["args"].get("text", ""))}
+        elif action["tool_name"] == "nlp_unique_words":
+            result = {"result": nlp_unique_words(action["args"].get("text", ""))}
+        elif action["tool_name"] == "nlp_tfidf_keywords":
+            result = {"result": nlp_tfidf_keywords(action["args"].get("text", ""), action["args"].get("top_n", 5))}
+        elif action["tool_name"] == "nlp_topic_modeling":
+            result = {"result": nlp_topic_modeling(action["args"].get("text", ""), action["args"].get("n_topics", 2))}
+        elif action["tool_name"] == "nlp_semantic_similarity":
+            result = {"result": nlp_semantic_similarity(action["args"].get("text1", ""), action["args"].get("text2", ""))}
+        elif action["tool_name"] == "nlp_language_detection":
+            result = {"result": nlp_language_detection(action["args"].get("text", ""))}
+        elif action["tool_name"] == "nlp_readability":
+            result = {"result": nlp_readability(action["args"].get("text", ""))}
         else:
             result = {"error": "Unknown action: " + str(action["tool_name"])}
         print(f"Action result: {result}")

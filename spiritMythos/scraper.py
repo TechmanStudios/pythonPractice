@@ -29,6 +29,7 @@ def crawl(url):
     print(f"Crawling: {url}")
     try:
         ext = os.path.splitext(url)[1].lower()
+        soup = None
         if ext == ".pdf":
             print(f"  Downloading and extracting PDF: {url}")
             text = extract_pdf_text(url)
@@ -49,17 +50,18 @@ def crawl(url):
             print(f"  Saving text from: {url}")
             with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
                 f.write(f"URL: {url}\n{text}\n\n")
-        # Find and crawl relevant links
-        for link in soup.find_all("a", href=True):
-            next_url = urljoin(url, link["href"])
-            parsed = urlparse(next_url)
-            if parsed.scheme not in ("http", "https"):
-                continue
-            if is_relevant_link(next_url, BASE_URL):
-                if next_url not in VISITED:
-                    ALL_LINKS.add(next_url)
-                    print(f"    Found internal link: {next_url}")
-                    crawl(next_url)
+        # Find and crawl relevant links only if soup exists
+        if soup is not None:
+            for link in soup.find_all("a", href=True):
+                next_url = urljoin(url, link["href"])
+                parsed = urlparse(next_url)
+                if parsed.scheme not in ("http", "https"):
+                    continue
+                if is_relevant_link(next_url, BASE_URL):
+                    if next_url not in VISITED:
+                        ALL_LINKS.add(next_url)
+                        print(f"    Found internal link: {next_url}")
+                        crawl(next_url)
         time.sleep(1)  # Be polite to the server
     except Exception as e:
         print(f"Error crawling {url}: {e}")

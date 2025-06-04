@@ -14,5 +14,5 @@ This project scrapes and archives relevant text from http://www.spiritmythos.org
    python scraper.py
 
 ## Notes
-- Adjust filtering logic in text_cleaner.py as needed for best results.
+- Customize filtering by modifying the `clean_text` and `is_relevant_link` helper functions referenced in `scraper.py` and `crawler.py`.
 - Be respectful: the script includes a delay between requests.

@@ -5,7 +5,8 @@ from your_module import parse_archival_document  # Replace your_module
 class TestParseArchivalDocument(unittest.TestCase):
 
     def test_empty_document(self):
-        self.assertEqual(parse_archival_document(""), {})
+        expected = {'metadata': {}, 'themes': [], 'content_blocks': []}
+        self.assertEqual(parse_archival_document(""), expected)
 
     def test_basic_metadata_extraction(self):
         document = "Date: 1923-04-01\nOrigin: Some Monastery\nContent: Some text here."
@@ -14,7 +15,7 @@ class TestParseArchivalDocument(unittest.TestCase):
             'themes': [],
             'content_blocks': ['Date: 1923-04-01\nOrigin: Some Monastery\nContent: Some text here.']
         }
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        self.assertEqual(parse_archival_document(document), expected)
 
     def test_metadata_with_no_content(self):
         document = "Date: 1888-12-25\nOrigin: Unknown Source"
@@ -23,7 +24,7 @@ class TestParseArchivalDocument(unittest.TestCase):
             'themes': [],
             'content_blocks': ['Date: 1888-12-25\nOrigin: Unknown Source']
         }
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        self.assertEqual(parse_archival_document(document), expected)
 
     def test_theme_detection(self):
         document = "Text about Spirituality and Enlightenment."
@@ -32,7 +33,7 @@ class TestParseArchivalDocument(unittest.TestCase):
             'themes': [],
             'content_blocks': ["Text about Spirituality and Enlightenment."]
         }
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        self.assertEqual(parse_archival_document(document), expected)
 
 
     def test_content_blocks_simple(self):
@@ -43,7 +44,7 @@ class TestParseArchivalDocument(unittest.TestCase):
             'content_blocks': ['Block 1: Some content.\n\nBlock 2: More content.']
         }
 
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        self.assertEqual(parse_archival_document(document), expected)
 
     def test_mixed_metadata_themes_content(self):
         document = "Date: 1776-07-04\nOrigin: Philadelphia\nSpirituality and Enlightenment content here.\n\nNew Block."
@@ -52,7 +53,7 @@ class TestParseArchivalDocument(unittest.TestCase):
             'themes': ['Spirituality', 'Enlightenment'],
             'content_blocks': ['Date: 1776-07-04\nOrigin: Philadelphia\nSpirituality and Enlightenment content here.\n\nNew Block.']
         }
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})  # Corrected assertion
+        self.assertEqual(parse_archival_document(document), expected)  # Corrected assertion
 
     def test_no_metadata_or_themes(self):
         document = "Just some plain text without any metadata or themes."
@@ -61,7 +62,7 @@ class TestParseArchivalDocument(unittest.TestCase):
             'themes': [],
             'content_blocks': ["Just some plain text without any metadata or themes."]
         }
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        self.assertEqual(parse_archival_document(document), expected)
 
     def test_long_document(self):
         document = "Date: 2023-10-26\nOrigin: Internet\nThis is a very long document with multiple paragraphs.\n\nIt talks about Spirituality and Enlightenment.  More and more content to test the parsing.\n\nAnother Block of text."
@@ -70,36 +71,71 @@ class TestParseArchivalDocument(unittest.TestCase):
             'themes': ['Spirituality', 'Enlightenment'],
             'content_blocks': ['Date: 2023-10-26\nOrigin: Internet\nThis is a very long document with multiple paragraphs.\n\nIt talks about Spirituality and Enlightenment.  More and more content to test the parsing.\n\nAnother Block of text.']
         }
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        self.assertEqual(parse_archival_document(document), expected)
 
     def test_metadata_at_end_of_document(self):
         document = "Some content here.\nDate: 1600-01-01\nOrigin: Someplace"
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        expected = {
+            'metadata': {'date': '1600-01-01', 'origin': 'Someplace'},
+            'themes': [],
+            'content_blocks': [document]
+        }
+        self.assertEqual(parse_archival_document(document), expected)
 
 
     def test_special_characters_in_document(self):
         document = "Date: 1900-01-01\nOrigin: Somewhere!@#$\nContent: This is some text with special characters like !@#$%^&*()_+=-`~[]\{}|;':\",./<>?"
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        expected = {
+            'metadata': {'date': '1900-01-01', 'origin': 'Somewhere'},
+            'themes': [],
+            'content_blocks': [document]
+        }
+        self.assertEqual(parse_archival_document(document), expected)
 
     def test_newline_characters_within_blocks(self):
         document = "Block 1:\nSome\nContent.\n\nBlock 2:\nMore\nContent."
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        expected = {
+            'metadata': {},
+            'themes': [],
+            'content_blocks': ['Block 1:\nSome\nContent.', 'Block 2:\nMore\nContent.']
+        }
+        self.assertEqual(parse_archival_document(document), expected)
 
     def test_only_themes_present(self):
         document = "Spirituality Enlightenment"
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        expected = {
+            'metadata': {},
+            'themes': [],
+            'content_blocks': [document]
+        }
+        self.assertEqual(parse_archival_document(document), expected)
 
     def test_invalid_date_format(self):
         document = "Date: January 1, 2023\nContent: Text here."
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        expected = {
+            'metadata': {},
+            'themes': [],
+            'content_blocks': [document]
+        }
+        self.assertEqual(parse_archival_document(document), expected)
 
     def test_origin_with_multiple_words(self):
         document = "Origin: Place of Origin\nContent: Some content"
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        expected = {
+            'metadata': {'origin': 'Place of Origin'},
+            'themes': [],
+            'content_blocks': [document]
+        }
+        self.assertEqual(parse_archival_document(document), expected)
 
     def test_document_with_empty_lines(self):
         document = "\n\nDate: 2024-01-01\n\nOrigin: Somewhere\n\nContent: Some Text\n\n"
-        self.assertEqual(parse_archival_document(document), {'metadata': {}, 'themes': [], 'content_blocks': [document]})
+        expected = {
+            'metadata': {'date': '2024-01-01', 'origin': 'Somewhere'},
+            'themes': [],
+            'content_blocks': ['Date: 2024-01-01', 'Origin: Somewhere', 'Content: Some Text']
+        }
+        self.assertEqual(parse_archival_document(document), expected)
 if __name__ == '__main__':
     unittest.main()
 

@@ -1,0 +1,65 @@
+---
+title: The Ark Song
+subtitle: Initiation from the Thoth Akasha
+author: Maia Nartoomid
+collection: Maia Nartoomid Substack
+source_url: "https://maianartoomid.substack.com/p/the-ark-song?utm_source=substack&utm_medium=email&utm_content=share&action=share"
+feed_url: "https://maianartoomid.substack.com/feed"
+base_url: "https://maianartoomid.substack.com"
+slug: "the-ark-song"
+published_at: "2024-12-06T19:22:52.956Z"
+scraped_at: "2025-11-22T09:31:12.136786+00:00"
+likes: 0
+word_count: 314
+spiritual_tags:
+  - Templar
+  - Activation Rite
+  - Akashic Practice
+  - Thoth
+  - Light Codes
+  - Star Lineages
+lineages:
+  - Templar
+modalities:
+  - Activation Rite
+  - Akashic Practice
+beings:
+  - Thoth
+themes:
+  - Light Codes
+  - Star Lineages
+images: []
+---
+
+# The Ark Song
+
+## Initiation from the Thoth Akasha
+
+**2024-12-06T19:22:52.956Z**
+
+**Likes:** 0
+
+I have released this Thoth Akasha Riddle before. But this is a re\-do with new art and music. Far
+more powerful as a true initiation. Not a riddle you need to solve but one that carries you on wings
+of LIGHT into the heart of your Promised Land. The ARK of this song/riddle is of course the first
+Ark, which Thoth calls the "Sacred An."
+
+[https://www.youtube-nocookie.com/embed/OXw6FSQWBcI?rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0](https://www.youtube-nocookie.com/embed/OXw6FSQWBcI?rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0)
+
+Subscribe
+
+[Share](https://maianartoomid.substack.com/p/the-ark-song?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+**\~\~\~\~\~  
+[Personal Akasha Life Pulse from Thoth \&
+Sha’Maia:](https://newearthstar.org/about-maia/akashic-consultations/) Helps you to synchronize
+with this fundamental cosmic rhythm, and also reflects how your "Life Pulse" session connects you to
+your New Earth Star frequency. Both written (5\-6 pages) and a live Zoom exploration. \~\~\~\~\~**
+
+**All my Substack images and articles are FREE. Please help me promote them. Support my work further, by considering some of my paid offerings (consultations \& activation store) and donations.**
+
+**[my website](http://newearthstar.org/) / [YouTube channel](https://www.youtube.com/@bluestarrising-thetemplara3835) / [Akasha Life Pulse Sessions](https://newearthstar.org/about-maia/akashic-consultations/)/ [Maia’s Redbubble](https://www.redbubble.com/people/maianartoomid/explore?asc=u&page=1&sortOrder=recent) / [published works](https://newearthstar.org/published-works/) / [activation store](https://newearthstar.org/maias-activation-store/)**
+
+**(personal art templates for healing \& self\-discovery)**
+
+**[MONTHLY DONATIONS](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=SKZ4FZCYBM4H4): Donate $20 or more per month and you will have access to the [Vault of Thoth](https://newearthstar.org/vault-of-thoth/). Thank you!**

@@ -1,0 +1,7 @@
+# Example dependencies for the project
+openai
+moviepy
+gtts
+requests
+google-api-python-client
+# Add others as needed (e.g., ffmpeg-python, pyttsx3, etc.)

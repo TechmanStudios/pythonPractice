@@ -1,0 +1,5367 @@
+
+     
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+  
+
+SUN TZU
+
+  
+
+ON THE
+
+  
+
+ART OF WAR
+
+  
+
+THE OLDEST MILITARY TREATISE IN THE WORLD
+
+  
+
+TRANSLATED FROM THE CHINESE WITH INTRODUCTION AND CRITICAL NOTES
+
+  
+
+BY
+
+  
+
+LIONEL GILES, M.A.
+
+  
+
+Assistant in the Department of Oriental Printed Books & MSS. in the British Museum.
+
+  
+
+London: Luzac and Co.
+
+  
+
+[1910]
+
+Scanned, proofed and formatted by John Bruno Hare at sacred-texts.com, August 2008. This text is in the public domain because it was published prior to 1923.
+
+To my brother
+ Captain Valentine Giles, R.C.
+ in the hope that
+ a work 2400 years old
+ may yet contain lessons worth consideration
+ by the soldier of today
+ this translation
+ is affectionately dedicated.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+  
+
+CONTENTS
+
+         	 
+
+      	Page
+
+     
+     	PREFACE
+
+      	<page vii>
+
+     
+     	INTRODUCTION
+
+      	 
+
+     
+     	    Sun Wu and his Book
+
+      	<page xi>
+
+     
+     	    The Text of Sun Tzu
+
+      	<page xxx>
+
+     
+     	    The Commentators
+
+      	<page xxxiv>
+
+     
+     	    Appreciations of Sun Tzu
+
+      	<page xlii>
+
+     
+     	    Apologies for war
+
+      	<page xliii>
+
+     
+     	    Bibliography
+
+      	<page l>
+
+     
+     	Chap. I. Laying Plans
+
+      	<page 1>
+
+     
+     	Chap. II. Waging War
+
+      	<page 9>
+
+     
+     	Chap. III. Attack by Stratagem
+
+      	<page 17>
+
+     
+     	Chap. IV. Tactical Dispositions
+
+      	<page 26>
+
+     
+     	Chap. V. Energy
+
+      	<page 33>
+
+     
+     	Chap. VI. Weak Points and Strong
+
+      	<page 42>
+
+     
+     	Chap. VII. Manoeuvring
+
+      	<page 55>
+
+     
+     	Chap. VIII. Variation of Tactics
+
+      	<page 71>
+
+     
+     	Chap. IX. The Army on the March
+
+      	<page 80>
+
+     
+     	Chap. X. Terrain
+
+      	<page 100>
+
+     
+     	Chap. XI. The Nine Situations
+
+      	<page 114>
+
+     
+     	Chap. XII. The Attack by Fire
+
+      	<page 150>
+
+     
+     	Chap. XIII. The Use of Spies
+
+      	<page 160>
+
+     
+     	CHINESE CONCORDANCE
+
+      	<page 176>
+
+     
+     	INDEX
+
+      	<page 192>
+
+     
+   
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. vi] [p. vii]
+
+  
+
+PREFACE
+
+The seventh volume of "Memoires concernant l'histoire, les sciences, les arts, les moeurs, les usages, &c., des Chinois" [*1] is devoted to the Art of War, and contains, amongst other treatises, "Les Treize Articles de Sun-tse," translated from the Chinese by a Jesuit Father, Joseph Amiot. Pere Amiot appears to have enjoyed no small reputation as a sinologue in his day, and the field of his labours was certainly extensive. But his so-called translation of Sun Tzu, if placed side by side with the original, is seen at once to be little better than an imposture. It contains a great deal that Sun Tzu did not write, and very little indeed of what he did. Here is a fair specimen, taken from the opening sentences of chapter 5:--
+
+De l'habilete dans le gouvernement des Troupes. Sun-tse dit: Ayez les noms de tous les Officiers tant generaux que subalternes; inscrivez-les dans un catalogue a part, avec la note des talents & de la capacite de chacun d'eux, afin de pouvoir les employer avec avantage lorsque l'occasion en sera venue. Faites en sorte que tous ceux que vous devez commander soient persuades que votre principale attention est de les preserver de tout dommage. Les troupes que vous ferez avancer contre l'ennemi doivent etre comme des pierres que vous lanceriez contre des oeufs. De vous a l'ennemi il ne doit y avoir d'autre difference que celle du fort au foible, du vuide au plein. Attaquez a decouvert, mais soyez vainqueur en secret. Voila en peu de mots en quoi consiste l'habilete & toute la perfection meme du gouvernement des troupes.
+
+Throughout the nineteenth century, which saw a wonderful development in the study of Chinese literature, no translator ventured to tackle Sun Tzu, although his work was known to be highly valued in China as by far the
+
+[p. viii]
+
+oldest and best compendium of military science. It was not until the year 1905 that the first English translation, by Capt. E. F. Calthrop, R.F.A., appeared at Tokyo under the title "Sonshi" (the Japanese form of Sun Tzu). [*1] Unfortunately, it was evident that the translator's knowledge of Chinese was far too scanty to fit him to grapple with the manifold difficulties of Sun Tzu. He himself plainly acknowledges that without the aid of two Japanese gentlemen "the accompanying translation would have been impossible." We can only wonder, then, that with their help it should have been so excessively bad. It is not merely a question of downright blunders, from which none can hope to be wholly exempt. Omissions were frequent; hard passages were wilfully distorted or slurred over. Such offences are less pardonable. They would not be tolerated in any edition of a Greek or Latin classic, and a similar standard of honesty ought to be insisted upon in translations from Chinese.
+
+From blemishes of this nature, at least, I believe that the present translation is free. It was not undertaken out of any inflated estimate of my own powers; but I could not help feeling that Sun Tzu deserved a better fate than had befallen him, and I knew that, at any rate, I could hardly fail to improve on the work of my predecessors. Towards the end of 1908, a new and revised edition of Capt. Calthrop's translation was published in London, this time however, without any allusion to his Japanese collaborators. My first three chapters were then already in the printer's hands, so that the criticisms of Capt. Calthrop therein contained must be understood as referring to his earlier edition. In the subsequent chapters I have of course transferred my attention to the second edition. This is on the whole an improvement on the other, though there still remains much that cannot pass
+
+[p. ix]
+
+muster. Some of the grosser blunders have been rectified and lacunae filled up, but on the other hand a certain number of new mistakes appear. The very first sentence of the introduction is startlingly inaccurate; and later on, while mention is made of "an army of Japanese commentators" on Sun Tzu (who are these, by the way?), not a word is vouchsafed about the Chinese commentators, who nevertheless, I venture to assert, form a much more numerous and infinitely more important "army."
+
+A few special features of the present volume may now be noticed. In the first place, the text has been cut up into numbered paragraphs, both in order to facilitate cross-reference and for the convenience of students generally. The division follows broadly that of Sun Hsing-yen's edition; but I have sometimes found it desirable to join two or more of his paragraphs into one. In quoting from other works, Chinese writers seldom give more than the bare title by way of reference, and the task of research is apt to be seriously hampered in consequence. With a view to obviating this difficulty so far as Sun Tzu is concerned, I have also appended a complete concordance of Chinese characters, following in this the admirable example of Legge, though an alphabetical arrangement has been preferred to the distribution under radicals which he adopted. Another feature borrowed from "The Chinese Classics" is the printing of text, translation and notes on the same page; the notes, however, are inserted, according to the Chinese method, immediately after the passages to which they refer. From the mass of native commentary my aim has been to extract the cream only, adding the Chinese text here and there when it seemed to present points of literary interest. Though constituting in itself an important branch of Chinese literature, very little commentary of this kind has hitherto been made directly accessible by translation. [*1]
+
+I may say in conclusion that, owing to the printing off of my sheets as they were completed, the work has not had the benefit of a final revision. On a review of the whole, without modifying the substance of my criticisms, I might have been inclined in a few instances to temper their asperity. Having chosen to wield a bludgeon, however, I shall not cry out if in return I am visited with more than a rap over the knuckles. Indeed, I have been at some pains to put a sword into the hands of future opponents by scrupulously giving either text or reference for every passage translated. A scathing review, even from the pen of the Shanghai critic who despises "mere translations," would not, I must confess, be altogether unwelcome. For, after all, the worst fate I shall have to dread is that which befel the ingenious paradoxes of George in The Vicar of Wakefield.
+
+Footnotes
+
+^vii:1 Published at Paris in 1782.
+
+^viii:1 A rather distressing Japanese flavour pervades the work throughout. Thus, King Ho Lu masquerades as "Katsuryo," Wu and Yueh become "Go" and "Etsu," etc. etc.
+
+^ix:1 A notable exception is to be found in Biot's edition of the Chou Li.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. xi]
+
+  
+
+INTRODUCTION
+
+  
+
+SUN WU AND HIS BOOK.
+
+Ssu-ma Ch'ien gives the following biography of Sun Tzu: [*1]--
+
+# Sun Tzu Wu was a native of the Ch'i State. His Art of War brought him to the notice of # Ho Lu, [*2] King of # Wu. Ho Lu said to him: I have carefully perused your 13 chapters. May I submit your theory of managing soldiers to a slight test?--Sun Tzu replied: You may.--Ho Lu asked: May the test be applied to women?--The answer was again in the affirmative, so arrangements were made to bring 180 ladies out of the Palace. Sun Tzu divided them into two companies, and placed one of the King's favourite concubines at the head of each. He then bade them all take spears in their hands, and addressed them thus: I presume you know the difference between front and back, right hand and left hand?--The girls replied: Yes.--Sun Tzu went on: When I say "Eyes front," you must look straight ahead. When I say "Left turn," you must face towards your left hand. When I say "Right turn," you must face towards your right hand. When I say "About turn," you must face right round towards the back.--Again the girls assented. The words of command having been thus explained, he set up the halberds and battle axes in order to begin the drill. Then, to the sound of drums, he gave the order "Right turn." But the girls only burst out laughing. Sun Tzu said: If words of command are not clear and distinct, if orders are not thoroughly understood, then the general is to blame.--So he started drilling them again, and this time gave the order "Left turn," whereupon the girls once more burst into fits of laughter. Sun Tzu said: If words of command are not clear and distinct, if orders are not thoroughly understood, the general is co blame. But if his orders are clear, and the soldiers nevertheless disobey, then it is the fault of their officers.--So saying, he ordered the leaders of the two companies to be beheaded. Now the King of Wu was watching the
+
+[p. xii]
+
+scene from the top of a raised pavilion; and when he saw that his favourite concubines were about to be executed, he was greatly alarmed and hurriedly sent down the following message: We are now quite satisfied as to our general's ability to handle troops. If We are bereft of these two concubines, our meat and drink will lose their savour. It is our wish that they shall not be beheaded.--Sun Tzu replied: Having once received His Majesty's commission to be general of his forces, there are certain commands of His Majesty which, acting in that capacity, I am unable to accept.--Accordingly, he had the two leaders beheaded, and straightway installed the pair next in order as leaders in their place. When this had been done, the drum was sounded for the drill once more; and the girls went through all the evolutions, turning to the right or to the left, marching ahead or wheeling back, kneeling or standing, with perfect accuracy and precision, not venturing to utter a sound. Then Sun Tzu sent a messenger to the King saying: Your soldiers, Sire, are now properly drilled and disciplined, and ready for Your Majesty's inspection. They can be put to any use that their sovereign may desire; bid them go through fire and water, and they will not disobey.--But the King replied: Let our general cease drilling and return to camp. As for us, We have no wish to come down and inspect the troops.--Thereupon Sun Tzu said. The King is only fond of words, and cannot translate them into deeds.--After that, Ho Lu saw that Sun Tzu was one who knew how to handle an army, and finally appointed him general. In the West, he defeated the Ch'u State and forced his way into Ying, the capital; to the north, he put fear into the States of Ch'i and Chin, and spread his fame abroad amongst the feudal princes. And Sun Tzu shared in the might of the King.
+
+About Sun Tzu himself this is all that Ssu-ma Ch'ien has to tell us in this chapter. But he proceeds to give a biography of his descendant, # Sun Pin, born about a hundred years after his famous ancestor's death, and also the outstanding military genius of his time. The historian speaks of him too as Sun Tzu, and in his preface we read: # "Sun Tzu had his feet cut off and yet continued to discuss the art of war." [*1] It seems likely, then, that "Pin" was a nickname bestowed on him after his mutilation, unless indeed the story was invented in order to account for the name. The crowning incident of his career, the crushing defeat of his treacherous rival P'ang Chuan, will be found briefly related on p. 40.
+
+[p. xiii]
+
+To return to the elder Sun Tzu. He is mentioned in two other passages of the Shih Chi:--
+
+In the third year of his reign [512 B.C.] Ho Lu, King of Wu, took the field with # Tzu-hsu [i.e. # Wu Yuan] and # Po P'ei, and attacked Ch'u. He captured the town of # Shu and slew the two prince's sons who had formerly been generals of Wu. He was then meditating a descent on # Ying [the capital]; but the general Sun Wu said: "The army is exhausted. [*1] It is not yet possible. We must wait"... [*2] [After further successful fighting,] "in the ninth year [506 B.C.], King Ho Lu of Wu addressed Wu Tzu-hsu and Sun Wu, saying: "Formerly, you declared that it was not yet possible for us to enter Ying. Is the time ripe now?" The two men replied: "Ch'u's general, # Tzu-ch'ang, [*3] is grasping and covetous, and the princes of # T'ang and Ts'ai both have a grudge against him. If Your Majesty has resolved to make a grand attack, you must win over Tang and Ts'ai, and then you may succeed." Ho Lu followed this advice, [beat Ch'u in five pitched battles and marched into Ying]. [*4]
+
+This is the latest date at which anything is recorded of Sun Wu. He does not appear to have survived his patron, who died from the effects of a wound in 496.
+
+In the chapter entitled # (the earlier portion of which M. Chavannes believes to be a fragment of a treatise on Military Weapons), there occurs this passage: [*5]
+
+From this time onward, a number of famous soldiers arose, one after the other: # Kao-fan, [*6] who was employed by the Chin State; Wang-tzu, [*7] in the service of Ch'i; and Sun Wu, in the service of Wu. These men developed and threw light upon the principles of war (#).
+
+[p. xiv]
+
+It is obvious that Ssu-ma Ch'ien at least had no doubt about the reality of Sun Wu as an historical personage; and with one exception, to be noticed presently, he is by far the most important authority on the period in question. It will not be necessary, therefore, to say much of such a work as the # Wu Yueh Ch'un Ch'iu, which is supposed to have been written by # Chao Yeh of the 1st century A.D. The attribution is somewhat doubtful; but even if it were otherwise, his account would be of little value, based as it is on the Shih Chi and expanded with romantic details. The story of Sun Tzu will be found, for what it is worth, in chapter 2. The only new points in it worth noting are: 1) Sun Tzu was first recommended to Ho Lu by Wu Tzu-hsu. 2) He is called a native of Wu. [*1] 3) He had previously lived a retired life, and his contemporaries were unaware of his ability. [*2]
+
+The following passage occurs in # Huai-nan Tzu: "When sovereign and ministers show perversity of mind, it is impossible even for a Sun Tzu to encounter the foe." [*3] Assuming that this work is genuine (and hitherto no doubt has been cast upon it), we have here the earliest direct reference, to Sun Tzu, for Huai-nan Tzu died in 122 B.C., many years before the Shih Chi was given to the world.
+
+# Liu Hsiang (B.C. 80-9) in his # says: "The reason why Sun Wu at the head of 30,000 men beat
+
+[p. xv]
+
+[paragraph continues] Ch'u with 200,000 is that the latter were undisciplined." [*1]
+
+# Teng Ming-shih in his # (completed in 1134) informs us that the surname was bestowed on Sun Wu's grandfather by # Duke Ching of Ch'i [547-490 B.C.]. Sun Wu's father Sun # Ping, rose to be a Minister of State in Chi, and Sun Wu himself, whose style was # Ch'ang-ch'ing, fled to Wu on account of the rebellion which was being fomented by the kindred of # T'ien Pao. He had three sons, of whom the second, named # Ming, was the father of Sun Pin. According to this account, then, Pin was the grandson of Wu, [*2] which, considering that Sun Pin's victory over in Wei was gained in 341 B.C., may be dismissed as chronologically impossible. Whence these data were obtained by Teng Ming-shih I do not know, but of course no reliance whatever can be placed in them.
+
+An interesting document which has survived from the close of the Han period is the short preface written by the great # Ts'ao Ts'ao, or # Wei Wu Ti, for his edition of Sun Tzu. I shall give it in full:--
+
+I have heard that the ancients used bows and arrows to their advantage. [*3] The Lun Yu says: "There must be a sufficiency of military strength." [*4] The Shu Ching mention "the army" among the "eight objects of government." [*5] The I Ching says: "# 'army' indicates firmness and justice; the experienced leader will have good fortune." [*6]
+
+[p. xvi]
+
+[paragraph continues] The Shih Ching says: "The King rose majestic in his wrath, and he marshalled his troops" [*1] The Yellow Emperor, Tang the Completer and Wu Wang all used spears and battle-axes in order to succour their generation. The Ssu-ma Fa says: "If one man slay another of set purpose, he himself may rightfully be slain." [*2] He who relies solely on warlike measures shall be exterminated; he who relies solely on peaceful measures shall perish. Instances of this are Fu Ch'ai [*3] on the one hand and Yen Wang [*4] on the other. In military matters, the Sage's rule is normally to keep the peace, and to move his forces only when occasion requires. He will not use armed force unless driven to it by necessity. [*5]
+
+Many books have I read on the subject of war and fighting; but the work composed by Sun Wu is the profoundest of them all. [Sun Tzu was a native of the Ch'i state, his personal name was Wu. He wrote the Art of War in 13 chapters for Ho Lu, King of Wu. Its principles were tested on women, and he was subsequently made a general. He led an army westwards, crushed the Ch'u State and entered Ying the capital. In the north, he kept Ch'i and Chin in awe.. A hundred years and more after his time, Sun Pin lived. He was a descendant of Wu]. [*6] In his treatment of deliberation and planning, the importance of rapidity in taking the field, [*7] clearness of conception, and depth of design, Sun
+
+[p. xvii]
+
+[paragraph continues] Tzu stands beyond the reach of carping criticism. My contemporaries, however, have failed to grasp the full meaning of his instructions, and while putting into practice the smaller details in which his work abounds, they have overlooked its essential purport. That is the motive which has led me to outline a rough explanation of the whole.  [*1]
+
+One thing to be noticed in the above is the explicit statement that the 13 chapters were specially composed for King Ho Lu. This is supported by the internal evidence of I.  section 15, in which it seems clear that some ruler is addressed.
+
+In the bibliographical section of the Han Shu, [*2] there is an entry which has given rise to much discussion: # "The works of Sun Tzu of Wu in 82 p'ien (or chapters), with diagrams in 9 chuan." It is evident that this cannot be merely the 13 chapters known to Ssu-ma Ch'ien, or those we possess to-day. Chang Shou-chieh in his # refers to an edition of Sun Tzu's # of which the "13 chapters" formed the first chuan, adding that there were two other chuan besides. [*3] This has brought forth a theory, that the bulk of these 82 chapters consisted of other writings of Sun Tzu--we should call them apocryphal--similar to the # Wen Ta, of which a specimen dealing with the Nine Situations [*4] is preserved in the # T'ung Tien, and another in Ho Shih's commentary. It is suggested
+
+[p. xviii]
+
+that before his interview with Ho Lu, Sun Tzu had only written the 13 chapters, but afterwards composed a sort of exegesis in the form of question and answer between himself and the King. # Pi I-hsun, author of the # Sun Tzu Hsu Lu, backs this up with a quotation from the Wu Yueh Ch'un Ch'iu: "The King of Wu summoned Sun Tzu, and asked him questions about the art of war. Each time he set forth a chapter of his work, the King could not find words enough to praise him." [*1] As he points out, if the whole work was expounded on the same scale as in the above-mentioned fragments. the total number of chapters could not fail to be considerable. [*2] Then the numerous other treatises attributed to Sun Tzu [*3] might also be included. The fact that the Han Chih mentions no work of Sun Tzu except the 82 p'ien, whereas the Sui and T'ang bibliographies give the titles of others in addition to the "13 chapters," is good proof, Pi I-hsun thinks, that all of these were contained in the 82 p'ien. Without pinning our faith to the accuracy of details supplied by the Wu Yueh Ch'un Ch'iu, or admitting the genuineness of any of the treatises cited by Pi I-hsun, we may see in this theory a probable solution of the mystery. Between Ssu-ma Ch'ien and Pan Ku there was plenty of time for a luxuriant crop of forgeries to have grown up under the magic name of Sun Tzu, and the 82 p'ien may very well represent a collected edition of these lumped together with the original work.
+
+[p. xix]
+
+[paragraph continues] It is also possible, though less likely, that some of them existed in the time of the earlier historian and were purposely ignored by him. [*1]
+
+Tu Mu, after Ts'ao Kung the most important commentator on Sun Tzu, composed the preface to his edition [*2] about the middle of the ninth century. After a somewhat lengthy defence of the military art, [*3] he comes at last to Sun Tzu himself, and makes one or two very startling assertions:--"The writings of Sun Wu," he says, "originally comprised several hundred thousand words, but Ts'ao Ts'ao, the Emperor Wu Wei, pruned away all redundancies and wrote out the essence of the whole, so as to form a single book in 13 chapters." [*4] He goes on to remark that Ts'ao Ts'ao's commentary on Sun Tzu leaves a certain proportion of difficulties unexplained. This, in Tu Mu's opinion, does not necessarily imply that he was unable to furnish a complete commentary. [*5] According to the Wei Chih, Ts'ao himself wrote a book on war in something over 100,000 words, known as the # . It appears to have been of such exceptional merit that he suspects Ts'ao to have used for it the surplus material which he had found in Sun Tzu. He concludes, however, by saying: "The Hsin Shu is now lost, so that the truth cannot be known for certain." [*6]
+
+Tu Mu's conjecture seems to be based on a passage
+
+[p. xx]
+
+in the # "Wei Wu Ti strung together Sun Wu's Art of War," [*1] which in turn may have resulted from a misunderstanding of the final words of Ts'ao Kung's preface: #. This, as Sun Hsing-yen points out, [*2] is only a modest way of saying that he made an explanatory paraphrase, [*3] or in other words, wrote a commentary on it. On the whole, the theory has met with very little acceptance. Thus, the # says: [*4] "The mention of the 13 chapters in the Shih Chi shows that they were in existence before the Han Chih, and that later accretions are not to be considered part of the original work. Tu Mu's assertion can certainly not be taken as proof." [*5]
+
+There is every reason to suppose, then, that the 13 chapters existed in the time of Ssu-ma Ch'ien practically as we have them now. That the work was then well known he tells us in so many words: "Sun Tzu's 13 Chapters and Wu Ch'i's Art of War are the two books that people commonly refer to on the subject of military matters. Both of then are widely distributed, so I will not discuss them here." [*6] But as we go further back, serious difficulties begin to arise. The salient fact which has to be faced is that the Tso Chuan, the great contemporary record, makes no mention whatever of Sun
+
+[p. xxi]
+
+[paragraph continues] Wu, either as a general or as a writer. It is natural, in view of this awkward circumstance, that many scholars should not only cast doubt on the story of Sun Wu as given in the Shih Chi, but even show themselves frankly sceptical as to the existence of the man at all. The most powerful presentment of this side of the case is to be found in the following disquisition by # Yeh Shui-hsin: [*1]--
+
+It is stated in Ssu-ma Ch'ien's history that Sun Wu was a native of the Ch'i State, and employed by Wu; and that in the reign of Ho Lu he crushed Ch'u, entered Ying, and was a great general. But in Tso's Commentary no Sun Wu appears at all. It is true that Tso's Commentary need not contain absolutely everything that other histories contain. But Tso has not omitted to mention vulgar plebeians and hireling ruffians such as Ying K'ao-shu, [*2] Ts'ao Kuei, [*3] Chu Chih-wu [*4] and Chuan She-chu. [*5] In the case of Sun Wu, whose fame and achievements were so brilliant, the omission is much more glaring. Again, details are given, in their due order, about his contemporaries Wu Yuan and the Minister Pei. [*6] is it credible that Sun Wu alone should have been passed over? [*7]
+
+In point of literary style, Sun Tzu's work belongs to the same school as Kuan Tzu, [*8] the Liu T'ao, [*9] and the Yueh Yu, [*10] and may have
+
+[p. xxii]
+
+been the production of some private scholar living towards the end of the "Spring and Autumn" or the beginning of the "Warring States" period. [*1] The story that his precepts were actually applied by the Wu State, is merely the outcome of big talk on the part of his followers. [*2]
+
+From the flourishing period of the Chou dynasty [*3] down to the time of the "Spring and Autumn," all military commanders were statesmen as well, and the class of professional generals, for conducting external campaigns, did not then exist. It was not until the period of the "Six States" [*4] that this custom changed. Now although Wu was an uncivilised State, is it conceivable that Tso should have left unrecorded the fact that Sun Wu was a great general and yet held no civil office? What we are told, therefore, about Jang-chu [*5] and Sun Wu, is not authentic matter, but the reckless fabrication of theorising pundits. The story of Ho Lu's experiment on the women, in particular, is utterly preposterous and incredible. [*6]
+
+Yeh Shui-hsin represents Ssu-ma Ch'ien as having said that Sun Wu crushed Ch'u and entered Ying. This is not quite correct. No doubt the impression left on the reader's mind is that he at least shared in these exploits; but the actual subject of the verbs #, #, # and # is certainly #, as is shown by the next words: #. [*7] The fact may or may not be significant; but it is nowhere explicitly stated in the Shih Chi either that Sun Tzu was general on the occasion of
+
+[p. xxiii]
+
+the taking of Ying, or that he even went there at all. Moreover, as we know that Wu Yuan and Po P'ei both took part in the expedition, and also that its success was largely due to the dash and enterprise of # Fu Kai, Ho Lu's younger brother, it is not easy to see how yet another general could have played a very prominent part in the same campaign.
+
+# Ch'en Chen-sun of the Sung dynasty has the note: [*1]--
+
+Military writers look upon Sun Wu as the father of their art. But the fact that he does not appear in the Tso Chuan, although he is said to have served under Ho Lu King of Wu, makes it uncertain what period he really belonged to. [*2]
+
+He also says:--
+
+The works of Sun Wu and Wu Ch'i may be of genuine antiquity.  [*3]
+
+It is noticeable that both Yeh Shui-hsin and Ch'en Chen-sun, while rejecting the personality of Sun Wu as he figures in Ssu-ma Ch'ien's history, are inclined to accept the date traditionally assigned to the work which passes under his name, The author of the Hsu Lu fails to appreciate this distinction, and consequently his bitter attack on Ch'en Chen-sun really misses its mark. He makes one or two points, however, which certainly tell in favour of the high antiquity of our "13 chapters." "Sun Tzu," he says, "must have lived in the age of Ching Wang [519-476], because he is frequently plagiarised in subsequent works of the Chou, Ch'in and Han dynasties." [*4]
+
+[p. xxiv]
+
+[paragraph continues] The two most shameless offenders in this respect are Wu Ch'i and Huai-nan Tzu, both of them important historical personages in their day. The former lived only a century after the alleged date of Sun Tzu, and his death is known to have taken place in 381 B.C. It was to him, according to Liu Hsiang, that # Tseng Shen delivered the Tso Chuan, which had been entrusted to him by its author. [*1] Now the fact that quotations from the Art of War, acknowledged or otherwise, are to be found in so many authors of different epochs, establishes a very strong probability that there was some common source anterior to them all,--in other words, that Sun Tzu's treatise was already in existence towards the end of the 5th century B.C. Further proof of Sun Tzu's antiquity is furnished by the archaic or wholly obsolete meanings attaching to a number of the words he uses. A list of these, which might perhaps be extended, is given in the Hsu Lu; and though some of the interpretations are doubtful, the main argument is hardly affected thereby. [*2] Again, it must not be forgotten that Yeh Shui-hsin, a scholar and critic of the first rank, deliberately pronounces the style of the 13 chapters to
+
+[p. xxv]
+
+belong to the early part of the fifth century. Seeing that he is actually engaged in an attempt to disprove the existence of Sun Wu himself, we may be sure that he would not have hesitated to assign the work to a later date had he not honestly believed the contrary. And it is precisely on such a point that the judgment of an educated Chinaman will carry most weight. Other internal evidence is not far to seek. Thus, in XIII.  section 1, there is an unmistakable allusion to the ancient system of land-tenure which had  passed away by the time of Mencius, who was anxious to see it revived in a modified form. [*1] The only warfare Sun Tzu knows is that carried on between the various feudal princes (#), in which armoured chariots play a large part. Their use seems to have entirely died out before the end of the Chou dynasty. He speaks as a man of Wu, a state which ceased to exist as early as 473 B.C. On this I shall touch presently.
+
+But once refer the work to the 5th century or earlier, and the chances of its being other than a bona fide production are sensibly diminished. The great age of forgeries did not come until long after. That it should have been forged in the period immediately following 473 is particularly unlikely, for no one, as a rule, hastens to identify himself with a lost cause. As for Yeh Shui-hsin's theory, that the author was a literary recluse, [*2] that seems to me quite untenable. If one thing is more apparent than another after reading the maxims of Sun Tzu, it is that their essence has been distilled from a large store of personal observation and experience. They reflect the mind not only of a born strategist, gifted with a rare faculty of generalisation, but also of a practical soldier closely acquainted with the military conditions of his time. To say nothing
+
+[p. xxvi]
+
+of the fact that these sayings have been accepted and endorsed by all the greatest captains of Chinese history, they offer a combination of freshness and sincerity, acuteness and common sense, which quite excludes the idea that they were artificially concocted in the study. If we admit, then, that the 13 chapters were the genuine production of a military man living towards the end of the "Ch'un Ch'iu" period, are we not bound, in spite of the silence of the Tso Chuan, to accept Ssu-ma Ch'ien's account in its entirety? In view of his high repute as a sober historian, must we not hesitate to assume that the records he drew upon for Sun Wu's biography were false and untrustworthy? The answer, I fear, must be in the negative. There is still one grave, if not fatal, objection to the chronology involved in the story as told in the Shih Chi, which, so far as I am aware, nobody has yet pointed out. There are two passages in Sun Tzu in which he alludes to contemporary affairs. The first is in VI.  section 21:--
+
+Though according to my estimate the soldiers of Yueh exceed our own in number, that shall advantage them nothing in the matter of victory. I say then that victory can be achieved.
+
+The other is in XI.  section 30:--
+
+Asked if an army can be made to imitate the shuai-jan, I should answer, Yes, For the men of Wu and the men of Yueh are enemies; yet if they are crossing a river in the same boat and are caught by a storm, they will come to each other's assistance just as the left hand helps the right.
+
+These two paragraphs are extremely valuable as evidence of the date of composition. They assign the work to the period of the struggle between Wu and Yueh. So much has been observed by Pi I-hsun. But what has hitherto escaped notice is that they also seriously impair the credibility of Ssu-ma Ch'ien's narrative. As we have seen above, the first positive date given in connection with Sun Wu is 512 B.C. He is then spoken of as a general, acting as confidential adviser to Ho Lu, so that his alleged introduction to that monarch had already taken place,
+
+[p. xxvii]
+
+and of course the 13 chapters must have been written earlier still. But at that time, and for several years after, down to the capture of Ying in 506, # Ch'u, and not Yueh, was the great hereditary enemy of Wu. The two states, Ch'u and Wu, had been constantly at war for over half a century, [*1] whereas the first war between Wu and Yueh was waged only in 510, [*2] and even then was no more than a short interlude sandwiched in the midst of the fierce struggle with Ch'u. Now Ch'u is not mentioned in the 13 chapters at all. The natural inference is that they were written at a time when Yueh had become the prime antagonist of Wu, that is, after Ch'u had suffered the great humiliation of 506. At this point, a table of dates may be found useful.
+
+       	B.C.
+
+      	 
+
+     
+     	514
+
+      	Accession of Ho Lu.
+
+     
+     	512
+
+      	Ho Lu attacks Ch'u, but is dissuaded from entering # Ying, the   capital. Shih Chi mentions Sun Wu   as general.
+
+     
+     	511
+
+      	Another attack on Ch'u.
+
+     
+     	510
+
+      	Wu makes a successful attack on Yueh. This is the first war between   the two states.
+
+     
+     	509
+   or
+   508
+
+      	Ch'u invades Wu, but is signally defeated at # Yu-chang.
+
+     
+     	506
+
+      	Ho Lu attacks Ch'u with the aid of T'ang and Ts'ai.   Decisive battle of # Po-chu, and capture of Ying. Last mention of Sun Wu   in Shih Chi.
+
+     
+     	505
+
+      	Yueh makes a raid on Wu in the absence of its army. Wu is beaten by   Chin and evacuates Ying.
+
+     
+     	504
+
+      	Ho Lu sends # Fu Ch'ai to attack Ch'u.
+
+     
+     	497
+
+      	# Kou Chien becomes King of Yueh.
+
+     
+     	496
+
+      	Wu attacks Yueh, but is defeated by Kou Chien at # Tsui-li. Ho Lu is   killed.
+
+     
+     	 
+
+      	[p. xxviii]
+
+     
+     	B.C.
+
+      	 
+
+     
+     	494
+
+      	Fu Ch'ai defeats Kou Chien in the great battle of # Fu-chiao, and   enters the capital of Yueh.
+
+     
+     	485 or 484
+
+      	Kou Chien renders homage to Wu. Death of Wu Tzu-hsu.
+
+     
+     	482
+
+      	Kou Chien invades Wu in the absence of Fu Ch'ai.
+
+     
+     	478-476
+
+      	Further attacks by Yueh on Wu.
+
+     
+     	475
+
+      	Kou Chien lays siege to the capital of Wu.
+
+     
+     	473
+
+      	Final defeat and extinction of Wu.
+
+     
+ The sentence quoted above from VI.  section 21 hardly strikes me as one that could have been written in the full flush of victory. It seems rather to imply that, for the moment at least, the tide had turned against Wu, and that she was getting the worst of the struggle. Hence we may conclude that our treatise was not in existence in 505, before which date Yueh does not appear to have scored any notable success against Wu. Ho Lu died in 496, so that if the book was written for him, it must have been during the period 505-496, when there was a lull in the hostilities, Wu having presumably been exhausted by its supreme effort against Ch'u. On the other hand, if we choose to disregard the tradition connecting Sun Wu's name with Ho Lu, it might equally well have seen the light between 496 and 494, or possibly in the period 482-473, when Yueh was once again becoming a very serious menace. [*1] We may feel fairly certain that the author, whoever he may have been, was not a man of any great eminence in his own day. On this point the negative testimony of the Tso Chuan far outweighs any shred of authority still attaching to the Shih Chi, if once its other facts are discredited. Sun Hsing-yen, however, makes a feeble attempt to explain the omission of his name from
+
+[p. xxix]
+
+the great commentary. It was Wu Tzu-hsu, he says, who got all the credit of Sun Wu's exploits, because the latter (being an alien) was not rewarded with an office in the State. [*1]
+
+How then did the Sun Tzu legend originate? It may be that the growing celebrity of the book imparted by degrees a kind of factitious renown to its author. It was felt to be only right and proper that one so well versed in the science of war should have solid achievements to his credit as well. Now the capture of Ying was undoubtedly the greatest feat of arms in Ho Lu's reign; it made a deep and lasting impression on all the surrounding states, and raised Wu to the short-lived zenith of her power. Hence, what more natural, as time went on, than that the acknowledged master of strategy, Sun Wu, should be popularly identified with that campaign, at first perhaps only in the sense that his brain conceived and planned it; afterwards, that it was actually carried out by him in conjunction with Wu Yuan, [*2] Po P'ei and Fu Kai?
+
+It is obvious that any attempt to reconstruct even the outline of Sun Tzu's life must be based almost wholly on conjecture. With this necessary proviso, I should say that he probably entered the service of Wu about the time of Ho Lu's accession, and gathered experience, though only in the capacity of a subordinate officer, during the intense military activity which marked the first half of that prince's reign. [*3] If he rose to be a general at all, he certainly was never on an equal footing with the three
+
+[p. xxx]
+
+above mentioned. He was doubtless present at the investment and occupation of Ying, and witnessed Wu's sudden collapse in the following year. Yueh's attack at this critical juncture, when her rival was embarrassed on every side, seems to have convinced him that this upstart kingdom was the great enemy against whom every effort would henceforth have to be directed. Sun Wu was thus a well-seasoned warrior when he sat down to write his famous book, which according to my reckoning must have appeared towards the end, rather than the beginning, of Ho Lu's reign. The story of the women may possibly have grown out of some real incident occurring about the same time. As we hear no more of Sun Wu after this from any source, he is hardly likely to have survived his patron or to have taken part in the death-struggle with Yueh, which began with the disaster at Tsui-li.
+
+If these inferences are approximately correct, there is a certain irony in the fate which decreed that China's most illustrious man of peace should be contemporary with her greatest writer on war.
+
+Footnotes
+
+^xi:1 Shih Chi, ch. 65.
+
+^xi:2 Also written # Ho Lu. He reigned from 514 to 496 B.C.
+
+^xii:1 Shih Chi, ch. 130, f. 6 r degrees.
+
+^xiii:1 I note that M. Chavannes translates # "le peuple est epuise." But in Sun Tzu's own book (see especially VII  section section 24-26) the ordinary meaning of # is "army," and this, I think, is more suitable here.
+
+^xiii:2 These words are given also in Wu Tzu-hsu's biography, ch. 66, fol. 3 r degrees.
+
+^xiii:3 The appellation of # Nang Wa.
+
+^xiii:4 Shih Chi, ch. 31, fol. 6 r degrees.
+
+^xiii:5 Ibid. ch. 25, fol. I r degrees.
+
+^xiii:6 The appellation of # Ho Yen, mentioned in ch. 39 under the year 637
+
+^xiii:7 # Wang-tzu Ch'eng-fu, ch. 32, year 607.
+
+^xiv:1 The mistake is natural enough. Native critics refer to the #, a work of the Han dynasty, which says (ch. 2, fol. 3 v degrees of my edition): # "Ten li outside the Wu gate [of the city of # Wu, now Soochow in Kiangsu] there is a great mound, raised to commemorate the entertainment of Sun Wu of Ch'i, who excelled in the art of war, by the King of Wu."
+
+^xiv:2 #.
+
+^xiv:3 #.
+
+^xv:1 #.
+
+^xv:2 The Shih Chi, on the other hand, says: #. I may remark in passing that the name # for one who was a great warrior is just as suspicious as # for a man who had his feet cut off.
+
+^xv:3 An allusion to #, II. 2: # "They attached strings to wood to make bows, and sharpened wood to make arrows. The use of bows and arrows is to keep the Empire in awe."
+
+^xv:4 # XII. 7.
+
+^xv:5 # V. iv. 7.
+
+^xv:6 #, 7th diagram (#).
+
+^xvi:1 #.
+
+^xvi:2 # ch. 1 (#) ad init. The text of the passage in the # T'u Shu (#, ch. 85) is: #.
+
+^xvi:3 The son and successor of Ho Lu.. He was finally defeated and overthrown by # Kou Chien, King of Yueh, in 473 B.C. See post.
+
+^xvi:4 King Yen of # Hsu, a fabulous being, of whom Sun Hsing-yen says in his preface: # "His humanity brought him to destruction." See Shih Chi, ch. 5, f. 1 v degrees, and M. Chavannes' note, Memoires Historiques, tom. II, p. 8.
+
+^xvi:5 T'u Shu, ibid. ch. 90: #.
+
+^xvi:6 The passage I have put in brackets is omitted in the T'u Shu, and may be an interpolation. It was known, however, to # Chang Shou-chieh of the T'ang dynasty, and appears in the T'ai P'ing Yu Lan.
+
+^xvi:7 Ts'ao Kung seems to be thinking of the first part of chap. II, perhaps especially of  section 8.
+
+^xvii:1 #.
+
+^xvii:2 #.
+
+^xvii:3 The # mentions two editions of Sun Tzu in 3 chuan, namely # and #.
+
+^xvii:4 See chap. XI.
+
+^xviii:1 #.
+
+^xviii:2 #.
+
+^xviii:3 Such as the #, quoted in # Cheng Hsuan's commentary on the Chou Li, the # and #, mentioned in the # Sui Chih, and the #, in the Hsin T'ang Chih.
+
+^xix:1 On the other hand, it is noteworthy that # Wu Tzu, which is now in 6 chapters, has 48 assigned to it in the Han Chih. Likewise, the Chung Yung is credited with 49 chapters, though now in one only. in the case of such very short works, one is tempted to think that # might simply mean "leaves."
+
+^xix:2 See T'u Shu, ch. 442, #.
+
+^xix:3 An extract will be found on <page xlv>.
+
+^xix:4 #.
+
+^xix:5 #.
+
+^xix:6 # [p. xx] #.
+
+^xx:1 #.
+
+^xx:2 See #.
+
+^xx:3 #.
+
+^xx:4 Ch. 99, fol. 5 r degrees.
+
+^xx:5 #.
+
+^xx:6 Shih Chi, ch. 65 ad fin: #.
+
+^xxi:1 # Yeh Shih of the Sung dynasty [1151-1223]. See # ch. 221, ff. 7, 8.
+
+^xxi:2 See Tso Chuan, #, I. 3 ad fin. and XI. 3 ad init. He hardly deserves to be bracketed with assassins.
+
+^xxi:3 See pp. <page 66>, <page 128>.
+
+^xxi:4 See Tso Chuan, #, XXX. 5.
+
+^xxi:5 See p. 128. Chuan Chu is the abbreviated form of his name.
+
+^xxi:6 I.e. Po P'ei. See ante.
+
+^xxi:7 #.
+
+^xxi:8 The nucleus of this work is probably genuine, though large additions have been made by later hands. Kuan Chung died in 645 B.C.
+
+^xxi:9 See infra, <page l>.
+
+^xxi:10 I do not know what work this is, unless it be the last chapter of the #. Why that chapter should be singled out, however, is not clear.
+
+^xxii:1 About 480 B.C.
+
+^xxii:2 #.
+
+^xxii:3 That is, I suppose, the age of Wu Wang and Chou Kong.
+
+^xxii:4 In the 3rd century B.C.
+
+^xxii:5 Ssu-ma Jang-chu, whose family name was # T'ien, lived in the latter half of the 6th century B.C., and is also believed to have written a work on war. See Shih Chi, ch. 64, and infra, <page l>.
+
+^xxii:6 #.
+
+^xxii:7 See the end of the passage quoted from the Shih Chi on <page xii>.
+
+^xxiii:1 In the #, a classified catalogue of his family library.
+
+^xxiii:2 See Wen Hsien T'ung K'ao, ch. 221, f. 9 r degrees: #.
+
+^xxiii:3 See Hsu Lu, f. 14 r degrees: #.
+
+^xxiii:4 # Here is a list of the passages in Sun Tzu from which [p. xxiv]either the substance or the actual words have been appropriated by early authors: VII. 9; IX. 17; I. 24 (#). IX. 23; IX. I, 3, 7; V. 1; III. 18; XI. 58; VII. 31; VII. 24; VII. 26; IX. 15; IX. 4 (bis) (#). III. 8; IV. 7 (#) VII. 19; V. 14; III 2 (#). III. 8; XI. 2; I. 19; XI. 58; X. 10 & VI. 1 (#. Two of the above are given as quotations). V. 13; IV. 2 (#). IX. 11, 12; XI. 30; I. 13; VII. 19 & IV. 7; VII. 32; VII. 25; IV. 20 & V. IX. 43; V. 15; VII. 26; V. 4 & XI. 39; VIII. 11; VI. 4 (#). V. 4 (#). II. 20; X. 14 (#).
+
+^xxiv:1 See Legge's Classics, vol. V, Prolegomena p. 27. Legge thinks that the Tso Chuan must have been written in the 5th century, but not before 424 B.C.
+
+^xxiv:2 The instances quoted are:--III. 14, 15: # is said to be equivalent to #; II. 15: # = #; VII. 28: # = #; XI. 60: # =#; XI. 24: the use of # instead of # (the later form); XI. 64: # = #; IX. 3: # = #; III. 11: # and # antithetically opposed in the sense of # and #; XI. 56: # = #; XI. 31: #= #.
+
+^xxv:1 See Mencius III. 1. iii. 13-20.
+
+^xxv:2 # need not be pressed to mean an actual dweller in the mountains. I think it simply denotes a person living a retired life and standing aloof from public affairs.
+
+^xxvii:1 When Wu first appears in the Ch'un Ch'iu in 584, it is already at variance with its powerful neighbour. The Ch'un Ch'iu first mentions Yueh in 539, the Tso Chuan in 601.
+
+^xxvii:2 This is explicitly stated in the Tso Chuan, #.
+
+^xxviii:1 There is this to be said for the later period, that the feud would tend to grow more bitter after each encounter, and thus more fully justify the language used in XI,  section 30.
+
+^xxix:1 See his preface to Sun Tzu: #.
+
+^xxix:2 With Wu Yuan himself the case is just the reverse:--a spurious treatise on war has been fathered on him simply because he was a great general. Here we have an obvious inducement to forgery. Sun Wu, on the other hand, cannot have been widely known to fame in the 5th century.
+
+^xxix:3 See Tso Chuan, #, 4th year (506),  section 14 #: "From the date of King Chao's accession [515] there was no year in which Ch'u was not attacked by Wu."
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+  
+
+THE TEXT OF SUN TZu.
+
+I have found it difficult to glean much about the history of Sun Tzu's text. The quotations that occur in early authors go to show that the "13 chapters" of which Ssu-ma Ch'ien speaks were essentially the same as those now extant. We have his word for it that they were widely circulated in his day, and can only regret that he refrained from discussing them on that account. [*1] Sun Hsing-yen says in his preface:--
+
+During the Ch'in and Han dynasties Sun Tzu's Art of War was in general use amongst military commanders, but they seem to have treated it as a work of mysterious import, and were unwilling to expound it for
+
+[p. xxxi]
+
+the benefit of posterity. Thus it came about that Wei Wu was the first to write a commentary on it. [*1]
+
+As we have already seen, there is no reasonable ground to suppose that Ts'ao Kung tampered with the text. But the text itself is often so obscure, and the number of editions which appeared from that time onward so great, especially during the Tang and Sung dynasties, that it would be surprising if numerous corruptions had not managed to creep in. Towards the middle of the Sung period, by which time all the chief commentaries on Sun Tzu were in existence, a certain # Chi T'ien-pao published a work in 15 chuan entitled # "Sun Tzu with the collected commentaries of ten writers." [*2] There was another text, with variant readings put forward by Chu Fu of # Ta-hsing, [*3] which also had supporters among the scholars of that period; but in the Ming editions, Sun Hsing-yen tells us, these readings were for some reason or other no longer put into circulation. [*4] Thus, until the end of the 18th century, the text in sole possession of the field was one derived from Chi T'ien-pao's edition, although no actual copy of that important work was known to have . That, therefore, is the text of Sun Tzu which appears in the War section of the great Imperial encyclopaedia printed in 1726, the # Ku Chin T'u Shu Chi Ch'eng. Another copy at my disposal of what is practically the same text, with slight variations, is that contained in the # "Eleven philosophers of the Chou and Ch'in dynasties"
+
+[p. xxxii]
+
+[paragraph continues] [1758]. And the Chinese printed in Capt. Calthrop's first edition is evidently a similar version which has filtered through Japanese channels. So things remained until # Sun Hsing-yen [1752-1818], a distinguished antiquarian and classical scholar, [*1] who claimed to be an actual descendant of Sun Wu, [*2] accidentally discovered a copy of Chi T'ien-pao's long-lost work, when on a visit to the library of the # Hua-yin temple. [*3] Appended to it was the # I Shuo of # Cheng Yu-hsien, mentioned in the T'ung Chih, and also believed to have perished. [*4] This is what Sun Hsing-yen designates as the # or # "original edition (or text)"--a rather misleading name, for it cannot by any means claim to set before us the text of Sun Tzu in its pristine purity. Chi T'ien-pao was a careless compiler, [*5] and appears to have been content to reproduce the somewhat debased version current in his day, without troubling to collate it
+
+[p. xxxiii]
+
+with the earliest editions then available. Fortunately, two versions of Sun Tzu, even older than the newly discovered work, were still extant, one buried in the T'ung Tien, Tu Yu's great treatise on the Constitution, the other similarly enshrined in the T'ai Ping Yu Lan encyclopaedia. In both the complete text is to be found, though split up into fragments, intermixed with other matter, and scattered piecemeal over a number of different sections. Considering that the Yu Lan takes us back to the year 983, and the T'ung Tien about 200 years further still, to the middle of the T'ang dynasty, the value of these early transcripts of Sun Tzu can hardly be overestimated. Yet the idea of utilising them does not seem to have occurred to anyone until Sun Hsing-yen, acting under Government instructions, undertook a thorough recension of the text. This is his own account:--
+
+Because of the numerous mistakes in the text of Sun Tzu which his editors had handed down, the Government ordered that the ancient edition [of Chi T'ien-pao] should be used, and that the text should be revised and corrected throughout. It happened that Wu Nien-hu, the Governor Pi Kua, and Hsi, a graduate of the second degree, had all devoted themselves to this study, probably surpassing me therein. Accordingly, I have had the whole work cut on blocks as a text-book for military men. [*1]
+
+The three individuals here referred to had evidently been occupied on the text of Sun Tzu prior to Sun Hsing-yen's commission, but we are left in doubt as to the work they really accomplished. At any rate, the new edition, when ultimately produced, appeared in the names of Sun Hsing-yen and only one co-editor, # Wu Jen-chi. They took the "original text" as their basis, and by careful comparison with the older versions, as well as the extant commentaries and other sources of information such as
+
+[p. xxxiv]
+
+the I Shuo, succeeded in restoring a very large number of doubtful passages, and turned out, on the whole, what must be accepted as the closest approximation we are ever likely to get to Sun Tzu's original work. This is what will hereafter be denominated the "standard text."
+
+The copy which I have used belongs to a re-issue dated 1877. It is in 6 pen, forming part of a well-printed set of 23 early philosophical works in 83 pen. [*1] It opens with a preface by Sun Hsing-yen (largely quoted in this introduction), vindicating the traditional view of Sun Tzu's life and performances, and summing up in remarkably concise fashion the evidence in its favour. This is followed by Ts'ao Kung's preface to his edition, and the biography of Sun Tzu from the Shih Chi, both translated above. Then come, firstly, Cheng Yu-hsien's I Shuo, [*2] with author's preface, and next, a short miscellany of historical and bibliographical information entitled # Sun Tzu Hsu Lu, compiled by # Pi I-hsun. As regards the body of the work, each separate sentence is followed by a note on the text, if required, and then by the various commentaries appertaining to it, arranged in chronological order. These we shall now proceed to discuss briefly, one by one.
+
+Footnotes
+
+^xxx:1 See supra, <page xx>.
+
+^xxxi:1 #.
+
+^xxxi:2 See #.
+
+^xxxi:3 Alluded to on <page xvii>, note .
+
+^xxxi:4 Loc. cit.: #.
+
+^xxxii:1 A good biographical notice, with a list of his works, will be found in the #, ch. 48, fol. 18 sqq.
+
+^xxxii:2 Preface ad fin.: # "My family comes from Lo-an, and we are really descended from Sun Tzu. I am ashamed to say that I only read my ancestor's work from a literary point of view, without comprehending the military technique. So long have we been enjoying the blessings of peace!"
+
+^xxxii:3 Hua-yin is about 14 miles from # T'ung-kuan on the eastern border of Shensi. The temple in question is still visited by those about to make the ascent of the # or Western Sacred Mountain. It is mentioned in the # [A.D. 1461], ch. 32, f. 22, as the # "Situated five li east of the district city of Hua-yin. The temple contains the Hua-shan tablet inscribed by the T'ang Emperor Hsuan Tsung [713-755]."
+
+^xxxii:4 #.
+
+^xxxii:5 Cf. Sun Hsing-yen's remark a propos of his mistakes in the names and order of the commentators: #.
+
+^xxxiii:1 #.
+
+^xxxiv:1 See my "Catalogue of Chinese Books" (Luzac & Co., 1908), no. 40.
+
+^xxxiv:2 This is a discussion of 29 difficult passages in Sun Tzu, namely: I. 2; 26; 16; II. 9 & 10; III. 3; III & VII; III. 17; IV. 4; 6; V. 3; 10 & 11; 14; the headings of the 13 chapters, with special reference to chap. VII; VII. 5; 15 & 16; 27; 33, &c.; VIII. 1-6; IX. II; X. 1-20; XI. 23; 31; 19;.43; VII. 12-14 & XI. 52; XI. 56; XIII. 15 & 16; 26; XIII in general.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+  
+
+THE COMMENTATORS.
+
+Sun Tzu can boast an exceptionally long and distinguished roll of commentators, which would do honour to any classic. # Ou-yang Hsiu remarks on this fact, though he wrote before the tale was complete, and rather ingeniously explains it by saying that the artifices of war, being inexhaustible,
+
+[p. xxxv]
+
+must therefore be susceptible of treatment in a great variety of ways. [*1]
+
+1. # Ts'ao Ts'ao or # Ts'ao Kung, afterwards known as # Wei Wu Ti [A.D. 155-220]. There is hardly any room for doubt that the earliest commentary on Sun Tzu actually came from the pen of this extraordinary man, whose biography in the San Kuo Chih [*2] reads like a romance. One of the greatest military geniuses that the world has seen, and Napoleonic in the scale of his operations, he was especially famed for the marvellous rapidity of his marches, which has found expression in the line # "Talk of Ts'ao Ts'ao, and Ts'ao Ts'ao will appear." Ou-yang Hsiu says of him that he was a great captain who "measured his strength against Tung Cho, Lu Pu and the two Yuan, father and son, and vanquished them all; whereupon he divided the Empire of Han with Wu and Shu, and made himself king. It is recorded that whenever a council of war was held by Wei on the eve of a far-reaching campaign, he had all his calculations ready; those generals who made use of them did not lose one battle in ten; those who ran counter to them in any particular saw their armies incontinently beaten and put to flight." [*3] Ts'ao Kung's notes on Sun Tzu, models of austere brevity, are so thoroughly characteristic of the stern commander known to history that it is hard indeed to conceive of them as the work of a mere litterateur. Sometimes, indeed, owing to extreme compression,
+
+[p. xxxvi]
+
+they are scarcely intelligible and stand no less in need of a commentary than the text itself. [*1] As we have seen, Ts'ao Kung is the reputed author of the #, a book on war in 100,000 odd words, now lost, but mentioned in the #. [*2]
+
+2. # Meng Shih. The commentary which has come down to us under this name is comparatively meagre, and nothing about the author is known. Even his personal name has not been recorded. Chi T'ien-pao's edition places him after Chia Lin, and # Ch'ao Kung-wu also assigns him to the T'ang dynasty, [*3] but this is obviously a mistake, as his work is mentioned in the #. In Sun Hsing-yen's preface, he appears as Meng Shih of the Liang dynasty [502-557]. Others would identify him with # Meng K'ang of the 3rd century. In the #, [*4] he is named last of the # "Five Commentators," the others being Wei Wu Ti, Tu Mu, Ch'en Hao and Chia Lin.
+
+3. # Li Ch'uan of the 8th century was a well-known writer on military tactics. His # has been in constant use down to the present day. The # mentions # (lives of famous generals from the Chou to the T'ang dynasty) as written by him. [*5] He is also generally supposed to be the real author of the popular Taoist tract, the #. According to Ch'ao Kung-wu and the T'ien-i-ko catalogue, [*6] he followed the # text of Sun Tzu, which differs considerably from those
+
+[p. xxxvii]
+
+now extant. His notes are mostly short and to the point, and he frequently illustrates his remarks by anecdotes from Chinese history.
+
+4. # Tu Yu (died 812) did not publish a separate commentary on Sun Tzu, his notes being taken from the T'ung Tien, the encyclopaedic treatise on the Constitution which was his life-work. They are largely repetitions of Ts'ao Kung and Meng Shih, besides which it is believed that he drew on the ancient commentaries of # Wang Ling and others. Owing to the peculiar arrangement of the T'ung Tien, he has to explain each passage on its merits, apart from the context, and sometimes his own explanation does not agree with that of Ts'ao Kung, whom he always quotes first. Though not strictly to be reckoned as one of the "Ten Commentators," he was added to their number by Chi T'ien-pao, being wrongly placed after his grandson Tu Mu.
+
+5. # Tu Mu (803-85 2) is perhaps best known as a poet--a bright star even in the glorious galaxy of the Tang period. We learn from Ch'ao Kung-wu that although he had no practical experience of war, he was extremely fond of discussing the subject, and was moreover well read in the military history of the Ch'un Ch'iu and Chan Kuo eras. [*1] His notes, therefore, are well worth attention. They are very copious, and replete with historical parallels. The gist of Sun Tzu's work is thus summarised by him: "Practise benevolence and justice, but on the other hand make full use of artifice and measures of expediency." [*2] He further declared that all the military
+
+[p. xxxviii]
+
+triumphs and disasters of the thousand years which had elapsed since Sun Wu's death would, upon examination, be found to uphold and corroborate, in every particular, the maxims contained in his book. [*1] Tu Mu's somewhat spiteful charge against Ts'ao Kung has already been considered elsewhere.
+
+6. # Ch'en Hao appears to have been a contemporary of Tu Mu. Ch'ao Kung-wu says that he was impelled to write a new commentary on Sun Tzu because Ts'ao Kung's on the one hand was too obscure and subtle, and that of Tu Mu on the other too long-winded and diffuse. [*2] Ou-yang Hsiu, writing in the middle of the 11th century, calls Ts'ao Kung, Tu Mu and Ch'en Hao the three chief commentators on Sun Tzu (#), and observes that Ch'en Hao is continually attacking Tu Mu's shortcomings. His commentary, though not lacking in merit, must rank below those of his predecessors.
+
+7. # Chia Lin is known to have lived under the T'ang dynasty, for his commentary on Sun Tzu is mentioned in the # and was afterwards republished by # Chi Hsieh of the same dynasty together with those of Meng Shih and Tu Yu. [*3] It is of somewhat scanty texture, and in point of quality, too, perhaps the least valuable of the eleven.
+
+8. # Mei Yao-ch'en (1002-1060), commonly known by his "style" as Mei # Sheng-yu, was, like Tu Mu, a poet of distinction. His commentary was published with a laudatory preface by the great Ou-yang Hsiu, from which we may cull the following:--
+
+Later scholars have misread Sun Tzu, distorting his words and trying to make them square with their own one-sided views. Thus, though
+
+[p. xxxix]
+
+commentators have not been lacking, only a few have proved equal to the task. My friend Sheng-yu has not fallen into this mistake. In attempting to provide a critical commentary for Sun Tzu's work, he does not lose sight of the fact that these sayings were intended for states engaged in internecine warfare; that the author is not concerned with the military conditions prevailing under the sovereigns of the three ancient dynasties, [*1] nor with the nine punitive measures prescribed to the Minister of War. [*2] Again, Sun Wu loved brevity of diction, but his meaning is always deep. Whether the subject be marching an army, or handling soldiers, or estimating the enemy, or controlling the forces of victory, it is always systematically treated; the sayings are bound together in strict logical sequence, though this has been obscured by commentators who have probably failed to grasp their meaning. In his own commentary, Mei Sheng-yu has brushed aside all the obstinate prejudices of these critics, and has tried to bring out the true meaning of Sun Tzu himself. In this way, the clouds of confusion have been dispersed and the sayings made clear. I am convinced that the present work deserves to be handed down side by side with the three great commentaries; and for a great deal that they find in the sayings, coining generations will have constant reason to thank my friend Sheng-yu. [*3]
+
+Making some allowance for the exuberance of friendship, I am inclined to endorse this favourable judgment, and would certainly place him above Ch'en Hao in order of merit.
+
+[p. xl]
+
+9. # Wang Hsi, also of the Sung dynasty, is decidedly original in some of his interpretations, but much less judicious than Mei Yao-ch'en, and on the whole not a very trustworthy guide. He is fond of comparing his own commentary with that of Ts'ao Kung, but the comparison is not often flattering to him. We learn from Ch'ao Kung-wu that Wang Hsi revised the ancient text of Sun Tzu, filling up lacunae and correcting mistakes. [*1]
+
+10. # Ho Yen-hsi of the Sung dynasty. The personal name of this commentator is given as above by # Cheng Ch'iao in the T'ung Chih, written about the middle of the twelfth century, but he appears simply as # Ho Shih in the Yu Hai, and Ma Tuan-lin quotes Ch'ao Kung-wu as saying that his personal name is unknown. There seems to be no reason to doubt Cheng Ch'iao's statement, otherwise I should have been inclined to hazard a guess and identify him with one # Ho Ch'u-fei, the author of a short treatise on war entitled #, who lived in the latter part of the 11th century. [*2] Ho Shih's commentary, in the words of the T'ien-i-ko catalogue, # "contains helpful additions" here and there, but is chiefly remarkable for the copious extracts taken, in adapted form, from the dynastic histories and other sources.
+
+11. # Chang Yu. The list closes with a commentator of no great originality perhaps, but gifted with admirable powers of lucid exposition. His commentary is based on that of Ts'ao Kung, whose terse sentences he contrives to expand and develop in masterly fashion. Without Chang Yu, it is safe to say that much of Ts'ao Kung's commentary would have remained cloaked in its pristine obscurity and therefore valueless. His work is not mentioned in the Sung history, the T'ung K'ao, or
+
+[p. xli]
+
+the Yu Hai, but it finds a niche in the T'ung Chih, which also names him as the author of the # "Lives of Famous Generals." [*1]
+
+It is rather remarkable that the last-named four should all have flourished within so short a space of time. Ch'ao Kung-wu accounts for it by saying: "During the early years of the Sung dynasty the Empire enjoyed a long spell of peace, and men ceased to practise the art of war. But when [Chao] Yuan-hao's rebellion came [1038-42] and the frontier generals were defeated time after time, the Court made strenuous enquiry for men skilled in war, and military topics became the vogue amongst all the high officials. Hence it is that the commentators of Sun Tzu in our dynasty belong mainly to that period." [*2]
+
+Besides these eleven commentators, there are several others whose work has not come down to us. The Sui Shu mentions four, namely # Wang Ling (often quoted by Tu Yu as #); # Chang Tzu-shang; # Chia Hsu of # Wei; [*3] and # Shen Yu of # Wu. The T'ang Shu adds # Sun Hao, and the T'ung Chih # Hsiao Chi, while the T'u Shu mentions a Ming commentator, # Huang Jun-yu. It is possible that some of these may have been merely collectors and editors of other commentaries, like Chi T'ien-pao and Chi Hsieh, mentioned above. Certainly in the case of the latter, the entry #, in the T'ung K'ao, without the following note, would give one to understand that he had written an independent commentary of his own.
+
+There are two works, described in the
+
+[p. xlii]
+
+[paragraph continues] Ssu K'u Ch'uan Shu [*1] and no doubt extremely rare, which I should much like to have seen. One is entitled #, in 5 chuan. It gives selections from four new commentators, probably of the Ming dynasty, as well as from the eleven known to us. The names of the four are # Hsieh Yuan; # Chang Ao; # Li Ts'ai; and # Huang Chih-cheng. The other work is # in 4 chuan, compiled by # Cheng Tuan of the present dynasty. It is a compendium of information on ancient warfare, with special reference to Sun Tzu's 13 chapters.
+
+Footnotes
+
+^xxxv:1 Preface to Mei Yao-ch'en's edition: #
+
+^xxxv:2 See #, ch. 1.
+
+^xxxv:3 Loc. cit.: #.
+
+^xxxvi:1 Cf. # Catalogue of the library of the # Fan family at Ningpo, #, fol. 12 v degrees: # "His commentary is frequently obscure but furnishes a clue, but does not fully develop the meaning."
+
+^xxxvi:2 See #, ch. 141 ad init.
+
+^xxxvi:3 Wen Hsien T'ung K'ao, ch. 221, f. 9 v degrees.
+
+^xxxvi:4 Ch. 207, f. 5 r degrees.
+
+^xxxvi:5 It is interesting to note that M. Pelliot has recently discovered chapters 1, 4 and 5 of this lost work in the "Grottos of the Thousand Buddhas." See B. E. F. E. O, t. VIII, nos. 3-4, p. 525.
+
+^xxxvi:6 Loc. cit.
+
+^xxxvii:1 Wen Hsien T'ung K'ao, ch. 221, f. 9: #.
+
+^xxxvii:2 Preface to his commentary (T'u Shu, # ch. 442): #.
+
+^xxxviii:1 Ibid.: #.
+
+^xxxviii:2 T'ung K'ao, loc. cit.: #.
+
+^xxxviii:3 Ibid.
+
+^xxxix:1 The Hsia, the Shang and the Chou. Although the last-named was nominally existent in Sun Tzu's day, it retained hardly a vestige of power, and the old military organisation had practically gone by the hoard. I can suggest no other explanation of the passage.
+
+^xxxix:2 See Chou Li, XXIX. 6-10.
+
+^xxxix:3 See T'u Shu, #, ch. 90, f. 2 v degrees: #.
+
+^xl:1 T'ung K'ao, ch. 221, f. 11 r degrees: #.
+
+^xl:2 See #, ch. 99, f. 16 v degrees.
+
+^xli:1 This appears to be still extant. See Wylie's "Notes," p. 91 (new edition).
+
+^xli:2 T'ung K'ao, loc. cit.: #.
+
+^xli:3 A notable person in his day. His biography is given in the San Kuo Chih, ch. 10.
+
+^xlii:1 Ch. 100, ff. 2, 3.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+  
+
+APPRECIATIONS OF SUN TZu.
+
+Sun Tzu has exercised a potent fascination over the minds of some of China s greatest men. Among the famous generals who are known to have studied his pages with enthusiasm may be mentioned # Han Hsin (d. B.C. 196), [*2] # Feng I (d. A.D. 34), [*3] # Lu Meng (d. 219), [*4] and # Yo Fei (1103-1141). [*5] The opinion of Ts'ao Kung, who disputes with Han Hsin the highest place in Chinese military annals, has already been recorded. [*6] Still more remarkable, in one way, is the testimony of purely literary men, such as # Su Hsun (the father of Su Tung-p'o), who wrote several essays on military topics, all of which owe their chief inspiration to Sun Tzu. The following short passage by him is preserved in the Yu Hai: [*7]--
+
+[p. xliii]
+
+Sun Wu's saying, that in war one cannot make certain of conquering, [*1] is very different indeed from what other books tell us. [*2] Wu Ch'i was a man of the same stamp as Sun Wu: they both wrote books on war, and they are linked together in popular speech as "Sun and Wu." But Wu Ch'i's remarks on war are less weighty, his rules are rougher and more crudely stated, and there is not the same unity of plan as in Sun Tzu's work, where the style is terse, but the meaning fully brought out. [*3]
+
+The #, ch. 17, contains the following extract from the # "Impartial Judgments in the Garden of Literature" by # Cheng Hou:--
+
+Sun Tzu's 13 chapters are not only the staple and base of all military men's training, but also compel the most careful attention of scholars and men of letters. His sayings are terse yet elegant, simple yet profound, perspicuous and eminently practical. Such works as the Lun Yu, the I Ching and the great Commentary, [*4] as well as the writings of Mencius, Hsun K'uang and Yang Chu, all fall below the level of Sun Tzu. [*5]
+
+Chu Hsi, commenting on this, fully admits the first part of the criticism, although he dislikes the audacious comparison with the venerated classical works. Language of this sort, he says, "encourages a ruler's bent towards unrelenting warfare and reckless militarism." [*6]
+
+Footnotes
+
+^xlii:2 See <page 144>.
+
+^xlii:3 Hou Han Shu, ch. 17 ad init.
+
+^xlii:4 San Kuo Chih, ch. 54, f. 10 v degrees (commentary).
+
+^xlii:5 Sung Shih, ch. 365 ad init.
+
+^xlii:6 The few Europeans who have yet had an opportunity of acquainting themselves with Sun Tzu are not behindhand in their praise. In this connection, I may perhaps be excused for quoting from a letter from Lord Roberts, to whom the sheets of the present work were submitted previous to publication: "Many of Sun Wu's maxims are perfectly applicable to the present day, and no. 11 on page 77 is one that the people of this country would do well to take to heart."
+
+^xlii:7 Ch. 540, f. 13 r degrees.
+
+^xliii:1 See IV.  section 3.
+
+^xliii:2 The allusion may be to Mencius VI. 2. ix. 2: #.
+
+^xliii:3 #.
+
+^xliii:4 The Tso Chuan.
+
+^xliii:5 #.
+
+^xliii:6 #.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+  
+
+APOLOGIES FOR WAR.
+
+Accustomed as we are to think of China as the greatest peace-loving nation on earth, we are in some danger of
+
+[p. xliv]
+
+forgetting that her experience of war in all its phases has also been such as no modern State can parallel. Her long military annals stretch back to a point at which they are lost in the mists of time. She had built the Great Wall and was maintaining a huge standing army along her frontier centuries before the first Roman legionary was seen on the Danube. What with the perpetual collisions of the ancient feudal States, the grim conflicts with Huns, Turks and other invaders after the centralisation of government, the terrific upheavals which accompanied the overthrow of so many dynasties, besides the countless rebellions and minor disturbances that have flamed up and flickered out again one by one, it is hardly too much to say that the clash of arms has never ceased to resound in one portion or another of the Empire.
+
+No less remarkable is the succession of illustrious captains to whom China can point with pride. As in all countries, the greatest are found emerging at the most fateful crises of her history. Thus, Po Ch'i stands out conspicuous in the period when Ch'in was entering upon her final struggle with the remaining independent states. The stormy years which followed the break-up of the Ch'in dynasty are illumined by the transcendent genius of Han Hsin. When the House of Han in turn is tottering to its fall, the great and baleful figure of Ts'ao Ts'ao dominates the scene. And in the establishment of the T'ang dynasty, one of the mightiest tasks achieved by man, the superhuman energy of Li Shih-min (afterwards the Emperor T'ai Tsung) was seconded by the brilliant strategy of Li Ching. None of these generals need fear comparison with the greatest names in the military history of Europe.
+
+In spite of all this, the great body of Chinese sentiment, from Lao Tzu downwards, and especially as reflected in the standard literature of Confucianism, has been consistently pacific, and intensely opposed to militarism in any form. It is such an uncommon thing to find any of the literati
+
+[p. xlv]
+
+defending warfare on principle, that I have thought it worth while to collect and translate a few passages in which the unorthodox view is upheld. The following, by Ssu-ma Ch'ien, shows that for all his ardent admiration of Confucius, he was yet no advocate of peace at any price:--
+
+Military weapons are the means used by the Sage to punish violence and cruelty, to give peace to troublous times, to remove difficulties and dangers, and to succour those who are in peril. Every animal with blood in its veins and horns on its head will fight when it is attacked. How much more so will man, who carries in his breast the faculties of love and hatred, joy and anger! When he is pleased, a feeling of affection springs up within him; when angry, his poisoned sting is brought into play. That is the natural law which governs his being . . . . What then shall be said of those scholars of our time, blind to all great issues, and without any appreciation of relative values, who can only bark out their stale formulas about "virtue" and "civilisation," condemning the use of military weapons? They will surely bring our country to impotence and dishonour and the loss of her rightful heritage; or, at the very least, they will bring about invasion and rebellion, sacrifice of territory and general enfeeblement. Yet they obstinately refuse to modify the position they have taken up. The truth is that, just as in the family the teacher must not spare the rod, and punishments cannot be dispensed with in the State, so military chastisement can never be allowed to fall into abeyance in the Empire. All one can say is that this power will be exercised wisely by some, foolishly by others, and that among those who bear arms some will be loyal and others rebellious. [*1]
+
+The next piece is taken from Tu Mu's preface to his commentary on Sun Tzu:--
+
+War may be defined as punishment, which is one of the functions of government. It was the profession of Chung Yu and Jan Ch'iu, both
+
+[p. xlvi]
+
+disciples of Confucius. Nowadays, the holding of trials and hearing of litigation, the imprisonment of offenders and their execution by flogging in the market-place, are all done by officials. But the wielding of huge armies, the throwing down of fortified cities, the haling of women and children into captivity, and the beheading of traitors--this is also work which is done by officials. The objects of the rack [*1] and of military weapons are essentially the same. There is no intrinsic difference between the punishment of flogging and cutting off heads in war. For the lesser infractions of law, which are easily dealt with, only a small amount of force need be employed: hence the institution of torture and flogging. For more serious outbreaks of lawlessness, which are hard to suppress, a greater amount of force is necessary: hence the use of military weapons and wholesale decapitation. In both cases, however, the end in view is to get rid of wicked people, and to give comfort and relief to the good [*2] ...
+
+Chi-sun asked Jan Yu, saying: "Have you, Sir, acquired your military aptitude by study, or is it innate?" Jan Yu replied: "It has been acquired by study." [*3] "How can that be so," said Chi-sun, "seeing that you are a disciple of Confucius?" "It is a fact," replied Jan Yu; "I was taught by Confucius. It is fitting that the great Sage should exercise both civil and military functions, though to be sure my instruction in the art of fighting has not yet gone very far."
+
+Now, who the author was of this rigid distinction between the "civil" and the "military," and the limitation of each to a separate sphere of action, or in what year of which dynasty it was first introduced, is more than I can say. But, at any rate, it has come about that the members of the governing class are quite afraid of enlarging on military topics, or do so only in a shamefaced manner. If any are bold enough to discuss the subject, they are at once set down as eccentric individuals of coarse and brutal propensities. This is an extraordinary instance of the way in
+
+[p. xlvii]
+
+which, through sheer lack of reasoning, men unhappily lose sight of fundamental principles. [*1]
+
+When the Duke of Chou was minister under Ch'eng Wang, he regulated ceremonies and made music, and venerated the arts of scholarship and learning; yet when the barbarians of the River Huai revolted, [*2] he sallied forth and chastised them. When Confucius held office under the Duke of Lu, and a meeting was convened at Chia-ku, [*3] he said: "If pacific negotiations are in progress, warlike preparations should have been made beforehand." He rebuked and shamed the Marquis of Ch'i, who cowered under him and dared not proceed to violence. How can it be said that these two great Sages had no knowledge of military matters? [*4]
+
+We have seen that the great Chu Hsi held Sun Tzu in high esteem. He also appeals to the authority of the Classics:--
+
+Our Master Confucius, answering Duke Ling of Wei, said: "I have never studied matters connected with armies and battalions." [*5] Replying to K'ung Wen-tzu, he said: "I have not been instructed about buff-coats and weapons." [*6] "But if we turn to the meeting at Chia-ku, [*7] we find that he used armed force against the men of Lai, [*8] so that the marquis of Ch'i was overawed. Again, when the inhabitants of Pi revolted, he ordered his officers to attack them, whereupon they were defeated and fled in confusion. [*9] He once tittered the words: "If I fight, I
+
+[p. xlviii]
+
+conquer." [*1] And Jan Yu also said: "The Sage exercises both civil and military functions." [*2] Can it be a fact that Confucius never studied or received instruction in the art of war? We can only say that he did not specially choose matters connected with armies and fighting to be the subject of his teaching. [*3]
+
+Sun Hsing-yen, the editor of Sun Tzu, writes in similar strain:--
+
+Confucius said: "I am unversed in military matters." [*4] He also said: "If I fight, I conquer." [*4] Confucius ordered ceremonies and regulated music. Now war constitutes one of the five classes of State ceremonial, [*5] and must not be treated as an independent branch of study. Hence, the words "I am unversed in" must be taken to mean that there are things which even an inspired Teacher does not know. Those who have to lead an army and devise stratagems, must learn the art of war. But if one can command the services of a good general like Sun Tzu, who was employed by Wu Tzu-hsu, there is no need to learn it oneself. Hence the remark added by Confucius: "If I fight, I conquer." [*6]
+
+The men of the present day, however, wilfully interpret these words of Confucius in their narrowest sense, as though he meant that books on the art of war were not worth reading. With blind persistency, they adduce the example of Chao Kua, who pored over his father's books to no purpose, [*7] as a proof that all military theory is useless. Again, seeing
+
+[p. xlix]
+
+that books on war have to do with such things as opportunism in designing plans, and the conversion of spies, they hold that the art is immoral and unworthy of a sage. These people ignore the fact that the studies of our scholars and the civil administration of our officials also require steady application and practice before efficiency is reached. The ancients were particularly chary of allowing mere novices to botch their work. [*1] Weapons are baneful [*2] and fighting perilous; and unless a general is in constant practice, he ought not to hazard other men's lives in battle. [*3] Hence it is essential that Sun Tzu's 13 chapters should be studied. [*4]
+
+Hsiang Liang used to instruct his nephew Chi [*5] in the art of war. Chi got a rough idea of the art in its general bearings, but would not pursue his studies to their proper outcome, the consequence being that he was finally defeated and overthrown. He did not realise that the tricks and artifices of war are beyond verbal computation. Duke Hsiang of Sung [*6] and King Yen of Hsu [*7] were brought to destruction by their misplaced humanity. The treacherous and underhand nature of war necessitates the use of guile and stratagem suited to the occasion. There is a case on record of Confucius himself having violated an extorted oath, [*8] and also of his having left the Sung State in disguise. [*9] Can we then recklessly arraign Sun Tzu for disregarding truth and honesty? [*10]
+
+Footnotes
+
+^xlv:1 Shih Chi, ch. 25, fol. 1: #.
+
+^xlvi:1 The first Instance of # in the P'ei Wen Yun Fu is from Ssu-ma Ch'ien's letter to # Jen An (see #, ch. 41, f. 9 r degrees), where M. Chavannes translates it "la cangue et la chaine." But in the present passage it seems rather to indicate some single instrument of torture.
+
+^xlvi:2 #.
+
+^xlvi:3 Cf. Shih Chi, cf. 47, f. 11 v degrees.
+
+^xlvii:1 #.
+
+^xlvii:2 See Shu Ching, preface  section 55.
+
+^xlvii:3 See Tso Chuan, # X. 2; Shih Chi, ch. 47, t. 4 r degrees.
+
+^xlvii:4 #.
+
+^xlvii:5 Lun Yu, XV, 1.
+
+^xlvii:6 Tso Chuan, #, XI.
+
+^xlvii:7 See supra.
+
+^xlvii:8 Tso Chuan, #, X. 2.
+
+^xlvii:9 Ibid. XII. 5; Chia Yu, ch. 1 ad fin.
+
+^xlviii:1 I have failed to trace this utterance. See note  on <page xliii>.
+
+^xlviii:2 See supra.
+
+^xlviii:3 #, loc. cit.: #.
+
+^xlviii:4 See supra.
+
+^xlviii:5 Viz., #. the other four being #, #, # and # "worship, mourning, entertainment of guests and festive rites." See Shu Ching, II, 1, iii. 8, and Chou Li, IX, fol. 49.
+
+^xlviii:6 Preface to Sun Tzu: #.
+
+^xlviii:7 See <page 166>.
+
+^xlix:1 This is a rather obscure allusion to Tso Chuan, #, XXXI. 4, where Tzu-ch'an says: # "If you have a piece of beautiful brocade, you will nor employ a mere learner to make it up."
+
+^xlix:2 Cf. Tao Te Ching, ch. 31: #.
+
+^xlix:3 Sun Hsing-yen might have quoted Confucius again. See Lun Yu, XIII. 29, 30.
+
+^xlix:4 #.
+
+^xlix:5 Better known as Hsiang # Yu [B.C. 233-202].
+
+^xlix:6 The third among the # (or #) enumerated on <page 141>. For the incident referred to, see Tso Chuan, #, XXII. 4.
+
+^xlix:7 See supra, <page xvi>, note .
+
+^xlix:8 Shih Chi, ch. 47, f. 7 r degrees. 
+
+^xlix:9 Ibid., ch. 38, f. 8 v degrees.
+
+^xlix:10 # [p. l] #.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. l]
+
+  
+
+BIBLIOGRAPHY.
+
+The following are the oldest Chinese treatises on war, after Sun Tzu. The notes on each have been drawn principally from the # Ssu k'u ch'uan shu chien ming mu lu, ch. 9, fol. 22 sqq.
+
+1. # Wu Tzu, in 1 chuan or 6 # chapters. By # Wu Ch'i (d. B.C. 381). A genuine work. See Shih Chi, ch. 65.
+
+2. # Ssu-ma Fa, in 1 chuan or 5 chapters. Wrongly attributed to # Ssu-ma Jang-chu of the 6th century B.C. Its date, however, must be early, as the customs of the three ancient dynasties are constantly to be met with in its pages. [*1] See Shih Chi, ch. 64.
+
+The Ssu K'u Ch'uan Shu (ch. 99, f. 1) remarks that the oldest three treatises on war, Sun Tzu, Wu Tzu and the Ssu-ma Fa, are, generally speaking, only concerned with things strictly military--the art of producing, collecting, training and drilling troops, and the correct theory with regard to measures of expediency, laying plans, transport of goods and the handling of soldiers [*2]--in strong contrast to later works, in which the science of war is usually blended with metaphysics, divination and magical arts in general.
+
+3. # Liu T'ao, in 6 chuan or 60 chapters. Attributed to # Lu Wang (or Lu # Shang, also known as # T'ai Kung) of the 12th century B.C. [*3] But
+
+[p. li]
+
+its style does not belong to the era of the Three Dynasties. [*1] # Lu Te-ming (550-625 A.D.) mentions the work, and enumerates the headings of the six sections, #, #, #, #, # and #, so that the forgery cannot have been later than the Sui dynasty.
+
+4. # Wei Liao Tzu, in 5 chuan. Attributed Wei Liao (4th cent. B.C.), who studied under the famous # Kuei-ku Tzu. The #, under #, mentions a book of Wei Liao in 31 chapters, whereas the text we possess contains only 24. Its matter is sound enough in the main, though the strategical devices differ considerably from those of the Warring States period. [*2] It has been furnished with a commentary by the well-known Sung philosopher # Chang Tsai.
+
+5. # San Lueh, in 3 chuan. Attributed to #, Huang-shih Kung, a legendary personage who is said to have bestowed it on Chang Liang (d. B.C. 187) in an interview on a bridge. [*3] But here again, the style is not that of works dating from the Ch'in or Han period. The Han Emperor Kuang Wu [A.D. 25-57] apparently quotes from it in one of his proclamations; but the passage in question may have been inserted later on, in order to prove the genuineness of the work. We shall not be far out if we refer it to the Northern Sung period [420-478 A.D.], or somewhat earlier. [*4]
+
+[p. lii]
+
+6. # Li Wei Kung Wen Tui, in 3 sections. Written in the form of a dialogue between T'ai Tsung and his great general # Li Ching, it is usually ascribed to the latter. Competent authorities consider it a forgery, though the author was evidently well versed in the art of war. [*1]
+
+7. # Li Ching Ping Fa (not to be confounded with the foregoing) is a short treatise in 8 chapters, preserved in the T'ung Tien, but not published separately. This fact explains its omission from the Ssu K'u Ch'uan Shu.
+
+8. # Wu Ch'i Ching, [*2] in 1 chuan. Attributed to the legendary minister # Feng Hou, with exegetical notes by # Kung-sun Hung of the Han dynasty (d. B.C. 121), and said to have been eulogised by the celebrated general, # Ma Lung (d. A.D. 300). Yet the earliest mention of it is in the #. Although a forgery, the work is well put together. [*3]
+
+Considering the high popular estimation in which # Chu-ko Liang has always been held, it is not surprising to find more than one work on war ascribed to his pen. Such are (1) the # Shih Liu Ts'e (1 chuan), preserved in the # Yung Lo Ta Tien; (2) # Chiang Yuan (1 ch.); and (3) # Hsin Shu (I ch.), which steals wholesale from Sun Tzu. None of these has the slightest claim to be considered genuine.
+
+[p. liii]
+
+Most of the large Chinese encyclopaedias contain extensive sections devoted to the literature of war. The following references may be found useful:--
+
+# T'ung Tien (circa 800 A.D.), ch. 148-162.
+
+# T'ai P'ing Yu Lan (983), ch. 270-359.
+
+# Wen Hsien T'ung K'ao (13th cent.), ch. 221.
+
+# Yu Hai (13th cent.), ch. 140, 141.
+
+# San Ts'ai T'u Hui (16th cent), # ch. 7, 8.
+
+# Kuang Po Wu Chih (1607), ch. 31, 32.
+
+# Ch'ien Ch'io Lei Shu (1632), ch. 75.
+
+# Yuan Chien Lei Han (1710), ch. 206-229.
+
+# Ku Chin T'u Shu Chi Ch'eng (1726), section XXX, esp. ch. 81-90.
+
+# Hsu Wen Hsien T'ung K'ao (1784), ch. 121-134.
+
+# Huang Ch'ao Ching Shih Wen Pien (1826), ch. 76, 77.
+
+The bibliographical sections of certain historical works also deserve mention:--
+
+# Ch'ien Han Shu, ch. 30.
+
+# Sui Shu, ch. 32-35.
+
+# Chiu T'ang Shu, ch. 46, 47.
+
+# Hsin T'ang Shu, ch. 57-60.
+
+# Sung Shih, ch. 202-209.
+
+# T'ung Chih (circa 1150), ch. 68.
+
+To these of course must be added the great Catalogue of the Imperial Library:
+
+# Ssu K'u Ch'uan Shu Tsung Mu T'i Yao (1790), ch. 99, 100.
+
+Footnotes
+
+^l:1 #.
+
+^l:2 #.
+
+^l:3 See <page 174>. Further details on T'ai Kung will be found in the Shih Chi, ch. 32 ad init. Besides the tradition which makes him a former minister of Chou Hsin, two other accounts of him are there given, according to which he would appear to have been first raised from a humble private station by Wen Wang.
+
+^li:1 #.
+
+^li:2 #.
+
+^li:3 See Han Shu, #, ch. 40. The work is there called #. Hence it has been confused with the Liu T'ao. The T'u Shu attributes both the Liu T'ao and the San Lueh to T'ai Kung.
+
+^li:4 #. Another work said to have been written by Huang-shih Kung, and also included in the military section of the Imperial Catalogue, is the # Su Shu in 1 chuan. A short ethical treatise of Taoist [p. lii] savour, having no reference whatever to war, it is pronounced a forgery from the hand of # Chang Shang-ying (d. 1121), who edited it with commentary. Correct Wylie's "Notes," new edition, p. 90, and Courant's "Catalogue des Livres Chinois," no. 5056.
+
+^lii:1 #. We are told in the # that the above six works, together with Sun Tzu, were those prescribed for military training in the # period (1078-85). See # Yu Hai, ch. 140, f. 4 r degrees.
+
+^lii:2 Also written # and # Wu Chi Ching.
+
+^lii:3 #.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 1]
+
+  
+
+I. LAYING PLANS [*1].
+
+1. Sun Tzu said: The art of war is of vital importance to the State.
+
+2. It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected.
+
+3. The art of war, then, is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field. [*2]
+
+[p. 2]
+
+4. These are: (1) The Moral Law; (2) Heaven; (3) Earth; (4) The Commander; (5) Method and discipline. [*1]
+
+5, 6. The Moral Law causes the people to be in complete accord with their ruler, so that they will follow him regardless of their lives, undismayed by any danger. [*2]
+
+7. Heaven signifies night and day, cold and heat, times and seasons. [*3]
+
+8. Earth comprises distances, great and small; danger and security; open ground and narrow passes; the chances of life and death. [*4]
+
+[p. 3]
+
+9. The Commander stands for the virtues of wisdom, sincerity, benevolence, courage and strictness. [*1]
+
+10. By Method and discipline are to be understood the marshalling of the army in its proper subdivisions, the gradations of rank among the officers, the maintenance of roads by which supplies may reach the army, and the control of military expenditure. [*2]
+
+11. These five heads should be familiar to every general: he who knows them will be victorious; he who knows them not will fail.
+
+12. Therefore, in your deliberations, when seeking to determine the military conditions, let them be made the basis of a comparison, in this wise:-- [*3]
+
+[p. 4]
+
+13. (1) Which of the two sovereigns is imbued with the Moral law? [*1]
+
+(2) Which of the two generals has most ability?
+
+(3) With whom lie the advantages derived from Heaven and Earth? [*2]
+
+(4) On which side is discipline most rigorously enforced? [*3]
+
+(5) Which army is the stronger? [*4]
+
+(6) On which side are officers and men more highly trained? [*5]
+
+(7) In which army is there the greater constancy both in reward and punishment? [*6]
+
+14. By means of these seven considerations I can forecast victory or defeat.
+
+[p. 5]
+
+15. The general that hearkens to my counsel and acts upon it, will conquer:--let such a one be retained in command! The general that hearkens not to my counsel nor acts upon it, will suffer defeat:--let such a one be dismissed! [*1]
+
+16. While heeding the profit of my counsel, avail yourself also of any helpful circumstances over and beyond the ordinary rules. [*2]
+
+17. According as circumstances are favourable, one should modify one's plans. [*3]
+
+[p. 6]
+
+18. All warfare is based on deception. [*1]
+
+19. Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.
+
+20. Hold out baits to entice the enemy. Feign disorder, and crush him. [*2]
+
+21. If he is secure at all points, be prepared for him. If he is in superior strength, evade him. [*3]
+
+22. If your opponent is of choleric temper, seek to irritate him. Pretend to be weak, that he may grow arrogant. [*4]
+
+[p. 7]
+
+23. If he is taking his ease, give him no rest. [*1]
+
+If his forces are united, separate them. [*2]
+
+24. Attack him where he is unprepared, appear where you are not expected.
+
+25. These military devices, leading to victory, must not be divulged beforehand. [*3]
+
+26. Now the general who wins a battle makes many calculations in his temple ere the battle is fought. [*4]
+
+[p. 8]
+
+[paragraph continues] The general who loses a battle makes but few calculations beforehand. Thus do many calculations lead to victory, and few calculations to defeat: how much more no calculation at all! It is by attention to this point that I can foresee who is likely to win or lose.
+
+Footnotes
+
+^1:1 This is the only possible meaning of #, which M. Amiot and Capt. Calthrop wrongly translate "Fondements de l'art militaire" and "First principles" respectively. Ts'ao Kung says it refers to the deliberations in the temple selected by the general for his temporary use, or as we should say, in his tent. See  section 26.
+
+^1:2 The old text of the T'ung Tien has #, etc. Later editors have inserted # after #, and # before #. The former correction is perhaps superfluous, but the latter seems necessary in order to make sense, and is supported by the accepted reading in  section 12, where the same words recur. I am inclined to think, however, that the whole sentence from # to # is an interpolation and has no business here at all. If it be retained, Wang Hsi must be right in saying that # denotes the "seven considerations" in  section 13. # are the circumstances or conditions likely to bring about victory or defeat. The antecedent of the first # is #; of the second, #. # [p. 3] contains the idea of "comparison with the enemy," which cannot well be brought out here, but will appear in  section 12. Altogether, difficult though it is, the passage is not so hopelessly corrupt as to justify Capt. Calthrop in burking it entirely.
+
+^2:1 It appears from what follows that Sun Tzu means by # a principle of harmony. not unlike the Tao of Lao Tzu in its moral aspect. One might be tempted to render it by "morale," were it not considered as an attribute of the ruler in  section 13.
+
+^2:2 The original text omits #, inserts an # after each #, and omits # after #. Capt. Calthrop translates: "If the ruling authority be upright, the people are united"--a very pretty sentiment, but wholly out of place in what purports to be a translation of Sun Tzu.
+
+^2:3 The commentators, I think, make an unnecessary mystery of #. Thus Meng Shih defines the words as # "the hard and the soft, waxing and waning," which does not help us much. Wang Hsi, however, may be right in saying that what is meant is # "the general economy of Heaven," including the five elements, the four seasons, wind and clouds, and other phenomena.
+
+^2:4 #. (omitted by Capt. Calthrop) may have been included here because the safety of an army depends largely on its quickness to turn these geographical features to account.
+
+^3:1 The five cardinal virtues of the Chinese are (1) # humanity or benevolence; (2) # uprightness of mind; (3) # self-respect, self-control, or "proper feeling;" (4) # wisdom; (5) # sincerity or good faith. Here # and # are put before #, and the two military virtues of "courage" and "strictness" substituted for # and #.
+
+^3:2 The Chinese of this sentence is so concise as to be practically unintelligible without commentary. I have followed the interpretation of Ts'ao Kung, who joins # and again #. Others take each of the six predicates separately. # has the somewhat uncommon sense of "cohort" or division of an army. Capt. Calthrop translates: "Partition and ordering of troops," which only covers #.
+
+^3:3 The Yu Lan has an interpolated # before #. It is obvious, however, that the # just enumerated cannot be described as #. Capt. Calthrop, forced to give some rendering of the words which he had omitted in  section 3, shows himself decidedly hazy: "Further, with regard to these and the following seven matters, the condition of the enemy must be compared with our own." He does not appear to see that the seven queries or considerations which follow arise directly out of the Five heads, instead of being supplementary to them.
+
+^4:1 I.e., "is in harmony with his subjects." Cf.  section 5.
+
+^4:2 See  section section 7, 8.
+
+^4:3 Tu Mu alludes to the remarkable story of Ts'ao Ts'ao (A.D. 155-220), who was such a strict disciplinarian that once, in accordance with his own severe regulations against injury to standing crops, he condemned himself to death for having allowed his horse to shy into a field of corn! However, in lieu of losing his head, he was persuaded to satisfy his sense of justice by cutting off his hair. Ts'ao Ts'ao's own comment on the present passage is characteristically curt: # "when you lay down a law, see that it is not disobeyed; if it is disobeyed, the offender must be put to death."
+
+^4:4 Morally as well as physically. As Mei Yao-ch'en puts it, #, which might be freely rendered "esprit de corps and 'big battalions.'"
+
+^4:5 Tu Yu quotes # as saying: "Without constant practice, the officers will be nervous and undecided when mustering for battle; without constant practice, the general will be wavering and irresolute when the crisis is at hand."
+
+^4:6 # literally "clear;" that is, on which side is there the most absolute certainty that merit will be properly rewarded and misdeeds summarily punished?
+
+^5:1 The form of this paragraph reminds us that Sun Tzu's treatise was composed expressly for the benefit of his patron # Ho Lu, king of the Wu State. It is not necessary, however, to understand # before # (as some commentators do), or to take # as "generals under my command."
+
+^5:2 Capt. Calthrop blunders amazingly over this sentence: "Wherefore, with regard to the foregoing, considering that with us lies the advantage, and the generals agreeing, we create a situation which promises victory." Mere logic should have kept him from penning such frothy balderdash.
+
+^5:3 Sun Tzu, as a practical soldier, will have none of the "bookish theoric." He cautions us here not to pin our faith to abstract principles; "for," as Chang Yu puts it, "while the main laws of strategy can be stated clearly enough for the benefit of all and sundry, you must be guided by the actions of the enemy in attempting to secure a favourable position in actual warfare." On the eve of the battle of Waterloo, Lord Uxbridge, commanding the cavalry, went to the Duke of Wellington in order to learn what his plans and calculations were for the morrow, because, as he explained, he might suddenly find himself Commander-in-chief and would be unable to frame new plans in a critical moment. The Duke listened quietly and then said: "Who will attack the first to-morrow--I or Bonaparte?" "Bonaparte," replied Lord Uxbridge. "Well," continued the Duke, "Bonaparte has not given me any idea of his projects; and as my plans will depend upon his, how can you expect me to tell you what mine are?" [**]
+
+^5:* "Words on Wellington," by Sir W. Fraser.
+
+^6:1 The truth of this pithy and profound saying will be admitted by every soldier. Col. Henderson tells us that Wellington, great in so many military qualities, was especially distinguished by "the extraordinary skill with which he concealed his movements and deceived both friend and foe."
+
+^6:2 #, as often in Sun Tzu, is used in the sense of #. It is rather remarkable that all the commentators, with the exception of Chang Yu, refer # to the enemy: "when he is in disorder, crush him." It is more natural to suppose that Sun Tzu is still illustrating the uses of deception in war.
+
+^6:3 The meaning of # is made clear from chap. VI, where it is opposed to # "weak or vulnerable spots." #, according to Tu Yu and other commentators, has reference to the keenness of the men as well as to numerical superiority. Capt. Calthrop evolves an extraordinarily far-fetched translation: "If there are defects, give an appearance of perfection, and awe the enemy. Pretend to be strong, and so cause the enemy to avoid you"!
+
+^6:4 I follow Chang Yu in my interpretation of #. # is expanded by Mei Yao-ch'en into #. Wang Tzu, quoted by Tu Yu, [p. 7] says that the good tactician plays with his adversary as a cat plays with a mouse, first feigning weakness and immobility, and then suddenly pouncing upon him.
+
+^7:1 This is probably the meaning, though Mei Yao-ch'en has the note: # we are taking our ease, wait for the enemy to tire himself out." The Yu Lan has # "Lure him on and tire him out". This would seem also to have been Ts'ao Kung's text, judging by his comment #.
+
+^7:2 Less plausible is the interpretation favoured by most of the commentators: "If sovereign and subject are in accord, put division between them."
+
+^7:3 This seems to be the way in which Ts'ao Kung understood the passage, and is perhaps the best sense to be got out of the text as it stands. Most of the commentators give the following explanation: "It is impossible to lay down rules for warfare before you come into touch with the enemy." This would be very plausible if it did not ignore #, which unmistakably refers to the maxims which Sun Tzu has been laying down. It is possible, of course, that # may be a later interpolation, in which case the sentence would practically mean: "Success in warfare cannot be taught." As an alternative, however, I would venture to suggest that a second # may have fallen out after #, so that we get: "These maxims for succeeding in war are the first that ought to be imparted."
+
+^7:4 [p. 8] Chang Yu tells us that in ancient times it was customary for a temple to be set apart for the use of a general who was about to take the field, in order that he might there elaborate his plan of campaign. Capt. Calthrop misunderstands it as "the shrine of the ancestors," and gives a loose and inaccurate rendering of the whole passage.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 9]
+
+  
+
+II. WAGING WAR [*1].
+
+1. Sun Tzu said: In the operations of war, where there are in the field a thousand swift chariots, as many heavy chariots, and a hundred thousand mail-clad soldiers, [*2] with provisions enough to carry them a thousand li, [*3] the expenditure at home and at the front, including entertainment of guests, small items such as glue and paint,
+
+[p. 10]
+
+and sums spent on chariots and armour, will reach the total of a thousand ounces of silver per day. [*1] Such is the cost of raising an army of 100,000 men. [*2]
+
+2. When you engage in actual fighting, if victory is long in coming, the men's weapons will grow dull and their ardour will be damped. [*3] If you lay siege to a town, you will exhaust your strength. [*4]
+
+3. Again, if the campaign is protracted, the resources of the State will not be equal to the strain. [*5]
+
+[p. 11]
+
+4. Now, when your weapons are dulled, your ardour damped, your strength exhausted and your treasure spent, other chieftains will spring up to take advantage of your extremity. Then no man, however wise, will be able to avert the consequences that must ensue. [*1]
+
+5. Thus, though we have heard of stupid haste in war, cleverness has never been seen associated with long delays. [*2]
+
+[p. 12]
+
+6. There is no instance of a country having benefited from prolonged warfare. [*1]
+
+7. It is only one who is thoroughly acquainted with the evils of war that can thoroughly understand the profitable way of carrying it on. [*2]
+
+8. The skilful soldier does not raise a second levy, neither are his supply-waggons loaded more than twice. [*3]
+
+9. Bring war material with you from home, but forage on the enemy. Thus the army will have food enough for its needs. [*4]
+
+[p. 13]
+
+10. Poverty of the State exchequer causes an army to be maintained by contributions from a distance. Contributing to maintain an army at a distance causes the people to be impoverished. [*1]
+
+11. On the other hand, the proximity of an army causes prices to go up; and high prices cause the people's substance to be drained away. [*2]
+
+12. When their substance is drained away, the peasantry will be afflicted by heavy exactions. [*3]
+
+[p. 14]
+
+13, 14. With this loss of substance and exhaustion of strength, the homes of the people will be stripped bare, and three-tenths of their incomes will be dissipated; [*1] while Government expenses for broken chariots, worn-out horses, breast-plates and helmets, bows and arrows, spears and shields, protective mantlets, draught-oxen and heavy waggons, will amount to four-tenths of its total revenue. [*2]
+
+[p. 15]
+
+15. Hence a wise general makes a point of foraging on the enemy. One cartload of the enemy's provisions is equivalent to twenty of one's own, and likewise a single picul of his provender is equivalent to twenty from one's own store. [*1]
+
+16. Now in order to kill the enemy, our men must be roused to anger; that there may be advantage from defeating the enemy, they must have their rewards. [*2]
+
+17. Therefore in chariot fighting, when ten or more chariots have been taken, those should be rewarded who took the first. [*3]
+
+[p. 16]
+
+[paragraph continues] Our own flags should he substituted for those of the enemy, and the chariots mingled and used in conjunction with ours. The captured soldiers should be kindly treated and kept.
+
+18. This is called, using the conquered foe to augment one's own strength.
+
+19. In war, then, let your great object be victory, not lengthy campaigns. [*1]
+
+20. Thus it may be known that the leader of armies is the arbiter of the people's fate, the man on whom it depends whether the nation shall be in peace or in peril. [*2]
+
+Footnotes
+
+^9:1 Ts'ao Kung has the note: # "He who wishes to fight must first count the cost," which prepares us for the discovery that the subject of the chapter is not what we might expect from the title, but is primarily a consideration of ways and means.
+
+^9:2 The # were lightly built and, according to Chang Yu, used for the attack; the # were heavier, and designed for purposes of defence. Li Ch'uan, it is true, says that the latter were light, but this seems hardly. probable. Capt. Calthrop translates "chariots" and "supply wagons" respectively, but is not supported by any commentator. It is interesting to note the analogies between early Chinese warfare and that of the Homeric Greeks. In each case, the war-chariot was the important factor, forming as it did the nucleus round which was grouped a certain number of foot-soldiers. With regard to the numbers given here, we are informed that each swift chariot was accompanied by 75 footmen, and each heavy chariot by 25 footmen, so that the whole army would be divided up into a thousand battalions, each consisting of two chariots and a hundred men.
+
+^9:3 2.78 modern li go to a mile. The length may have varied slightly since Sun Tzu's time.
+
+^10:1 #, which follows # in the textus receptus, is important as indicating the apodosis. In the text adopted by Capt. Calthrop it is omitted, so that he is led to give this meaningless translation of the opening sentence: "Now the requirements of War are such that we need 1,000 chariots," etc. The second, which is redundant, is omitted in the Yu Lan. #, like # above, is meant to suggest a large but indefinite number. As the Chinese have never possessed gold coins, it is incorrect to translate it "1000 pieces of gold."
+
+^10:2 Capt. Calthrop adds: "You have the instruments of victory," which he seems to get from the first five characters of the next sentence.
+
+^10:3 The Yu Lan omits #; but though # is certainly a bold phrase, it is more likely to be right than not. Both in this place and in  section 4, the T'ung Tien and Yu Lan read # (in the sense of "to injure") instead of #.
+
+^10:4 As synonyms to # are given #, #, # and #.
+
+^10:5 # means literally, "If there is long exposure of the army." Of # in this sense K'ang Hsi cites an instance from the biography of # Tou Jung in the Hou Han Shu, where the commentary defines it by #. Cf. also the following from the #: # "General, you have long been exposed to all weathers."
+
+^11:1 Following Tu Yu, I understand # in the sense of "to make good," i.e. to mend. But Tu Mu and Ho Shih explain it as "to make good plans"--for the future.
+
+^11:2 This concise and difficult sentence is not well explained by any of the commentators. Ts'ao Kung, Li Ch'uan, Meng Shih, Tu Yu, Tu Mu and Mei Yao-ch'en have notes to the effect that a general, though naturally stupid, may nevertheless conquer through sheer force of rapidity. Ho Shih says: "Haste may be stupid, but at any rate it saves expenditure of energy and treasure; protracted operations may be very clever, but they bring calamity in their train." Wang Hsi evades the difficulty by remarking: "Lengthy operations mean an army growing old, wealth being expended, an empty exchequer and distress among the people; true cleverness insures against the occurrence of such calamities." Chang Yu says: "So long as victory can be attained, stupid haste is preferable to clever dilatoriness." Now Sun Tzu says nothing whatever, except possibly by implication, about ill-considered haste being better than ingenious but lengthy operations. What he does say is something much more guarded, namely that, while speed may sometimes be injudicious, tardiness can never be anything but foolish--if only because it means impoverishment to the nation. Capt. Calthrop indulges his imagination with the following: "Therefore it is acknowledged that war cannot be too short in duration. But though conducted with the utmost art, if long continuing, misfortunes do always appear." It is hardly worth while to note the total disappearance of # in this precious concoction. In considering the point raised here by Sun Tzu, the classic example of Fabius Cunctator will inevitably occur td the mind. That general deliberately measured the endurance of Rome against that of Hannibal's isolated army, because it seemed to him that the latter was more likely to suffer from a long campaign in a strange country. But it is quite a moot question whether his tactics would have proved successful in the long run. Their reversal it is true, led to Cannae; but this only establishes a negative presumption in their favour.
+
+^12:1 The Yu Lan has # instead of #--evidently the mistake of a scribe.
+
+^12:2 That is, with rapidity. Only one who knows the disastrous effects of a long war can realise the supreme importance of rapidity in bringing it to a close. Only two commentators seem to favour this interpretation, but it fits well into the logic of the context, whereas the rendering, "He who does not know the evils of war cannot appreciate its benefits," is distinctly pointless.
+
+^12:3 Once war is declared, he will not waste precious time in waiting for reinforcements, nor will he turn his army back for fresh supplies, but crosses the enemy's frontier without delay. This may seem an audacious policy to recommend, but with all great strategists, from Julius Caesar to Napoleon Buonaparte, the value of time--that is, being a little ahead of your opponent--has counted for more than either numerical superiority or the nicest calculations with regard to commissariat. # is used in the sense of #. The T'ung Tien and Yu Lan have the inferior reading #. The commentators explain # by saying that the waggons are loaded once before passing the frontier, and that the army is met by a further consignment of supplies on the homeward march. The Yu Lan, however, reads # here as well.
+
+^12:4 #, "things to be used," in the widest sense. It includes all the impedimenta of an army, apart from provisions.
+
+^13:1 The beginning of this sentence does not balance properly with the next, though obviously intended to do so. The arrangement, moreover, is so awkward that I cannot help suspecting some corruption in the text. It never seems to occur to Chinese commentators that an emendation may be necessary for the sense, and we get no help from them here. Sun Tzu says that the cause of the people's impoverishment is #; it is clear, therefore, that the words have reference to some system by which the husbandmen sent their contributions of corn to the army direct. But why should it fall on them to maintain an army in this way, except because the State or Government is too poor to do so? Assuming then that # ought to stand first in the sentence in order to balance # (the fact that the two words rhyme is significant), and thus getting rid of #, we are still left with #, which latter word seems to me an obvious mistake for #. "Poverty in the army" is an unlikely expression, especially as the general has just been warned not to encumber his army with a large quantity of supplies. If we suppose that # somehow got written here instead of # (a very simple supposition, as we have # in the next sentence), and that later on somebody, scenting a mistake, prefixed the gloss # to #, without however erasing #, the whole muddle may be explained. My emended text then would be #, etc.
+
+^13:2 #, that is, as Wang Hsi says, before the army has left its own territory. Ts'ao Kung understands it of an army that has already crossed the frontier. Capt. Calthrop drops the #, reading #, but even so it is impossible to justify his translation "Repeated wars cause high prices."
+
+^13:3 [p. 14] Cf. Mencius VII. 2. xiv. 2, where # has the same meaning as #. # was an ancient measure of land. The full table, as given by #, may not be out of place here: 6 # = 1 ; 100 # = 1 #; 100 # = #; 3 # = 1 #; 3 # = #; 4 # = 1 #; 4 # =1 #; 4 # = 1 #. According to the Chou Li, there were nine husbandmen to a #, which would assign to each man the goodly allowance of 100 # (of which 6.6 now go to an acre). What the values of these measures were in Sun Tzu's time is not known with any certainty. The lineal # however, is supposed to have been about 20 cm., # may include levies of men, as well as other exactions.
+
+^14:1 The Yu Lan omits #. I would propose the emended reading #, etc. In view of the fact that we have # in the two preceding paragraphs, it seems probable that # is a scribe's mistake for #, having been added afterwards to make sense. #, literally: "Within the middle plains there is emptiness in the homes." For # cf. Shih Ching II. 3. vi. 3 and II. 5. 11. 3. With regard to #, Tu Mu says: #, and Wang Hsi: # ; that is, the people are mulcted not of 3/10, but of 7/10, of their income. But this is hardly to be extracted from our text. Ho Shih has a characteristic tag: # "The people being regarded as the essential part of the State, and food as the people's heaven, is it not right that those in authority should value and be careful of both?"
+
+^14:2 [p. 15] The Yu Lan has several various readings here, the more important of which are for the less common # (read p'i2), # for #, and # for #, which latter, if right, must mean "oxen from the country districts" (cf. supra,  section 12). For the meaning of #, see note on III,  section 4. Capt. Calthrop omits to translate #.
+
+^15:1 Because twenty cartloads will be consumed in the process of transporting one cartload to the front. According to Ts'ao Kung, # = 6 # 4, or 64 #, but according to Meng Shih, 10 # make a #. The # picul consisted of 70 # catties (Tu Mu and others say 120). #, literally, "beanstalks and straw."
+
+^15:2 These are two difficult sentences, which I have translated in accordance with Mei Yao-ch'en's paraphrase. We may incontinently reject Capt. Calthrop's extraordinary translation of the first: "Wantonly to kill and destroy the enemy must be forbidden." Ts'ao Kung quotes a jingle current in his day: #. Tu Mu says: "Rewards are necessary in order to make the soldiers see the advantage of beating the enemy; thus, when you capture spoils from the enemy, they must be used as rewards, so that all your men may have a keen desire to fight, each on his own account. Chang Yu takes # as the direct object of #; which is not so good.
+
+^15:3 [p. 16] Capt. Calthrop's rendering is: "They who are the first to lay their hands on more than ten of the enemy's chariots, should be encouraged." We should have expected the gallant captain to see that such Samson-like prowess deserved something more substantial than mere encouragement. T. omits #, and has # in place of the more archaic #.
+
+^16:1 As Ho Shih remarks: # "War is not a thing to be trifled with." Sun Tzu here reiterates the main lesson which this chapter is intended to enforce.
+
+^16:2 In the original text, there is a # before the #.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 17]
+
+  
+
+III. ATTACK BY STRATAGEM.
+
+1. Sun Tzu said: In the practical art of war, the best thing of all is to take the enemy's country whole and intact; to shatter and destroy it is not so good. So, too, it is better to capture an army entire than to destroy it, to capture a regiment, a detachment or a company entire than to destroy them. [*1]
+
+2. Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting. [*2]
+
+3. Thus the highest form of generalship is to baulk the enemy's plans; [*3]
+
+[p. 18]
+
+the next best is to prevent the junction of the enemy's forces; [*1] the next in order is to attack the enemy's army in the field; [*2] and the worst policy of all is to besiege walled cities. [*3]
+
+4. The rule, is, not to besiege walled cities if it can possibly be avoided. [*4]
+
+The preparation of mantlets, movable shelters, and various implements of war, will take up three whole months; [*5]
+
+[p. 19]
+
+and the piling up of mounds over against the walls will take three months more. [*1]
+
+5. The general, unable to control his irritation, will launch his men to the assault like swarming ants, [*2] with the result that one-third of his men are slain, while the town still remains untaken. Such are the disastrous effects of a siege. [*3]
+
+6. Therefore the skilful leader subdues the enemy's troops without any fighting; he captures their cities without
+
+[p. 20]
+
+laying siege to them; he overthrows their kingdom without lengthy operations in the field. [*1]
+
+7. With his forces intact he will dispute the mastery of the Empire, and thus, without losing a man, his triumph will be complete. [*2]
+
+This is the method of attacking by stratagem.
+
+8. It is the rule in war, if our forces are ten to the enemy's one, to surround him; if five to one, to attack him; [*3] if twice as numerous, to divide our army into two. [*4]
+
+[p. 21]
+
+9. If equally matched, we can offer battle; [*1] if slightly inferior in numbers, we can avoid the enemy; [*2] if quite unequal in every way, we can flee from him.
+
+10. Hence, though an obstinate fight may be made by a small force, in the end it must be captured by the larger force. [*3]
+
+11. Now the general is the bulwark of the State: if the bulwark is complete at all points, the State will be strong; if the bulwark is defective, the State will be weak. [*4]
+
+12. There are three ways in which a ruler can bring misfortune upon his army:--
+
+[p. 22]
+
+13. (1) By commanding the army to advance or to retreat, being ignorant of the fact that it cannot obey. This is called hobbling the army. [*1]
+
+14. (2) By attempting to govern an army in the same way as he administers a kingdom, being ignorant of the conditions which obtain in an army. This causes restlessness in the soldier's minds. [*2]
+
+[p. 23]
+
+15. (3) By employing the officers of his army without discrimination, [*1] through ignorance of the military principle of adaptation to circumstances. This shakes the confidence of the soldiers. [*2]
+
+16. But when the army is restless and distrustful, trouble is sure to come from the other feudal princes. This is simply bringing anarchy into the army, and flinging victory away. [*3]
+
+17. Thus we may know that there are five essentials
+
+[p. 24]
+
+for victory: (1) He will win who knows when to fight and when not to fight. [*1]
+
+(2) He will win who knows how to handle both superior and inferior forces. [*2]
+
+(3) He will win whose army is animated by the same spirit throughout all its ranks. [*3]
+
+(4) He will win who, prepared himself, waits to take the enemy unprepared.
+
+(5) He will win who has military capacity and is not interfered with by the sovereign. [*4]
+
+Victory lies in the knowledge of these five points. [*5]
+
+18. Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred
+
+[p. 25]
+
+battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. [*1] If you know neither the enemy nor yourself, you will succumb in every battle. [*2]
+
+Footnotes
+
+^17:1 A # "army corps," according to Ssu-ma Fa, consisted nominally of t2500 men; according to Ts'ao Kung, a # contained 500 men, a # any number between 100 and 500, and a # any number between 5 and 100. For the last two, however, Chang Yu gives the exact figures of 100 and 5 respectively.
+
+^17:2 Here again, no modern strategist but will approve the words of the old Chinese general. Moltke's greatest triumph, the capitulation of the huge French army at Sedan, was won practically without bloodshed.
+
+^17:3 [p. 18] I.e., as Li Ch'uan says (#), in their very inception. Perhaps the word "baulk" falls short of expressing the full force of #, which implies not an attitude of defence, whereby one might be content to foil the enemy's stratagems one after another, but an active policy of counter-attack. Ho Shih puts this very clearly in his note: "When the enemy has made a plan of attack against us, we must anticipate him by delivering our own attack first."
+
+^18:1 Isolating him from his allies. We must not forget that Sun Tzu, in speaking of hostilities, always has in mind the numerous states or principalities into which the China of his day was split up.
+
+^18:2 When he is already in full strength.
+
+^18:3 The use of the word # is somewhat unusual, which may account for the reading of the modern text: #.
+
+^18:4 Another sound piece of military theory. Had the Boers acted upon it in 1899, and refrained from dissipating their strength before Kimberley, Mafeking, or even Ladysmith, it is more than probable that they would have been masters of the situation before the British were ready seriously to oppose them.
+
+^18:5 It is not quite clear what # were. Ts'ao Kung simply defines them as # "large shields," but we get a better idea of them from Li Ch'uan, who says they were to protect the heads of those who were assaulting the city walls at close quarters. This seems to suggest a sort of Roman testudo, ready made. Tu Mu says they were "what are now termed #" (wheeled vehicles used in repelling attacks, according to K'ang Hsi), but this is denied by Ch'en Hao. See supra, II. 14. The name is also applied to turrets on city walls. Of # (fen yun) we get [p. 19] a fairly clear description from several commentators. They were wooden missile-proof structures on four wheels, propelled from within, covered over with raw hides, and used in sieges to convey parties of men to and from the walls, for the purpose of filling up the encircling moat with earth. Tu Mu adds that they are now called # "wooden donkeys." Capt. Calthrop wrongly translates the term, "battering-rams." I follow Ts'ao Kung in taking # as a verb, co-ordinate and synonymous with #. Those commentators who regard # as an adjective equivalent to # "long," make presumably # into a noun.
+
+^19:1 The # (or #, in the modern text) were great mounds or ramparts of earth heaped up to the level of the enemy's walls in order to discover the weak points in the defence, and also to destroy the # fortified turrets mentioned in the preceding note. Tu Yu quotes the Tso Chuan: #.
+
+^19:2 Capt. Calthrop unaccountably omits this vivid simile, which, as Ts'ao Kung says, is taken from the spectacle of an army of ants climbing a wall. The meaning is that the general, losing patience at the long delay, may make a premature attempt to storm the place before his engines of war are ready.
+
+^19:3 We are reminded of the terrible losses of the Japanese before Port Arthur, in the most recent siege which history has to record. The T'ung Tien reads #. For # the Yu Lan has #. Capt. Calthrop does not translate #, and mistranslates #.
+
+^20:1 Chia Lin notes that he only overthrows the #, that is, the Government, but does no harm to individuals. The classical instance is Wu Wang, who after having put an end to the Yin dynasty was acclaimed "Father and mother of the people."
+
+^20:2 Owing to the double meanings of #, # [= #] and #, the latter part of the sentence is susceptible of quite a different meaning: "And thus, the weapon not being blunted by use, its keenness remains perfect." Chang Yu says that # is "the advantage of a prosperous kingdom and a strong army."
+
+^20:3 Straightaway, without waiting for any further advantage.
+
+^20:4 Note that # does not refer to the enemy, as in the two preceding clauses. This sudden change of object is quite common in Chinese. Tu Mu takes exception to the saying; and at first sight, indeed, it appears to violate a fundamental principle of war. Ts'ao Kung, however, gives a clue to Sun Tzu's meaning: # "Being two to the enemy's one, we may use one part of our army in the regular way, and the other for some special diversion." [For explanation of # and #, see V. 3, note.] Chang Yu thus further elucidates the point: "If our force is twice as numerous as that of the enemy, it should be split up into two divisions, one to meet the enemy in front, and one to fall upon his rear; if he replies to the frontal attack, he may be crushed from behind; if to the rearward attack, he may be crushed in front. This is what is meant by saying that "one part may be used in the regular way, and the other for some special diversion." Tu Mu does not understand that dividing one's army is simply an irregular, just as concentrating it is the regular, strategical method, and he is too hasty in calling this a mistake."
+
+^21:1 Li Ch'uan, followed by Ho Shih, gives the following paraphrase: # "If attackers and attacked are equally matched in strength, only the able general will fight." He thus takes # as though it were #, which is awkward.
+
+^21:2 The T'u Shu has # instead of #, which is hardly distinguishable in sense from # in the next clause. The meaning, "we can watch the enemy," is certainly a great improvement on the above; but unfortunately there appears to be no very good authority for the variant. Chang Yu reminds us that the saying only applies if the other factors are equal; a small difference in numbers is often more than counterbalanced by superior energy and discipline.
+
+^21:3 In other words: "C'est magnifique; mais ce n'est pas la guerre."
+
+^21:4 # cannot be restricted to anything so particular as in Capt. Calthrop's translation, "divided in his allegiance." It is simply keeping up the metaphor suggested by #. As Li Ch'uan tersely puts it: # "Ch'i, gap, indicates deficiency; if the general's ability is not perfect (i.e. if he is not thoroughly versed in his profession), his army will lack strength."
+
+^22:1 Ts'ao Kung weakly defines # as # "control," "direct." Cf.  section 17 ad fin. But in reality it is one of those graphic metaphors which from time to time illuminate Sun Tzu's work, and is rightly explained by Li Ch'uan as = #. He adds the comment: # "It is like tying together the legs of a thoroughbred, so that it is unable to gallop." One would naturally think of "the ruler" in this passage as being at home, and trying to direct the movements of his army from a distance. But the commentators understand just the reverse, and quote the saying of T'ai Kung: # "A kingdom should not be governed from without, an army should not be directed from within." Of course it is true that, during an engagement, or when in close touch with the enemy, the general should not be in the thick of his own troops, but a little distance apart. Otherwise, he will be liable to misjudge the position as a whole, and give wrong orders.
+
+^22:2 Ts'ao Kung's note is: #, which may be freely translated: "The military sphere and the civil sphere are wholly distinct; you can't handle an army in kid gloves." And Chang Yu says: "Humanity and justice (#) are the principles on which to govern a state, but not an army; opportunism and flexibility (#), on the other hand, are military rather than civic virtues." #, "to assimilate the governing of an army"--to that of a State, understood. The T'ung Tien has # inserted before #, here and in  section15.
+
+^23:1 That is, he is not careful to use the right man in the right place.
+
+^23:2 I follow Mei Yao-ch'en here. The other commentators make # etc. refer, not to the ruler, as in  section section 13, 14, but to the officers he employs. Thus Tu Yu says: # "If a general is ignorant of the principle of adaptability, he must not be entrusted with a position of authority." Tu Mu quotes #: "The skilful employer of men will employ the wise man, the brave man, the covetous man, and the stupid man. For the wise man delights in establishing his merit, the brave man likes to show his courage in action, the covetous man is quick at seizing advantages, and the stupid man has no fear of death." The T'ung Tien reads #, which Tu Yu explains as # "is utterly defeated." Capt. Calthrop gives a very inaccurate rendering: "Ignorant of the situation of the army, to interfere in its dispositions."
+
+^23:3 Most of the commentators take # in the sense of #, which it seems to bear also in the Li Chi, #, I. 18. [# is there given as its equivalent, but Legge tries notwithstanding to retain the more usual sense, translating "draw ... back," which is hardly defensible.] Tu Mu and Wang Hsi, however, think # means "leading up to the enemy's victory."
+
+^24:1 Chang Yu says: "If he can fight, he advances and takes the offensive; if he cannot fight, he retreats and remains on the defensive. He will invariably conquer who knows whether it is right to take the offensive or the defensive."
+
+^24:2 This is not merely the general's ability to estimate numbers correctly, as Li Ch'uan and others make out. Chang Yu expounds the saying more satisfactorily: "By applying the art of war, it is possible with a lesser force to defeat a greater, and vice versa. The secret lies in an eye for locality, and in not letting the right moment slip. Thus Wu Tzu says: 'With a superior force, make for easy ground; with an inferior one, make for difficult ground.'"
+
+^24:3 Ts'ao Kung refers # less well to sovereign and subjects.
+
+^24:4 Tu Yu quotes # as saying: # "It is the sovereign's function to give broad instructions, but to decide on battle is the function of the general." It is needless to dilate on the military disasters which have been caused by undue interference with operations in the field on the part of the home government. Napoleon undoubtedly owed much of his extraordinary success to the fact that he was not hampered by any central authority,--that he was, in fact, # and # in one.
+
+^24:5 Literally, "These five things are knowledge of the principle of victory."
+
+^25:1 Li Ch'uan cites the case of # Fu Chien, prince of # Ch'in, who in 383 A.D. marched with a vast army against the # Chin Emperor. When warned not to despise an enemy who could command the services of such men as # Hsieh An and # Huan Ch'ung, he boastfully replied: "I have the population of eight provinces at my back, infantry and horsemen to the number of one million; why, they could dam up the Yangtsze River itself by merely throwing their whips into the stream. What danger have I to fear?" Nevertheless, his forces were soon after disastrously routed at the # Fei River, and he was obliged to beat a hasty retreat.
+
+^25:2 The modern text, represented by the # and T'u Shu, has #, which I should be inclined to adopt in preference to here, though the T'ung Tien and Yu Lan both have the latter. Chang Yu offers the best commentary on #. He says that these words "have reference to attack and defence: knowing the enemy enables you to take the offensive, knowing yourself enables you to stand on the defensive." He adds: # "Attack is the secret of defence; defence is the planning of an attack." It would be hard to find a better epitome of the root-principle of war.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 26]
+
+  
+
+IV. TACTICAL DISPOSITIONS [*1].
+
+1. Sun Tzu said: The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy.
+
+2. To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself. [*2]
+
+[p. 27]
+
+3. Thus the good fighter is able to secure himself against defeat, [*1] but cannot make certain of defeating the enemy. [*2]
+
+4: Hence the saying: One may know how to conquer without being able to do it. [*3]
+
+5. Security against defeat implies defensive tactics; ability to defeat the enemy means taking the offensive. [*4]
+
+6. Standing on the defensive indicates insufficient strength: attacking, a superabundance of strength.
+
+7. The general who is skilled in defence hides in the most secret recesses of the earth; [*5]
+
+[p. 28]
+
+he who is skilled in attack flashes forth from the topmost heights of heaven. [*1] Thus on the one hand we have ability to protect ourselves; on the other, a victory that is complete. [*2]
+
+8. To see victory only when it is within the ken of the common herd is not the acme of excellence. [*3]
+
+9. Neither is it the acme of excellence if you fight and conquer and the whole Empire says, "Well done!" [*4]
+
+[p. 29]
+
+10. To lift an autumn hair is no sign of great strength; [*1] to see sun and moon is no sign of sharp sight; to hear the noise of thunder is no sign of a quick ear. [*2]
+
+11. What the ancients called a clever fighter is one who not only wins, but excels in winning with ease. [*3]
+
+12. Hence his victories bring him neither reputation for wisdom nor credit for courage. [*4]
+
+[p. 30]
+
+13. He wins his battles by making no mistakes. [*1] Making no mistakes is what establishes the certainty of victory, for it means conquering an enemy that is already defeated. [*2]
+
+14. Hence the skilful fighter puts himself into a position which makes defeat impossible, and does not miss the moment for defeating the enemy. [*3]
+
+I5. Thus it is that in war the victorious strategist only seeks battle after the victory has been won, whereas he who is destined to defeat first fights and afterwards looks for victory. [*4]
+
+[p. 31]
+
+16. The consummate leader cultivates the moral law, and strictly adheres to method and discipline; [*1] thus it is in his power to control success.
+
+17. In respect of military method, we have, firstly, Measurement; secondly, Estimation of quantity; thirdly, Calculation; fourthly, Balancing of chances; fifthly, Victory.
+
+18. Measurement owes its existence to Earth; Estimation of quantity to Measurement; Calculation to Estimation of quantity; Balancing of chances to Calculation; and Victory to Balancing of chances. [*2]
+
+[p. 32]
+
+19. A victorious army opposed to a routed one, is as a pound's weight placed in the scale against a single grain. [*1]
+
+20. The onrush of a conquering force is like the bursting of pent-up waters into a chasm a thousand fathoms deep. So much for tactical dispositions. [*2]
+
+Footnotes
+
+^26:1 # is a very comprehensive and somewhat vague term. Literally, "form," "body," it comes to mean "appearance," "attitude" or "disposition;" and here it is best taken as something between, or perhaps combining, "tactics" and "disposition of troops." Ts'ao Kung explains it as # "marching and countermarching on the part of the two armies with a view to discovering each other's condition." Tu Mu says: "It is through the# dispositions of an army that its condition may be discovered. Conceal your dispositions (#), and your condition will remain secret, which leads to victory; show your dispositions, and your condition will become patent, which leads to defeat." Wang Hsi remarks that the good general can # "secure success by modifying his tactics to meet those of the enemy." In the modern text, the title of the chapter appears as #, which Capt. Calthrop incorrectly translates "the order of battle."
+
+^26:2 That is, of course, by a mistake on his part. Capt. Calthrop has: "The causes of defeat come from within; victory is born in the enemy's camp," which, though certainly an improvement on his previous attempt, is still incorrect.
+
+^27:1 "By concealing the disposition of his troops, covering up his tracks, and taking unremitting precautions" (Chang Yu).
+
+^27:2 The original text reads #, which the modern text has further modified into #. Capt. Calthrop makes out the impossible meaning, "and further render the enemy incapable of victory."
+
+^27:3 Capt. Calthrop translates: "The conditions necessary for victory may be present, but they cannot always be obtained," which is more or less unintelligible.
+
+^27:4 For #, I retain the sense which it undoubtedly bears in  section section 1-3, in spite of the fact that the commentators are all against me. The meaning they give, "He who cannot conquer takes the defensive," is plausible enough, but it is highly improbable that # should suddenly become active in this way. An incorrect variant in the Yu Lan is #.
+
+^27:5 Literally, "hides under the ninth earth," which is a metaphor indicating the utmost secrecy and concealment, so that the enemy may not know [p. 28] his whereabouts. The # of this passage have of course no connection with the # "Nine situations" of chap. XI.
+
+^28:1 Another metaphor, implying that he falls on his adversary like a thunderbolt, against which there is no time to prepare. This is the opinion of most of the commentators, though Ts'ao Kung, followed by Tu Yu, explains # as the hills, rivers, and other natural features which will afford shelter or protection to the attacked, and # as the phases of weather which may be turned to account by the attacking party. Capt. Calthrop's "The skilful in attack push to the topmost heaven" conveys no meaning at all.
+
+^28:2 Capt. Calthrop draws on a fertile imagination for the following: "If these precepts be observed, victory is certain."
+
+^28:3 As Ts'ao Kung remarks, # "the thing is to see the plant before it has germinated," to foresee the event before the action has begun. Li Ch'uan allude section to the story of Han Hsin who, when about to attack the vastly superior army of # Chao, which was strongly entrenched in the city of # Ch'eng-an, said to his officers: "Gentlemen, we are going to annihilate the enemy, and shall meet again at dinner." The officers hardly took his words seriously, and gave a very dubious assent. But Han Hsin had already worked out in his mind the details of a clever stratagem, whereby, as he foresaw, he was able to capture the city and inflict a crushing defeat on his adversary. For the full story, see #, chap. 34, #. Capt. Calthrop again blunders badly with: "A victory, even if popularly proclaimed as such by the common folk, may not be a true success."
+
+^28:4 True excellence being, as Tu Mu says: # "To plan secretly, to move surreptitiously, [p. 29] to foil the enemy's intentions and baulk his schemes, so that at last the day may be won without shedding a drop of blood." Sun Tzu reserves his approbation for things that
+
+   "the world's coarse thumb
+ And finger fail to plumb."
+
+^29:1 # is explained as the fur of a hare, which is finest in autumn, when it begins to grow afresh. The phrase is a very common one in Chinese writers. Cf. Mencius, I. 1. vii. 10, and Chuang Tzu, #, et al.
+
+^29:2 Ho Shih gives as real instances of strength, sharp sight and quick hearing: # Wu Huo, who could lift a tripod weighing 250 stone; # Li Chu, who at a distance of a hundred paces could see objects no bigger than a mustard seed; and # Shih K'uang, a blind musician who could hear the footsteps of a mosquito.
+
+^29:3 The original text, followed by the T'u Shu, has #. But this is an alteration evidently intended to smooth the awkwardness of #, which means literally: "one who, conquering, excels in easy conquering." Mei Yao-ch'en says: "He who only sees the obvious, wins his battles with difficulty; he who looks below the surface of things, wins with ease."
+
+^29:4 Tu Mu explains this very well: "Inasmuch as his victories are gained over circumstances that have not come to light, the world at large knows nothing of them, and he wins no reputation for wisdom; inasmuch as the hostile state submits before there has been any bloodshed, he receives no credit for courage."
+
+^30:1 Ch'en Hao says: "He plans no superfluous marches, he devises no futile attacks." The connection of ideas is thus explained by Chang Yu: "One who seeks to conquer by sheer strength, clever though he may be at winning pitched battles, is also liable on occasion to be vanquished whereas he who can look into the future and discern conditions that are not yet manifest, will never make a blunder and therefore invariably win." Li Ch'uan thinks that the character # should be # "to have doubts." But it is better not to tamper with the text, especially when no improvement in sense is the result.
+
+^30:2 The T'u Shu omits #. # here = #. Chia Lin says it is put for # in the sense of #; but this is far-fetched. Capt. Calthrop altogether ignores the important word, #
+
+^30:3 A # "counsel of perfection," as Tu Mu truly observes. # need not be confined strictly to the actual ground occupied by the troops. It includes all the arrangements and preparations which a wise general will make to increase the safety of his army.
+
+^30:4 Ho Shih thus expounds the paradox: "In warfare, first lay plans which will ensure victory, and then lead your army to battle; if you will not begin with stratagem but rely on brute strength alone, victory will no longer be assured."
+
+^31:1 For # and #, see supra, I. 4 sqq. I think that Chang Yu is wrong in altering their signification here, and taking them as # and # respectively.
+
+^31:2 It is not easy to distinguish the four terms # very clearly. The first seems to be surveying and measurement of the ground, which enable us to # form an estimate of the enemy's strength, and to # make calculations based on the data thus obtained; we are thus led to # a general weighing-up, or comparison of the enemy's chances with our own; if the latter turn the scale, then # victory ensues. The chief difficulty lies in #, which some commentators take as a calculation of numbers, thereby making it nearly synonymous with #. Perhaps # is rather a consideration of the enemy's general position or condition (# or #), while # is the estimate of his numerical strength. On the other hand, Tu Mu defines # as #, and adds: # "the question of relative strength having been settled, we can bring the varied resources of cunning into play." Ho Shih seconds this interpretation, which is weakened, however, by the fact that # is given as logically consequent on #; this certainly points to the latter being a calculation of numbers. Of Capt. Calthrop's version the less said the better.
+
+^32:1 Literally, "a victorious army is like an # i (20 oz.) weighed against a # shu (1/24 oz.); a routed army as a shu weighed against an i." The point is simply the enormous advantage which a disciplined force, flushed with victory, has over one demoralised by defeat. Legge, in his note on Mencius, I. 2. ix. 2, makes the # to be 24 Chinese ounces, and corrects Chu Hsi's statement that it equalled 20 oz. only. But Li Ch'uan of the T'ang dynasty here gives the same figure as Chu Hsi.
+
+^32:2 The construction here is slightly awkward and elliptical, but the general sense is plain. The T'u Shu omits #. A # = 8 # or Chinese feet.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 33]
+
+  
+
+V. ENERGY [*1].
+
+1. Sun Tzu said: The control of a large force is the same in principle as the control of a few men: it is merely a question of dividing up their numbers. [*2]
+
+2. Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals. [*3]
+
+[p. 34]
+
+3. To ensure that your whole host may withstand the brunt of the enemy's attack and remain unshaken--this is effected by manoeuvres direct and indirect. [*1]
+
+[p. 35]
+
+4. That the impact of your army may be like a grindstone dashed against an egg--this is effected by the science of weak points and strong. [*1]
+
+5. In all fighting, the direct method may be used for joining battle, but indirect methods will he needed in order to secure victory. [*2]
+
+[p. 36]
+
+6. Indirect tactics, efficiently applied, are inexhaustible as Heaven and Earth, unending as the flow of rivers and streams; [*1] like the sun and moon, they end but to begin anew; like the four seasons, they pass away but to return once more. [*2]
+
+7. There are not more than five musical notes, [*3] yet the combinations of these five give rise to more melodies than can ever be heard.
+
+8. There are not more than five primary colours, [*4] yet in combination they produce more hues than can ever be seen.
+
+9. There are not more than five cardinal tastes, [*5] yet combinations of them yield more flavours than can ever be tasted.
+
+[p. 37]
+
+10. In battle, there are not more than two methods of attack--the direct and the indirect; yet these two in combination give rise to an endless series of manoeuvres.
+
+11. The direct and the indirect lead on to each other in turn. It is like moving in a circle--you never come to an end. Who can exhaust the possibilities of their combination? [*1]
+
+12. The onset of troops is like the rush of a torrent which will even roll stones along in its course.
+
+13. The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim. [*2]
+
+[p. 38]
+
+14. Therefore the good fighter will be terrible in his onset, and prompt in his decision. [*1]
+
+15. Energy may be likened to the bending of a crossbow; decision, to the releasing of the trigger. [*2]
+
+16. Amid the turmoil and tumult of battle, there may be seeming disorder and yet no real disorder at all; amid confusion and chaos, your array may be without head or tail, yet it will be proof against defeat [*3]
+
+[p. 39]
+
+17. Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength. [*1]
+
+18. Hiding order beneath the cloak of disorder is simply a question of subdivision; [*2] concealing courage under a show of timidity presupposes a fund of latent energy; [*3] masking strength with weakness is to be effected by tactical dispositions. [*4]
+
+[p. 40]
+
+19. Thus one who is skilful at keeping the enemy on the move maintains deceitful appearances, according to which the enemy will act. [*1] He sacrifices something, that the enemy may snatch at it. [*2]
+
+20. By holding out baits, he keeps him on the march; then with a body of picked men he lies in wait for him. [*3]
+
+[p. 41]
+
+21. The clever combatant looks to the effect of combined energy, and does not require too much from individuals. [*1] Hence his ability to pick out the right men and to utilise combined energy. [*2]
+
+22. When he utilises combined energy, his fighting men become as it were like unto rolling logs or stones. For it is the nature of a log or stone to remain motionless on level ground, and to move when on a slope; if four-cornered, to come to a standstill, but if round-shaped, to go rolling down. [*3]
+
+23. Thus the energy developed by good fighting men is as the momentum of a round stone rolled down a mountain thousands of feet in height. So much on the subject of energy. [*4]
+
+Footnotes
+
+^33:1 # here is said to be an older form of #; Sun Tzu, however, would seem to have used the former in the sense of "power," and the latter only in the sense of "circumstances." The fuller title # is found in the T'u Shu and the modern text. Wang Hsi expands it into # "the application, in various ways, of accumulated power;" and Chang Yu says: # "When the soldiers' energy has reached its height, it may be used to secure victory."
+
+^33:2 That is, cutting up the army into regiments, companies, etc., with subordinate officers in command of each. Tu Mu reminds us of Han Hsin's famous reply to the first Han Emperor, who once said to him: "How large an army do you think I could lead?" "Not more than 100,000 men, your Majesty." "And you?" asked the Emperor. "Oh!" he answered, "the more the better" #). Chang Yu gives the following curious table of the subdivisions of an army:--5 men make a #; 2 # make a #; 5 # make a #; 2 # make a #, 2 # make a #; 2 # in make a #; 2 # make a #; 2 # make a #; 2 # make a #. A # or army corps thus works out at 3200 men. But cf. III.  section 1, note. For #, see I.  section 10. It is possible that # in that paragraph may also be used in the above technical sense.
+
+^33:3 [p. 34] One must he careful to avoid translating # "fighting against a large number," no reference to the enemy being intended. # is explained by Ts'ao Kung as denoting flags and banners, by means of which every soldier may recognise his own particular regiment or company, and thus confusion may be prevented. # he explains as drums and gongs, which from the earliest times were used to sound the advance and the retreat respectively. Tu Mu defines # as # "marshalling the troops in order," and takes # as the flags and banners. Wang Hsi also dissents from Ts'ao Kung, referring # to the ordering of the troops by means of banners, drums and gongs, and # to the various names by which the regiments might be distinguished. There is much to be said for this view.
+
+^34:1 For #, there is another reading #, "all together," adopted by Wang Hsi and Chang Yu. We now come to one of the most interesting parts of Sun Tzu's treatise, the discussion of the # and the #. As it is by no means easy to grasp the full significance of these two terms, or to render them at all consistently by good English equivalents, it may be as well to tabulate some of the commentators' remarks on the subject before proceeding further. Li Ch'uan: # "Facing the enemy is cheng, making lateral diversions is ch'i." Chia Lin: # "In presence of the enemy, your troops should be arrayed in normal fashion, but in order to secure victory abnormal manoeuvres must be employed." Mei Yao-ch'en: # "Ch'i is active, cheng is passive; passivity means waiting for an opportunity, activity brings the victory itself." Ho Shih: # "We must cause the enemy to regard our straightforward attack as one that is secretly designed; and vice versa; thus cheng may also be ch'i, and ch'i may also be cheng." He instances the famous exploit of Han Hsin, who when marching ostensibly against # Lin-chin (now # Chao-i in Shensi), suddenly threw a large force across the Yellow River in wooden tubs, utterly disconcerting his opponent. [Ch'ien Han Shu, ch. 34.] Here, we are told, the march on Lin-chin was #, and the surprise manoeuvre was #. Chang Yu gives the following summary of opinions on the words: "Military writers [p. 35] do not all agree with regard to the meaning of ch'i and cheng. # Wei Liao Tzu [4th cent. B.C.] says: # 'Direct warfare favours frontal attacks, indirect warfare attacks from the rear.' Ts'ao Kung says: 'Going straight out to join battle is a direct operation; appearing on the enemy's rear is an indirect manoeuvre.' #. Li Wei-kung [6th and 7th cent. A.D.] says: 'In war, to march straight ahead is cheng; turning movements, on the other hand, are ch'i.' These writers simply regard cheng as cheng, and ch'i as ch'i; they do not note that the two are mutually interchangeable and run into each other like the two sides of a circle [see infra,  section 11]. A comment of the Tang Emperor T'ai Tsung goes to the root of the matter: 'A ch'i manoeuvre may be cheng, if we make the enemy look upon it as cheng; then our real attack will be ch'i, and vice versa. The whole secret lies in confusing the enemy, so that he cannot fathom our real intent.'" To put it perhaps a little more clearly: any attack or other operation is #, on which the enemy has had his attention fixed; whereas that is #, which takes him by surprise or comes from an unexpected quarter. If the enemy perceives a movement which is meant to be #, it immediately becomes #.
+
+^35:1 #, literally "the hollow and the solid," is the title of chap. VI. # tuan is the T'u Shu reading, # hsia that of the standard text. It appears from K'ang Hsi that there has been much confusion between the two characters, and indeed, it is probable that one of them has really crept into the language as a mistake for the other.
+
+^35:2 Chang Yu says: # "Steadily develop indirect tactics, either by pounding the enemy's flanks or falling on his rear." A brilliant example of "indirect tactics" which decided the fortunes of a campaign was Lord Roberts' night march round the Peiwar Kotal in the second Afghan war.  [**]
+
+^35:* "Forty-one Years in India," chap. 46.
+
+^36:1 # is the universally accepted emendation for #, the reading of the #.
+
+^36:2 Tu Yu and Chang Yu understand this of the permutations of # and #. But at present Sun Tzu is not speaking of # at all, unless, indeed, we suppose with # Cheng Yu-hsien that a clause relating to it has fallen out of the text. Of course, as has already been pointed out, the two are so inextricably interwoven in all military operations, that they cannot really be considered apart. Here we simply have an expression, in figurative language, of the almost infinite resource of a great leader.
+
+^36:3 #.
+
+^36:4 # blue, yellow, red, white and black.
+
+^36:5 # sour, acrid, salt, sweet, bitter.
+
+^37:1 The T'u Shu adds #. The final # may refer either to the circle or, more probably, to the # understood. Capt. Calthrop is wrong with: "They are a mystery that none can penetrate."
+
+^37:2 For # the Yu Lan reads #, which is also supported by a quotation in the # [3rd cent. B.C.]. # in this context is a word which really defies the best efforts of the translator. Tu Mu says that it is equivalent to # "the measurement or estimation of distance." But this meaning does not quite fit the illustrative simile in  section15. As applied to the falcon, it seems to me to denote that instinct of self-restraint which keeps the bird from swooping on its quarry until the right moment, together with the power of judging when the right moment has arrived. The analogous quality in soldiers is the highly important one of being able to reserve their fire until the very instant at which it will be most effective. When the "Victory" went into action at Trafalgar at hardly more than drifting pace, she was for several minutes exposed to a storm of shot and shell before replying with a single gun. Nelson coolly waited until he was within close range, when the broadside he brought to bear worked fearful havoc on the enemy's nearest ships. That was a case of #.
+
+^38:1 Tu Yu defines # here by the word #, which is very like "decision" in English. # is certainly used in a very unusual sense, even if, as the commentators say, it = #. This would have reference to the measurement of distance mentioned above, letting the enemy get near before striking. But I cannot help thinking that Sun Tzu meant to use the word in a figurative sense comparable to our own idiom "short and sharp." Cf. Wang Hsi's note, which after describing the falcon's mode of attack, proceeds: # "This is just how the 'psychological moment' should be seized in war." I do not care for Capt. Calthrop's rendering: "The spirit of the good fighter is terrifying, his occasions sudden."
+
+^38:2 "Energy" seems to be the best equivalent here for #, because the comparison implies that the force is potential, being stored up in the bent cross-bow until released by the finger on the trigger. None of the commentators seem to grasp the real point of the simile.
+
+^38:3 #, literally "formation circular", is explained by Li Ch'uan as # "without back or front." Mei Yao-ch'en says: "The subdivisions of the army having been previously fixed, and the various signals agreed upon, the separating and joining, the dispersing and collecting which will take place in the course of a battle, may give the appearance of disorder when no real disorder is possible. Your formation may be without head or tail, your dispositions all topsy-turvy, and yet a rout of your forces quite out of the question." It is a little difficult to decide whether # and # should not be taken as imperatives: "fight in disorder (for the purpose of deceiving the enemy), and you will be secure against real disorder." Cf. I.  section 20: #.
+
+^39:1 In order to make the translation intelligible, it is necessary to tone down the sharply paradoxical form of the original. Ts'ao Kung throws out a hint of the meaning in his brief note: # "These things all serve to destroy formation and conceal one's condition." But Tu Mu is the first to put it quite plainly: "If you wish to feign confusion in order to lure the enemy on, you must first have perfect discipline; if you wish to display timidity in order to entrap the enemy, you must have extreme courage; if you wish to parade your weakness in order to make the enemy over-confident, you must have exceeding strength."
+
+^39:2 See supra,  section 1.
+
+^39:3 It is passing strange that the commentators should understand # here as "circumstances"--a totally different sense from that which it has previously borne in this chapter. Thus Tu Mu says: # "seeing that we are favourably circumstanced and yet make no move, the enemy will believe that we are really afraid."
+
+^39:4 Chang Yu relates the following anecdote of Kao Tsu, the first Han Emperor: "Wishing to crush the Hsiung-nu, he sent out spies to report on their condition. But the Hsiung-nu, forewarned, carefully concealed all their able-bodied men and well-fed horses, and only allowed infirm soldiers and emaciated cattle to be seen. The result was that the spies one and all recommended the Emperor to deliver his attack. # Lou Ching alone opposed them, saying: "When two countries go to war, they are naturally inclined to make an ostentatious display of their strength. Yet our spies have seen nothing but old age and infirmity. This is surely some ruse on the part of the enemy, and it would be unwise for us to attack." The Emperor, however, disregarding this advice, fell into the trap and found himself surrounded at # Po-teng."
+
+^40:1 Ts'ao Kung's note is # "Make a display of weakness and want," but Tu Mu rightly points out that # does not refer only to weakness: "If our force happens to be superior to the enemy's, weakness may be simulated in order to lure him on; but if inferior, he must be led to believe that we are strong, in order that he may keep off. In fact, all the enemy's movements should be determined by the signs that we choose to give him." The following anecdote of # Sun Pin, a descendant of Sun Wu, is related at length in the #, chap. 65: In 341 B.C., the # Ch'i State being at war with # Wei, sent # T'ien Chi and Sun Pin against the general # P'ang Chuan, who happened to be a deadly personal enemy of the latter. Sun Pin said: "The Ch'i State has a reputation for cowardice, and therefore our adversary despises us. Let us turn this circumstance to account." Accordingly, when the army had crossed the border into Wei territory, he gave orders to show 100,000 fires on the first night, 50,000 on the next, and the night after only 20,000. P'ang Chuan pursued them hotly, saying to himself: "I knew these men of Ch'i were cowards: their numbers have already fallen away by more than half." In his retreat, Sun Pin came to a narrow defile, which he calculated that his pursuers would reach after dark. Here he had a tree stripped of its bark, and inscribed upon it the words: "Under this tree shall P'ang Chuan die." Then, as night began to fall, he placed a strong body of archers in ambush near by, with orders to shoot directly they saw a light. Later on, P'ang Chuan arrived at the spot, and noticing the tree, struck a light in order to read what was written on it. His body was immediately riddled by a volley of arrows, and his whole army thrown into confusion. [The above is Tu Mu's version of the story; the Shih Chi, less dramatically but probably with more historical truth, makes P'ang Chuan cut his own throat with an exclamation of despair, after the rout of his army.]
+
+^40:2 # here = #.
+
+^40:3 This would appear to be the meaning if we retain #, which Mei Yao-ch'en explains as #, "men of spirit." The T'u Shu reads #, [p. 41] an emendation suggested by # Li Ching. The meaning then would be, "He lies in wait with the main body of his troops."
+
+^41:1 Tu Mu says: "He first of all considers the power of his army in the bulk; afterwards he takes individual talent into account, and uses each man according to his capabilities. He does not demand perfection from the untalented."
+
+^41:2 Another reading has # instead of #. It would be interesting if Capt. Calthrop could tell us where the following occurs in the Chinese: "yet, when an opening or advantage shows, he pushes it to its limits."
+
+^41:3 Ts'ao Kung calls this # "the use of natural or inherent power." Capt. Calthrop ignores the last part of the sentence entirely. In its stead he has: "So await the opportunity, and so act when the opportunity arrives"--another absolutely gratuitous interpolation. The T'ung Tien omits #.
+
+^41:4 The T'ung Tien omits #. The chief lesson of this chapter, in Tu Mu's opinion, is the paramount importance in war of rapid evolutions and sudden rushes. "Great results," he adds, "can thus be achieved with small forces."
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 42]
+
+  
+
+VI. WEAK POINTS AND STRONG.
+
+Chang Yu attempts to explain the sequence of chapters as follows: "Chapter IV, on Tactical Dispositions, treated of the offensive and the defensive; chapter V, on Energy, dealt with direct and indirect methods. The good general acquaints himself first with the theory of attack and defence, and then turns his attention to direct and indirect methods. He studies the art of varying and combining these two methods before proceeding to the subject of weak and strong points. For the use of direct or indirect methods arises out of attack and defence, and the perception of weak and strong points depends again on the above methods. Hence the present chapter comes immediately after the chapter on Energy."
+
+1. Sun Tzu said: Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle, will arrive exhausted. [*1]
+
+2. Therefore the clever combatant imposes his will on the enemy, but does not allow the enemy's will to be imposed on him. [*2]
+
+[p. 43]
+
+3. By holding out advantages to him, he can cause the enemy to approach of his own accord; or, by inflicting damage, he can make it impossible for the enemy to draw near. [*1]
+
+4. If the enemy is taking his ease, he can harass him; [*2] if well supplied with food, he can starve him out; [*3] if quietly encamped, he can force him to move. [*4]
+
+5. Appear at points which the enemy must hasten to defend; march swiftly to places where you are not expected. [*5]
+
+6. An army may march great distances without distress, if it marches through country where the enemy is not. [*6]
+
+[p. 44]
+
+7. You can be sure of  in your attacks if you only attack places which are undefended. [*1] You can ensure the safety of your defence if you only hold positions that cannot be attacked. [*2]
+
+8. Hence that general is skilful in attack whose opponent does not know what to defend; and he is skilful in defence whose opponent does not know what to attack. [*3]
+
+[p. 45]
+
+9. O divine art of  and secrecy! Through you we learn to be invisible, through you inaudible, [*1] and hence we can hold the enemy's fate in our hands. [*2]
+
+10. You may advance and be absolutely irresistible, if you make for the enemy's weak points; you may retire and be safe from pursuit if your movements are more rapid than those of the enemy. [*3]
+
+11. If we wish to fight, the enemy can be forced to an engagement even though he be sheltered behind a high rampart and a deep ditch. All we need do is to attack some other place that he will be obliged to relieve. [*4]
+
+[p. 46]
+
+12. If we do not wish to fight, we can prevent the enemy from engaging us even though the lines of our encampment be merely traced out on the ground. All we need do is to throw something odd and unaccountable in his way. [*1]
+
+13. By discovering the enemy's dispositions and remaining invisible ourselves, we can keep our forces concentrated, while the enemy's must be divided. [*2]
+
+[p. 47]
+
+14. We can form a single united body, while the enemy must split up into fractions. Hence there will be a whole pitted against separate parts of a whole, [*1] which means that we shall be many to the enemy's few.
+
+15. And if we are able thus to attack an inferior force with a superior one, our opponents will be in dire straits. [*2]
+
+16. The spot where we intend to fight must not be made known; for then the enemy will have to prepare against a possible attack at several different points; [*3] and his forces being thus distributed in many directions, the numbers we shall have to face at any given point will be proportionately few.
+
+[p. 48]
+
+17. For should the enemy strengthen his van, he will weaken his rear; should he strengthen his rear, he will weaken his van; should he strengthen his left, he will weaken his right; should he strengthen his right, he will weaken his left. If he sends reinforcements everywhere, he will everywhere be weak. [*1]
+
+18. Numerical weakness comes from having to prepare against possible attacks; numerical strength, from compelling our adversary to make these preparations against us. [*2]
+
+19. Knowing the place and the time of the coming battle, we may concentrate from the greatest distances in order to fight. [*3]
+
+[p. 49]
+
+20. But if neither time nor place be known, then the left wing will be impotent to succour the right, the right equally impotent to succour the left, the van unable to relieve the rear, or the rear to support the van. How much more so if the furthest portions of the army are anything under a hundred li apart and even the nearest are separated by several li! [*1]
+
+21. Though according to my estimate the soldiers of Yueh exceed our own in number, that shall advantage them nothing in the matter of victory. [*2]
+
+[p. 50]
+
+[paragraph continues] I say then that victory can be achieved. [*1]
+
+22. Though the enemy be stronger in numbers, we may prevent him from fighting. [*2] Scheme so as to discover his plans and the likelihood of their success. [*3]
+
+23. Rouse him, and learn the principle of his activity or inactivity. [*4]
+
+[p. 51]
+
+[paragraph continues] Force him to reveal himself, so as to find out his vulnerable spots. [*1]
+
+24. Carefully compare the opposing army with your own, [*2] so that you may know where strength is superabundant and where it is deficient. [*3]
+
+25. In making tactical dispositions, the highest pitch you can attain is to conceal them; [*4]
+
+[p. 52]
+
+conceal your dispositions, and you will be safe from the prying of the subtlest spies, from the machinations of the wisest brains. [*1]
+
+26. How victory may be produced for them out of the enemy's own tactics--that is what the multitude cannot comprehend. [*2]
+
+27. All men can see the tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved. [*3]
+
+28. Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances. [*4]
+
+[p. 53]
+
+29. Military tactics are like unto water; for water in its natural course runs away from high places and hastens downwards. [*1]
+
+30. So in war, the way is to avoid what is strong and to strike at what is weak. [*2]
+
+31. Water shapes its course according to the nature of the ground over which it flows: [*3] the soldier works out his victory in relation to the foe whom he is facing.
+
+32. Therefore, just as water retains no constant shape, so in warfare there are no constant conditions.
+
+33. He who can modify his tactics in relation to his opponent and thereby succeed in winning, may be called a heaven-born captain.
+
+34. The five elements [*4] are not always equally predominant; [*5]
+
+[p. 54]
+
+the four seasons make way for each other in turn. [*1]
+
+There are short days and long; the moon has its periods of waning and waxing. [*2]
+
+Footnotes
+
+^42:1 Instead of #, the Yu Lan has in both clauses the stronger word #. For the antithesis between # and #, cf. I.  section23, where # however is used as a verb.
+
+^42:2 The next paragraph makes it clear that # does not merely mean, as Tu Mu says, # "to make the enemy approach me," but rather to make him go in any direction I please. It is thus practically synonymous with #. Cf. Tu Mu's own note on V.  section 19. One mark of a great soldier is that he fights on his own terms or fights not at all. [**]
+
+^42:* See Col. Henderson's biography of Stonewall Jackson, 1902 ed., vol. II, p. 490.
+
+^43:1 In the first case, he will entice him with a bait; in the second, he will strike at some important point which the enemy will have to defend.
+
+^43:2 This passage may be cited as evidence against Mei Yao-Ch'en's interpretation of I.  section 23.
+
+^43:3 # is probably an older form than #, the reading of the original text. Both are given in the #.
+
+^43:4 The subject to # is still a #; but these clauses would read better as direct admonitions, and in the next sentence we find Sun Tzu dropping insensibly into the imperative.
+
+^43:5 The original text, adopted by the T'u Shu, has #; it has been altered to suit the context and the commentaries of Ts'ao Kung and Ho Shih, who evidently read #. The other  would mean: "Appear at points to which the enemy cannot hasten;" but in this case there is something awkward in the use of #. Capt. Calthrop is wrong of course with "appearing where the enemy is not."
+
+^43:6 We must beware of understanding # it as "uninhabited country." Sun Tzu habitually uses # in the sense of #. [p. 44] Ts'ao Kung sums up very well: # "Emerge from the void [q.d. like "a bolt from the blue"], strike at vulnerable points, shun places that are defended, attack in unexpected quarters. The difference of meaning between # and # is worth noting.
+
+^44:1 # is of course hyperbolical; Wang Hsi rightly explains it as "weak points; that is to say, where the general is lacking in capacity, or the soldiers in spirit; where the walls are not strong enough, or the precautions not strict enough; where relief comes too late, or provisions are too scanty, or the defenders are variance amongst themselves."
+
+^44:2 I.e.; where there are none of the weak points mentioned above. There is rather a nice point involved in the interpretation of this latter clause. Tu Mu, Ch'en Hao, and Mei Yao-ch'en assume the meaning to be: "In order to make your defence quite safe, you must defend even those places that are not likely to be attacked;" and Tu Mu adds: "How much more, then, those that will be attacked." Taken thus, however, the clause balances less well with the preceding--always a consideration in the highly antithetical style which is natural to the Chinese. Chang Yu, therefore, seems to come nearer the mark in saying: "He who is skilled in attack flashes forth from the topmost heights of heaven [see IV.  section 7], making it impossible for the enemy to guard against him. This being so, the places that I shall attack are precisely those that the enemy cannot defend ... He who is skilled in defence hides in the most secret recesses of the earth, making it impossible for the enemy to estimate his whereabouts. This being so, the places that I shall hold are precisely those that the enemy cannot attack."
+
+^44:3 An aphorism which puts the whole art of war into a nutshell.
+
+^45:1 Literally, "without form or sound," but it is said of course with reference to the enemy. Chang Yu, whom I follow, draws no sharp distinction between # and #, but Tu Mu and others think that # indicates the secrecy to be observed on the defensive, and # the rapidity to be displayed in attack. The Yu Lan text differs considerably from ours, reading: #. 
+
+^45:2 The T'ung Tien has #. Capt. Calthrop's version of this paragraph is so remarkable that I cannot refrain from quoting it in full: "Now the secrets of the art of offence are not to be easily apprehended, as a certain shape or noise can be understood, of the senses; but when these secrets are once learnt, the enemy is mastered."
+
+^45:3 The second member of the sentence is weak, because # is nearly tautologous with #. The Yu Lan reads # for #.
+
+^45:4 Tu Mu says: "If the enemy is the invading party, we can cut his line of communications and occupy the roads by which he will have to return; if we are the invaders, we may direct our attack against the sovereign himself." It is clear that Sun Tzu, unlike certain generals in the late Boer war, was no believer in frontal attacks.
+
+^46:1 In order to preserve the parallelism with  section11, I should prefer to follow the T'u Shu text, which inserts # before #. This extremely concise expression is intelligibly paraphrased by Chia Lin: # "even though we have constructed neither wall nor ditch." The real crux of the passage lies in #. # of course = #. Ts'ao Kung defines by the word, which is perhaps a case of obscurum per obscurius. Li Ch'uan, however, says: # "we puzzle him by strange and unusual dispositions;" and Tu Mu finally clinches the meaning by three illustrative anecdotes--one of # Chu-ko Liang, who when occupying # Yang-p'ing and about to be attacked by # Ssu-ma I, suddenly struck his colours, stopped the beating of the drums, and flung open the city gates, showing only a few men engaged in sweeping and sprinkling the ground. This unexpected proceeding had the intended effect; for Ssu-ma I, suspecting a ambush, actually drew off his army and retreated. What Sun Tzu is advocating here, therefore, is nothing more nor less than the timely use of "bluff." Capt. Calthrop translates: "and prevent the enemy from attacking by keeping him in suspense," which shows that he has not fully grasped the meaning of #.
+
+^46:2 The conclusion is perhaps not very obvious, but Chang Yu (after Mei Yao-ch'en) rightly explains it thus: "If the enemy's dispositions are visible, we can make for him in one body; whereas, our own dispositions being kept secret, the enemy will be obliged to divide his forces in order to guard against attack from every quarter." # is here used as an active verb: "to make to appear." See IV, note on heading. Capt. Calthrop's "making feints" is quite wrong.
+
+^47:1 The original text has #, which in accordance with the T'ung Tien and Yu Lan has been altered as above. I adopt the more plausible reading of the T'u Shu: # in spite of having to refer # to ourselves and not to the enemy. Thus Tu Yu and Mei Yao-ch'en both regard # as the undivided force, consisting of so many parts, and # as each of the isolated fractions of the enemy. The alteration of # into # can hardly be right, though the true text might conceivably have been #.
+
+^47:2 For #, the T'ung Tien and Yu Lan have #. Tu Yu, followed by the other commentators, arbitrarily defines # a # "few and easy to conquer," but only succeeds thereby in making the sentence absolutely pointless. As for Capt. Calthrop's translation: "In superiority of numbers there is economy of strength," its meaning is probably known to himself alone. In justification of my own rendering of #, I would refer to Lun Yu IV. 2 and VII. 25 (3).
+
+^47:3 Sheridan once explained the reason of General Grant's victories by saying that "while his opponents were kept fully employed wondering what he was going to do, he was thinking most of what he was going to do himself."
+
+^48:1 In Frederick the Great's Instructions to his Generals we read: "A defensive war is apt to betray us into too frequent detachment. Those generals who have had but little experience attempt to protect every point, while those who are better acquainted with their profession, having only the capital object in view, guard against a decisive blow, and acquiesce in smaller misfortunes to avoid greater."
+
+^48:2 The highest generalship, in Col. Henderson's words, is "to compel the enemy to disperse his army, and then to concentrate superior force against each fraction in turn."
+
+^48:3 There is nothing about "defeating" anybody in this sentence, as Capt. Calthrop translates. What Sun Tzu evidently has in mind is that nice calculation of distances and that masterly employment of strategy which enable a general to divide his army for the purpose of a long and rapid march, and afterwards to effect a junction at precisely the right spot and the right hour in order to confront the enemy in overwhelming strength. Among many such successful junctions which military history records, one of the most dramatic and decisive was the appearance of Blucher just at the critical moment on the field of Waterloo.
+
+^49:1 The Chinese of this last sentence is a little lacking in precision, but the mental picture we are required to draw is probably that of an army advancing towards a given rendez-vous in separate columns, each of which has orders to be there on a fixed date. If the general allows the various detachments to proceed at haphazard, without precise instructions as to the time and place of meeting, the enemy will be able to annihilate the army in detail. Chang Yu's note may be worth quoting here: "If we do not know the place where our opponents mean to concentrate or the day on which they will join battle, our unity will be forfeited through our preparations for defence, and the positions we hold will be insecure. Suddenly happening upon a powerful foe, we shall be brought to battle in a flurried condition, and no mutual support will be possible between wings, vanguard or rear, especially if there is any great distance between the foremost and hindmost divisions of the army."
+
+^49:2 Capt. Calthrop omits #, and his translation of the remainder is flabby and inaccurate. As Sun Tzu was in the service of the # Wu State, it has been proposed to read # instead of #--a wholly unnecessary tampering with the text. Yueh coincided roughly with the present province of Chehkiang. Li Ch'uan very strangely takes # not as the proper name, but in the sense of # "to surpass." No other commentator follows him. # belongs to the class of expressions like # "distance," # "magnitude," etc., to which the Chinese have to resort [p. 50] in order to express abstract ideas of degree. The T'u Shu, however, omits #.
+
+^50:1 Alas for these brave words! The long feud between the two states ended in 473 B.C. with the total defeat of Wu by # Kou Chien and its incorporation in Yueh, This was doubtless long after Sun Tzu's death. With his present assertion compare IV.  section 4: # (which is the obviously mistaken reading of the Yu Lan here). Chang Yu is the only one to point out the seeming discrepancy, which he thus goes on to explain: "In the chapter on Tactical Dispositions it is said, 'One may know how to conquer without being able to do it.' whereas here we have the statement that 'victory can be achieved.' The explanation is, that in the former chapter, where the offensive and defensive are under discussion, it is said that if the enemy is fully prepared, one cannot make certain of beating him. But the present passage refers particularly to the soldiers of Yueh who, according to Sun Tzu's calculations, will be kept in ignorance of the time and place of the impending struggle. That is why he says here that victory can be achieved."
+
+^50:2 Capt. Calthrop quite unwarrantably translates: "If the enemy be many in number, prevent him," etc.
+
+^50:3 This is the first of four similarly constructed sentences, all of which present decided difficulties. Chang Yu explains # as #. This is perhaps the best way of taking the words, though Chia Lin, referring # to ourselves and not the enemy, offers the alternative of a # "Know beforehand all plans conducive to our success and to the enemy's failure,"
+
+^50:4 Instead of #, the T'ung Tien, Yu Lan, and also Li Ch'uan's text have #, which the latter explains as "the observation of omens;" and Chia Lin simply as "watching and waiting." # is defined by Tu Mu [p. 51] as #, and Chang Yu tells us that by noting the joy or anger shown by the enemy on being thus disturbed, we shall be able to conclude whether his policy is to lie low or the reverse. He instances the action of Chu-ko Liang, who sent the scornful present of a woman's head-dress to Ssu-ma I, in order to goad him out of his Fabian tactics.
+
+^51:1 Two commentators, Li Ch'uan and Chang Yu, take # in the sense of # "put on specious appearances." The former says: "You may either deceive the enemy by a show of weakness--striking your colours and silencing your drums; or by a show of strength--making a hollow display of camp-fires and regimental banners." And the latter quotes V. 19, where # certainly seems to bear this sense. On the other hand, I would point to  section13 of this chapter, where # must with equal certainty be active. It is hard to choose between the two interpretations, but the context here agrees better, I think, with the one that I have adopted. Another difficulty arises over #, which most of the commentators, thinking no doubt of the # in XI.  section 1, refer to the actual ground on which the enemy is encamped. The notes of Chia Lin and Mei Yao-ch'en, however, seem to favour my view. The same phrase has a somewhat different meaning in I.  section 2.
+
+^51:2 Tu Yu is right, I think, in attributing this force to #, Ts'ao Kung defines it simply as #. Capt. Calthrop surpasses himself with the staggering translation "Flap the wings"! Can the Latin cornu (in its figurative sense) have been at the back of his mind?
+
+^51:3 Cf. IV.  section 6.
+
+^51:4 The piquancy of the paradox evaporates in translation. # is perhaps not so much actual invisibility (see supra,  section 9) as "showing no sign" of what you mean to do, of the plans that are formed in your brain.
+
+^52:1 # is expanded by Tu Mu into # [For #, see XIII, note on heading.] He explains # in like fashion: # "though the enemy may have clever and capable officers, they will not be able to lay any plans against us."
+
+^52:2 All the commentators except Li Ch'uan make # refer to the enemy. So Ts'ao Kung: # is defined as #. The T'u Shu has #, with the same meaning. See IV.  section 13. The Yu Lan reads #, evidently a gloss.
+
+^52:3 I.e., everybody can see superficially how a battle is won; what they cannot see is the long series of plans and combinations which has preceded the battle. It seems justifiable, then, to render the first # by "tactics" and the second by "strategy."
+
+^52:4 As Wang Hsi sagely remarks: "There is but one root-principle (#) underlying victory, but the tactics (#) which lead up to it are infinite in number." With this compare Col. Henderson; "The rules of strategy are few and simple. They may be learned in a week. They may be taught by familiar illustrations or a dozen diagrams. But such knowledge will no more teach a man to lead an army like Napoleon than a knowledge of grammar will teach him to write like Gibbon."
+
+^53:1 # is # Liu Chou-tzu's reading for # in the original text.
+
+^53:2 Like water, taking the line of least resistance.
+
+^53:3 The T'ung Tien and Yu Lan read #,--the latter also #. The present text is derived from Cheng Yu-hsien.
+
+^53:4 Water, fire, wood, metal, earth.
+
+^53:5 That is, as Wang Hsi says: # "they predominate alternately."
+
+^54:1 Literally, "have no invariable seat."
+
+^54:2 Cf. V.  section 6. The purport of the passage is simply to illustrate the want of fixity in war by the changes constantly taking place in Nature. The comparison is not very happy, however, because the regularity of the phenomena which Sun Tzu mentions is by no means paralleled in war.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 55]
+
+  
+
+VII. MANOeUVRING [*1].
+
+1. Sun Tzu said: In war, the general receives his commands from the sovereign. [*2]
+
+2. Having collected an army and concentrated his forces, he must blend and harmonise the different elements thereof before pitching his camp. [*3]
+
+[p. 56]
+
+3. After that, comes tactical manoeuvring, than which there is nothing more difficult. [*1]
+
+The difficulty of tactical manoeuvring consists in turning the devious into the direct, and misfortune into gain. [*2]
+
+[p. 57]
+
+4. Thus, to take a long and circuitous route, after enticing the enemy out of the way, and though starting after him, to contrive to reach the goal before him, shows knowledge of the artifice of deviation. [*1]
+
+[p. 58]
+
+5. Manoeuvring with an army is advantageous; with an undisciplined multitude, most dangerous. [*1]
+
+6. If you set a fully equipped army in march in order to snatch an advantage, the chances are that you will be too late. [*2] On the other hand, to detach a flying column for the purpose involves the sacrifice of its baggage and stores. [*3]
+
+7. Thus, if you order your men to roll up their buff-coats, [*4]
+
+[p. 59]
+
+and make forced marches without halting day or night, covering double the usual distance at a stretch, [*1] doing a hundred li in order to wrest an advantage, the leaders of all your three divisions will fall into the hands of the enemy.
+
+8. The stronger men will be in front, the jaded ones will fall behind, and on this plan only one-tenth of your army will reach its destination. [*2]
+
+9. If you march fifty li in order to outmanoeuvre the enemy, you will lose the leader of your first division, and only half your force will reach the goal. [*3]
+
+10. If you march thirty li with the same object, two-thirds of your army will arrive. [*4]
+
+[p. 60]
+
+11. We may take it then that an army without its baggage-train is lost; without provisions it is lost; without bases of supply it is lost. [*1]
+
+12. We cannot enter into alliances until we are acquainted with the designs of our neighbours. [*2]
+
+13. We are not fit to lead an army on the march unless we are familiar with the face of the country--its mountains and forests, its pitfalls [*3] and precipices, [*4] its marshes [*5] and swamps. [*6]
+
+14. We shall be unable to turn natural advantages to account unless we make use of local guides. [*7]
+
+[p. 61]
+
+15. In war, practise dissimulation. and you will succeed. [*1] Move only if there is a real advantage to be gained. [*2]
+
+15. Whether to concentrate or to divide your troops, must be decided by circumstances.
+
+16. Let your rapidity be that of the wind, [*3] your compactness that of the forest. [*4]
+
+17. In raiding and plundering be like fire, [*5] in immovability like a mountain. [*6]
+
+[p. 62]
+
+19. Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt. [*1]
+
+20. When you plunder a countryside, let the spoil be divided amongst your men; [*2] when you capture new territory, cut it up into allotments for the benefit of the soldiery. [*3]
+
+[p. 63]
+
+21. Ponder and deliberate [*1] before you make a move. [*2]
+
+22. He will conquer who has learnt the artifice of deviation. [*3] Such is the art of manoeuvring. [*4]
+
+23. The Book of Army Management says: [*5]
+
+[p. 64]
+
+On the field of battle, [*1] the spoken word does not carry far enough: hence the institution of gongs and drums. [*2] Nor can ordinary objects be seen clearly enough: hence the institution of banners and flags.
+
+24. Gongs and drums, banners and flags, are means whereby the ears and eyes of the host [*3] may be focussed on one particular point. [*4]
+
+25. The host thus forming a single united body, it is impossible either for the brave to advance alone, or for the cowardly to retreat alone. [*5]
+
+[p. 65]
+
+[paragraph continues] This is the art of handling large masses of men.
+
+26. In night-fighting, then, make much use of signal-fires and drums, and in fighting by day, of flags and banners, as a means of influencing the ears and eyes of your army. [*1]
+
+27. A whole army may be robbed of its spirit; [*2]
+
+[p. 66]
+
+a commander-in-chief may be robbed of his presence of mind. [*1]
+
+28. Now a soldier's spirit is keenest in the morning; [*2] by noonday it has begun to flag; and in the evening, his mind is bent only on returning to camp.
+
+29. A clever general, therefore, [*3]
+
+[p. 67]
+
+avoids an army when its spirit is keen, but attacks it when it is sluggish and inclined to return. This is the art of studying moods. [*1]
+
+30. Disciplined and calm, to await the appearance of disorder and hubbub amongst the enemy:--this is the art of retaining self-possession.
+
+31. To be near the goal while the enemy is still far from it, to wait at ease [*2] while the enemy is toiling and struggling, to be well-fed while the enemy is famished:--this is the art of husbanding one's strength.
+
+32. To refrain from intercepting [*3] an enemy whose banners are in perfect order, to refrain from attacking an army drawn up in calm and confident array: [*4]
+
+[p. 68]
+
+[paragraph continues] --this is the art of studying circumstances. [*1]
+
+33. It is a military axiom not to advance uphill against the enemy, nor to oppose him when he comes downhill. [*2]
+
+34. Do not pursue an enemy who simulates flight; do not attack soldiers whose temper is keen.
+
+35. Do not swallow a bait offered by the enemy. [*3] Do not interfere with an army that is returning home. [*4]
+
+[p. 69]
+
+36. When you surround an army, leave an outlet free. [*1] Do not press a desperate foe too hard. [*2]
+
+[p. 70]
+
+37. Such is the art of warfare. [*1]
+
+Footnotes
+
+^55:1 The commentators, as well as the subsequent text, make it clear that this is the real meaning of #: Thus, Li Ch'uan says that # means # "marching rapidly to seize an advantage"; Wang Hsi says: # "'Striving' means striving for an advantage; this being obtained, victory will follow;" and Chang Yu: # "The two armies face to face, and each striving to obtain a tactical advantage over the other." According to the latter commentator, then, the situation is analogous to that of two wrestlers manoeuvring for a "hold," before coming to actual grips. In any case, we must beware of translating # by the word "fighting" or "battle," as if it were equivalent to #. Capt. Calthrop falls into this mistake.
+
+^55:2 For # there is another reading #, which Li Ch'uan explains as # "being the reverent instrument of Heaven's chastisement."
+
+^55:3 Ts'ao Kung takes # as referring to the # or main gate of the military camp. This, Tu Mu tells us, was formed with a couple of flags hung across. [Cf. Chou Li, ch. xxvii. fol. 31 of the Imperial edition: #.] # would then mean "setting up his # opposite that of the enemy." But Chia Lin's explanation, which has been adopted [p. 56] above, is on the whole simpler and better. Chang Yu, while following Ts'ao Kung, adds that the words may also be taken to mean "the establishment of harmony and confidence between the higher and lower ranks before venturing into the field;" and he quotes a saying of Wu Tzu (chap. 1 ad init.): "Without harmony in the State, no military expedition can be undertaken; without harmony in the army, no battle array can be formed." In the historical romance #, chap. 75, Sun Tzu himself is represented as saying to # Wu Yuan: # "As a general rule, those who are waging war should get rid of all domestic troubles before proceeding to attack the external foe." # is defined as #. It here conveys the notion of encamping after having taken the field.
+
+^56:1 I have departed slightly from the traditional interpretation of Ts'ao Kung, who says: # "From the time of receiving the sovereign's instructions until our encampment over against the enemy, the tactics to be pursued are most difficult." It seems to me that the # tactics or manoeuvres can hardly be said to begin until the army has sallied forth and encamped, and Ch'en Hao's note gives colour to this view: "For levying, concentrating, harmonising and intrenching an army, there are plenty of old rules which will serve. The real difficulty comes when we engage in tactical operations." Tu Yu also observes that "the great difficulty is to be beforehand with the enemy in seizing favourable positions."
+
+^56:2 # is one of those highly condensed and somewhat enigmatical expressions. of which Sun Tzu is so fond. This is how it is explained by Ts'ao Kung: # "Make it appear that you are a long way off, then cover the distance rapidly and arrive on the scene before your opponent." Tu Mu says: "Hoodwink the enemy, so that he may be remiss and leisurely while you are dashing along with the utmost speed." Ho Shih gives a slightly different turn to the sentence: "Although you may have difficult ground to traverse and natural obstacles to encounter, this is a drawback which [p. 57] can be turned into actual advantage by celerity of movement." Signal examples of this saying are afforded by the two famous passages across the Alps--that of Hannibal, which laid Italy at his mercy, and that of Napoleon two thousand years later, which resulted in the great victory of Marengo.
+
+^57:1 Chia Lin understands # as the enemy's line of march, thus: "If our adversary's course is really a short one, and we can manage to divert him from it (#) either by simulating weakness or by holding out some small advantage, we shall be able to beat him in the race for good positions." This is quite a defensible view, though not adopted by any other commentator. # of course = #, and # and # are to be taken as verbs. Tu Mu cites the famous march of # Chao She in 270 B.C. to relieve the town of # O-yu, which was closely invested by a # Ch'in army. [It should be noted that the above is the correct pronunciation of #, as given in the commentary on the Ch'ien Han Shu, ch. 34. Giles' dictionary gives "Yu-yu," and Chavannes, I know not on what authority, prefers to write "Yen-yu." The name is omitted altogether from Playfair's "Cities and Towns."] The King of Chao first consulted # Lien P'o on the advisability of attempting a relief, but the latter thought the distance too great, and the intervening country too rugged and difficult. His Majesty then turned to Chao She, who fully admitted the hazardous nature of the march, but finally said: "We shall be like two rats fighting in a hole--and the pluckier one will win!" So he left the capital with his army, but had only gone a distance of 30 li when he stopped and began throwing up intrenchments. For 28 days he continued strengthening his fortifications, and took care that spies should carry the intelligence to the enemy. The Ch'in general was overjoyed, and attributed his adversary's tardiness to the fact that the beleaguered city was in the Han State, and thus not actually part of Chao territory. But the spies had no sooner departed than Chao She began a forced march lasting for two days and one night, and arrived on the scene of action with such astonishing rapidity that he was able to occupy a commanding position on the # "North hill" before the enemy [p. 58] had got wind of his movements. A crushing defeat followed for the Ch'in forces, who were obliged to raise the siege of O-yu in all haste and retreat across the border. [See #, chap. 81.]
+
+^58:1 I here adopt the reading of the T'ung Tien, Cheng Yu-hsien and the T'u Shu, where # appears to supply the exact nuance required in order to make sense. The standard text, on the other hand, in which # is repeated, seems somewhat pointless. The commentators take it to mean that manoeuvres may be profitable, or they may be dangerous: it all depends on the ability of the general. Capt. Calthrop translates # "the wrangles of a multitude"!
+
+^58:2 The original text has # instead of #; but a verb is needed to balance #.
+
+^58:3 # evidently unintelligible to the Chinese commentators, who paraphrase the sentence as though it began with #. Absolute tautology in the apodosis can then only be avoided by drawing an impossibly fine distinction between # and #. I submit my own rendering without much enthusiasm, being convinced that there is some deep-seated corruption in the text. On the whole, it is clear that Sun Tzu does not approve of a lengthy march being undertaken without supplies. Cf. infra,  section 11.
+
+^58:4 # does not mean "to discard one's armour," as Capt. Calthrop translates, but implies on the contrary that it is to be carried with you. Chang Yu says: # "This means, in full panoply."
+
+^59:1 The ordinary day's march, according to Tu Mu, was 30 li; but on one occasion, when pursuing # Liu Pei, Ts'ao Ts'ao is said to have covered the incredible distance of 300 li within twenty-four hours.
+
+^59:2 For #, see II.  section 14. The moral is, as Ts'ao Kung and others point out: Don't march a hundred li to gain a tactical advantage, either with or without impedimenta. Manoeuvres of this description should be confined to short distances. Stonewall Jackson said: "The hardships of forced marches are often more painful than the dangers of battle." He did not often call upon his troops for extraordinary exertions. It was only when he intended a surprise, or when a rapid retreat was imperative, that he sacrificed everything to speed. [**]
+
+^59:3 # is explained as similar in meaning to #: literally, "the leader of the first division will be torn away." Cf. Tso Chuan, 19th year: # "This is a case of [the falling tree] tearing up its roots."
+
+^59:4 In the T'ung Tien is added: # "From this we may know the difficulty of manoeuvring."
+
+^59:* See Col. Henderson, op. cit. vol. I. p. 426.
+
+^60:1 # explained by Tu Yu as # "fodder and the like;" by Tu Mu and Chang Yu as # "goods in general;" and by Wang Hsi as # "fuel, salt, foodstuffs, etc." But I think what Sun Tzu meant was "stores accumulated in depots," as distinguished from # and #, the various impedimenta accompanying an army on its march. Cf. Chou Li, ch. xvi. fol. 10: #.
+
+^60:2 # = #. Li Ch'uan understands it as # "guard against," which is hardly so good. An original interpretation of # is given by Tu Mu, who says it stands for # or # "join in battle."
+
+^60:3 #, defined as # (Ts'ao Kung) or # (Chang Yu).
+
+^60:4 #, defined as #.
+
+^60:5 #, defined as #.
+
+^60:6 #, defined as #.
+
+^60:7  section section 12-54 are repeated in chap. XI.  section 52.
+
+^61:1 According to Tu Mu, # stands for #. Cf. I.  section 18. In the tactics of Turenne, deception of the enemy, especially as to the numerical strength of his troops, took a very prominent position. [**]
+
+^61:2 This is the interpretation of all the commentators except Wang Hsi, who has the brief note # "Entice out the enemy" (by offering him some apparent advantage).
+
+^61:3 The simile is doubly appropriate, because the wind is not only swift but, as Mei Yao-ch'en points out, #; "invisible and leaves no tracks."
+
+^61:4 It is hardly possible to take # here in its ordinary sense of "sedate," as Tu Yu tries to do. Meng Shih comes nearer the mark in his note # "When slowly marching, order and ranks must be preserved"--so as to guard against surprise attacks. But natural forests do not grow in rows, whereas they do generally possess the quality of density or compactness. I think then that Mei Yao-ch'en uses the right adjective in saying #.
+
+^61:5 Cf. Shih Ching, IV. 3. iv. 6: # "Fierce as a blazing fire which no man can check."
+
+^61:6 That is, when holding a position from which the, enemy is trying to dislodge you, or perhaps, as Tu Yu says, when he is trying to entice you into a trap.
+
+^61:* For a number of maxims on this head, see "Marshal Turenne" (Longmans, 1907), p. 29.
+
+^62:1 The original text has # instead of #. Cf. IV.  section 7. Tu Yu quotes a saying of T'ai Kung which has passed into a proverb: # "You cannot shut your ears to the thunder or your eyes to the lightning--so rapid are they." Likewise, an attack should be made so quickly that it cannot be parried.
+
+^62:2 The reading of Tu Yu, Chia Lin, and apparently Ts'ao Kung, is #, which is explained as referring to the subdivision of the army, mentioned in V.  section section 1, 2, by means of banners and flags, serving to point out (#) to each man the way he should go (#). But this is very forced, and the ellipsis is too great, even for Sun Tzu. Luckily, the T'ung Tien and Yu Lan have the variant #, which not only suggests the true reading #, but affords some clue to the way in which the corruption arose. Some early commentator having inserted # as the sound of #, the two may afterwards nave been read as one character; and this being interchangeable with #, # must finally have disappeared altogether. Meanwhile, # would have been altered to # in order to make sense. As regards #, I believe that Ho Shih alone has grasped the real meaning, the other commentators understanding it as "dividing the men into parties" to search for plunder. Sun Tzu wishes to lessen the abuses of indiscriminate plundering by insisting that all booty shall be thrown into a common stock, which may afterward. be fairly divided amongst all.
+
+^62:3 That this is the meaning, may be gathered from Tu Mu's note: # The # gives the same advice: #. # means "to enlarge" or "extend"--at the expense of the enemy, understood. Cf. Shih Ching, III. 1. vii. 1:  # "hating all the great States." Ch'en Hao also says # "quarter your soldiers on the land, and let them sow and plant [p. 63] it." It is by acting on this principle, and harvesting the lands they invaded, that the Chinese have succeeded in carrying out some of their most memorable and triumphant expeditions, such as that of #, Pan Ch'ao who penetrated to the Caspian, and in more recent years, those of # Fu-k'ang-an and # Tso Tsung-t'ang.
+
+^63:1 Note that both these words, like the Chinese, are really metaphors derived from the use of scales.
+
+^63:2 Chang Yu quotes # as saying that we must not break camp until we have gauged the resisting power of the enemy and the cleverness of the opposing general. Cf. the "seven comparisons" in I.  section 53. Capt. Calthrop omits this sentence.
+
+^63:3 See supra,  section section 3, 4.
+
+^63:4 With these words, the chapter would naturally come to an end. But there now follows a long appendix in the shape of an extract from an earlier book on War, now lost, but apparently extant at the time when Sun Tzu wrote. The style of this fragment is not noticeably different from that of Sun Tzu himself, but no commentator raises a doubt as to its genuineness.
+
+^63:5 It is perhaps significant that none of the earlier commentators give us any information about this work Mei Yao-Ch'en calls it #: "an ancient military classic," and Wang Hsi, # "an old book on war." Considering the enormous amount of fighting that had gone on for centuries before Sun Tzu's time between the various kingdoms and principalities of China, it is not in itself improbable that a collection of military maxims should have been made and written down at some earlier period.
+
+^64:1 Implied, though not actually in the Chinese.
+
+^64:2 I have retained the words # of the original text, which recur in the next paragraph, in preference to the other reading # "drums and bells," which is found in the T'ung Tien, Pei T'ang Shu Ch'ao and Yu Lan. # is a bell with a clapper. See Lun Yu III. 24, Chou Li XXIX. 15, 29. # of course would include both gongs and bells of every kind. The T'u Shu inserts a # after each #.
+
+^64:3 The original text, followed by the T'u Shu, has # for # here and in the next two paragraphs. But, as we have seen, # is generally used in Sun Tzu for the enemy.
+
+^64:4 Note the use of # as a verb. Chang Yu says: # "If sight and hearing converge simultaneously on the same object, the evolutions of as many as a million soldiers will be like those of a single man"!
+
+^64:5 Chang quotes a saying: # "Equally guilty are those who advance against orders and those who retreat against orders." Tu Mu tells a story in this connection of # Wu Ch'i, when he was fighting against the Ch'in State. Before the battle had begun, one of his soldiers, a man of matchless daring, sallied forth by himself, captured two heads from the enemy, and [p. 65] returned to camp. Wu Ch'i had the man instantly executed, whereupon an officer ventured to remonstrate, saying: "This man was a good soldier, and ought not to have been beheaded." Wu Ch'i replied: "I fully believe he was a good soldier, but I had him beheaded because he acted without orders."
+
+^65:1 The T'ung Tien has the bad variant # for #. With regard to the latter word, I believe I have hit off the right meaning, the whole phrase being slightly elliptical for "influencing the movements of the army through their senses of sight and hearing." Li Ch'uan, Tu Mu and Chia Lin certainly seem to understand it thus. The other commentators, however, take # (or #) as the enemy, and as equivalent to # or # "to perplex" or "confound." This does not agree so well with what has gone before, though on the other hand it renders the transition to  section 27 less abrupt. The whole question, I think, hinges on the alternative readings # and #. The latter would almost certainly denote the enemy. Ch'en Hao alludes to # Li Kuang-pi's night ride to # Ho-yang at the head of 500 mounted men; they made such an imposing display with torches, that though the rebel leader # Shih Ssu-ming had a large army, he did not dare to dispute their passage. [Ch'en Hao gives the date as # A.D. 956; but according to the # New T'ang History, # 61, it must have been later than this, probably 760.]
+
+^65:2 "In war," says Chang Yu, "if a spirit of anger can be made to pervade all ranks of an army at one and the same time, its onset will be irresistible. Now the spirit of the enemy's soldiers will be keenest when they have newly arrived on the scene, and it is therefore our cue not to fight at once, but to wait until their ardour and enthusiasm have worn off, and then strike. It is in this way that they may be robbed of their keen spirit." Li Ch'uan and others tell an anecdote (to be found in the Tso Chuan, [p. 66] # year 10,  section 1) of # Ts'ao Kuei, a protege of Duke Chuang of Lu. The latter State was attacked by Ch'i, and the Duke was about to join battle at # Ch'ang-cho, after the first roll of the enemy's drums, when Ts'ao said: "Not just yet." Only after their drums had beaten for the third time, did he give the word for attack. Then they fought, and the men of Ch'i were utterly defeated. Questioned afterwards by the Duke as to the meaning of his delay, Ts'ao Kuei replied: "In battle, a courageous spirit is everything. Now the first roll of the drum tends to create this spirit, but with the second it is already on the wane, and after the third it is gone altogether. I attacked when their spirit was gone and ours was at its height. Hence our victory." # (chap. 4) puts "spirit" first among the "four important influences" in war, and continues: # "The value of a whole army--a mighty host of a million men--is dependent on one man alone: such is the influence of spirit!"
+
+^66:1 Capt. Calthrop goes woefully astray with "defeat his general's ambition." Chang Yu says: # "Presence of mind is the general's most important asset. It is the quality which enables him to discipline disorder and to inspire courage into the panic-stricken." The great general # Li Ching (A.D. 571-649) has a saying: # "Attacking does not merely consist in assaulting walled cities or striking at an army in battle array; it must include the art of assailing the enemy's mental equilibrium." [#., pt. 3.]
+
+^66:2 Always provided, I suppose, that he has had breakfast. At the battle of the Trebia, the Romans were foolishly allowed to fight fasting, whereas Hannibal's men had breakfasted at their leisure. See Livy, XXI, liv. 8, lv. 1 and 8.
+
+^66:3 [p. 67] The #, which certainly seems to be wanted here, is omitted in the T'u Shu.
+
+^67:1 The T'ung Tien, for reasons of # "avoidance of personal names of the reigning dynasty," reads # for # in this and the two next paragraphs.
+
+^67:2 The T'ung Tien has # for #. The two characters are practically synonymous, but according to the commentary, the latter is the form always used in Sun Tzu.
+
+^67:3 # is the reading of the original text. But the # quotes the passage with # yao1 (also meaning "to intercept"), and this is supported by the Pei T'ang Shu Ch'ao, the Yu Lan, and Wang Hsi's text.
+
+^67:4 For this translation of #, I can appeal to the authority of Tu Mu, who defines the phrase as #. The other commentators mostly follow Ts'ao Kung, who says #, probably meaning "grand and imposing". Li Ch'uan, however, has # "in subdivisions," which is somewhat strange.
+
+^68:1 I have not attempted a uniform rendering of the four phrases #, #, # and #, though # really bears the same meaning in each case. It is to be taken, I think, not in the sense of "to govern" or "control," but rather, as K'ang Hsi defines it, = # "to examine and practise," hence "look after," "keep a watchful eye upon." We may find an example of this use in the Chou Li, XVIII. vol. 46: #. Sun Tzu has not told us to control or restrain the quality which he calls #, but only to observe the time at which it is strongest. As for #, it is important to remember that in the present context it can only mean "presence of mind." To speak of "controlling presence of mind" is absurd, and Capt. Calthrop's "to have the heart under control" is hardly less so. Thee whole process recommenced here is that of VI.  section 2: #.
+
+^68:2 The Yu Lan reads # for #.
+
+^68:3 Li Ch'uan and Tu Mu, with extraordinary inability to see a metaphor take these words quite literally of food and drink that have been poisoned by the enemy. Ch'en Hao and Chang Yu carefully point out that the saying has a wider application. The T'ung Tien reads # "to covet" instead of #. The similarity of the two characters sufficiently accounts for the mistake.
+
+^68:4 The commentators explain this rather singular piece of advice by saying that a man whose heart is set on returning home will fight to the death against any attempt to bar his way, and is therefore too dangerous an opponent to be tackled. Chang Yu quotes the words of Han Hsin: # "Invincible is the soldier who hath his desire and returneth homewards." A marvellous tale is told of [p. 69] Ts'ao Ts'ao's courage and resource in ch. 1 of the San Kuo Chih, In 198 A.D. he was besieging # Chang Hsiu in # Jang, when # Liu Piao sent reinforcements with a view to cutting off Ts'ao's retreat. The latter was obliged to draw off his troops, only to find himself hemmed in between two enemies, who were guarding each outlet of a narrow pass in which he had engaged himself. In this desperate plight Ts'ao waited until nightfall, when he bored a tunnel into the mountain side and laid an ambush in it. Then he marched on with his baggage-train, and when it grew light, Chang Hsiu, finding that the bird had flown, pressed after him in hot pursuit. As soon as the whole army had passed by, the hidden troops fell on its rear, while Ts'ao himself turned and met his pursuers in front, so that they were thrown into confusion and annihilated. Ts'ao Ts'ao said afterwards: # "The brigands tried to check my army in its retreat and brought me to battle in a desperate position: hence I knew how to overcome them."
+
+^69:1 This does not mean that the enemy is to be allowed to escape. The object, as Tu Mu puts it, is # "to make him believe that there is a road to safety, and thus prevent his fighting with the courage of despair." Tu Mu adds pleasantly: # "After that, you may crush him."
+
+^69:2 For #, the T'u Shu reads "pursue." Ch'en Hao quotes the saying: # "Birds and beasts when brought to bay will use their claws and teeth." Chang Yu says: # "If your adversary has burned his boats and destroyed his cooking-pots, and is ready to stake all on the issue of a battle, he must not be pushed to extremities." The phrase # doubtless originated with Sun Tzu. The P'ei Wen Yun Fu gives four examples of its use, the earliest being from the Ch'ien Han Shu, and I have found another in chap. 34 of the same work. Ho Shih illustrates the meaning by a story taken from the life of # Fu Yen-ch'ing in ch. 251 of the #. That general, together with his colleague # Tu Chung-wei, was surrounded by a vastly superior army of Khitans in the year 945 A.D. The country was bare and desert-like, and the little Chinese force was soon in dire straits for want of [p. 70] water. The wells they bored ran dry, and the men were reduced to squeezing lumps of mud and sucking out the moisture. Their ranks thinned rapidly, until at last Fu Yen-ch'ing : "We are desperate men. Far better to die for our country than to go with fettered hands into captivity!" A strong gale happened to be blowing from the northeast and darkening the air with dense clouds of sandy dust. Tu Chung-wei was for waiting until this had abated before deciding on a final attack; but luckily another officer, # Li Shou-cheng by name, was quicker to see an opportunity, and said: "They are many and we are few, but in the midst of this sandstorm our numbers will not be discernible; victory will go to the strenuous fighter, and the wind will be our best ally." Accordingly, Fu Yen-ch'ing made a sudden and wholly unexpected onslaught with his cavalry, routed the barbarians and succeeded in breaking through to safety. [Certain details in the above account have been added from the #, ch. 78.]
+
+^70:1 Cheng Yu-hsien in his # inserts # after #. I take it  these words conclude the extract from the # which began at  section 23
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 71]
+
+  
+
+VIII. VARIATION OF TACTICS [*1].
+
+1. Sun Tzu said: In war, the general receives his commands from the sovereign, collects his army and concentrates his forces. [*2]
+
+2. When in difficult country, do not encamp. [*3] In country where high roads intersect, join hands with your allies. [*4]
+
+[p. 72]
+
+[paragraph continues] Do not linger in dangerously isolated positions. [*1] In hemmed-in situations, you must resort to stratagem. [*2] In a desperate position, you must fight. [*3]
+
+[p. 73]
+
+3. There are roads which must not be followed, [*1] armies which must not be attacked, [*2] towns [*3] which must not be besieged [*4], positions which must not be contested, commands of the sovereign which must not be obeyed. [*5]
+
+[p. 74]
+
+4. The general who thoroughly understands the advantages that accompany variation of tactics knows how to handle his troops. [*1]
+
+5. The general who does not understand these, may be well acquainted with the configuration of the country, yet he will not be able to turn his knowledge to practical account. [*2]
+
+6. So, the student of war who is unversed in the art of varying his plans, even though he be acquainted with the Five Advantages, will fail to make the best use of his men. [*3]
+
+[p. 75]
+
+7. Hence in the wise leader's plans, considerations of advantage and of disadvantage will be blended together. [*1]
+
+8. If our expectation of advantage be tempered in this way, we may succeed in accomplishing the essential part of our schemes. [*2]
+
+9. If, on the other hand, in the midst of difficulties we
+
+[p. 76]
+
+are always ready to seize an advantage, we may extricate ourselves from misfortune. [*1]
+
+10. Reduce the hostile chiefs by inflicting damage on them; [*2] make trouble for them, [*3]
+
+[p. 77]
+
+and keep them constantly engaged; [*1] hold out specious allurements, and make them rush to any given point, [*2]
+
+11. The art of war teaches us to rely not on the likelihood of the enemy's not coming, but on our own readiness to receive him; [*3] not on the chance of his not attacking, but rather on the fact that we have made our position unassailable. [*4]
+
+12. There are five dangerous faults which may affect a general: (1) Recklessness, which leads to destruction; [*5]
+
+[p. 78]
+
+(2) cowardice, which leads to capture; [*1]
+
+(3) a hasty temper, which can be provoked by insults; [*2]
+
+[p. 79]
+
+(4) a delicacy of honour which is sensitive to shame; [*1]
+
+(5) over-solicitude for his men, which exposes him to worry and trouble. [*2]
+
+13. These are the five besetting sins of a general, ruinous to the conduct of war.
+
+14. When an army is overthrown and its leader slain, the cause will surely be found among these five dangerous faults. Let them be a subject of meditation.
+
+Footnotes
+
+^71:1 The heading means literally "The Nine Variations," but as Sun Tzu does not appear to enumerate these, and as, indeed, he has already told us (V.  section section 6-11) that such deflections from the ordinary course are practically innumerable, we have little option but to follow Wang Hsi, who says that "Nine" stands for an indefinitely large number. "All it means is that in warfare # we ought to vary our tactics to the utmost degree ... I do not know what Ts'ao Kung makes these Nine Variations out to be [the latter's note is #], but it has been suggested that they are connected with the Nine Situations"--of chap. XI. This is the view adopted by Chang Yu: see note on #,  section 2. The only other alternative is to suppose that something has been lost--a supposition to which the unusual shortness of the chapter lends some weight.
+
+^71:2 Repeated from VII.  section 1, where it is certainly more in place. It may have been interpolated here merely in order to supply a beginning to the chapter.
+
+^71:3 For explanation of #, see XI.  section 8.
+
+^71:4 See XI,  section section 6, 12. Capt. Calthrop omits, #.
+
+^72:1 # is not one of the Nine Situations as given in the beginning of chap. XI, but occurs later on (ibid.  section 43, q.v.). We may compare it with # (XI.  section 7). Chang Yu calls it a #, situated across the frontier, in hostile territory. Li Ch'uan says it is "country in which there are no springs or wells, flocks or herds, vegetables or firewood;" Chia Lin, "one of gorges, chasms and precipices, without a road by which to advance."
+
+^72:2 See XI.  section section 9, 14. Capt. Calthrop has "mountainous and wooded country" which is a quite inadequate translation of #.
+
+^72:3 See XI.  section section 10, 14. Chang Yu has an important note here, which must be given in full. "From #," he says, "down to this point, the Nine Variations are presented to us. The reason why only five are given is that the subject is treated en precis (#). So in chap. XI, where he discusses the variations of tactics corresponding to the Nine Grounds, Sun Tzu mentions only six variations; there again we have an abridgment. [I cannot understand what Chang Yu means by this statement. He can only be referring to  section section 11-14 or  section section 46-50 of chap. XI; but in both places all the nine grounds are discussed. Perhaps he is confusing these with the Six # of chap. X.] All kinds of ground have corresponding military positions, and also a variation of tactics suitable to each (#). In chap. XI, what we find enumerated first [ section section 2-10] are the situations; afterwards [ section section 11-14] the corresponding tactics. Now, how can we tell that the # "Nine Variations" are simply the # "variations of tactics corresponding to the Nine Grounds"? It is said further on [ section 5] that 'the general who does not understand the nine variations of tactics may be well acquainted with the features of the country, yet he will not be able to turn his knowledge to practical account.' Again, in chap. XI [ section 41] we read: 'The different measures adapted to the nine varieties of ground (#) and the expediency of aggressive or defensive tactics must be carefully examined.' From a consideration of these passages the meaning is made clear. When later on the nine grounds are enumerated, Sun Tzu refers to these nine variations. He wishes here to speak of the Five Advantages [see infra,  section 6], so he begins by setting forth the Nine Variations. These are inseparably connected in practice, and therefore they are dealt with together." The weak point of this argument is the suggestion that # "five things" can stand as a #, that is, an [p. 73] abstract or abridgment, of nine, when those that are omitted are not less important than those that appear, and when one of the latter is not included amongst the nine at all.
+
+^73:1 "Especially those leading through narrow defiles," says Li Ch'uan, "where an ambush is to be feared."
+
+^73:2 More correctly, perhaps, "there are times when an army must not be attacked." Ch'en Hao says: "When you see your way to obtain a trivial advantage, but are powerless to inflict a real defeat, refrain from attacking, for fear of overtaxing your men's strength."
+
+^73:3 Capt. Calthrop says "castles"--an unfortunate attempt to introduce local colour.
+
+^73:4 Cf. III.  section 4. Ts'ao Kung gives an interesting illustration from his own experience. When invading the territory of # Hsu-chou, he ignored the city of # Hua-pi, which lay directly in his path, and pressed on into the heart of the country. This excellent strategy was rewarded by the subsequent capture of no fewer than fourteen important district cities. Chang Yu says: "No town should be attacked which, if taken, cannot be held, or if left alone, will not cause any trouble " # Hsun Ying, when urged to attack # Pi-yang, replied: "The city is small and well-fortified; even if I succeed in taking it, 't will be no great feat of arms; whereas if I fail, I shall make myself a laughing-stock." In the seventeenth century, sieges still formed a large proportion of war. It was Turenne who directed attention to the importance of marches, countermarches and manoeuvres. He said: "It is a great mistake to waste men in taking a town when the same expenditure of soldiers will gain a province." [**]
+
+^73:5 This is a hard saying for the Chinese, with their reverence for authority, and Wei Liao Tzu (quoted by Tu Mu) is moved to exclaim: [p. 74] # "Weapons are baleful instruments, strife is antagonistic to virtue, a military commander is the negation of civil order!" The unpalatable fact remains, however, that even Imperial wishes must be subordinated to military necessity. Cf. III.  section 17. (5), X.  section 23. The T'ung Tien has # before # etc. This is a gloss on the words by Chu-ko Liang, which being repeated by Tu Yu became incorporated with the text. Chang Yu thinks that these five precepts are the # referred to in  section 6. Another theory is that the mysterious # are here enumerated, starting with # and ending at #, while the final clause #, embraces and as it were sums up all the nine. Thus Ho Shih says: "Even if it be your sovereign's command to encamp in difficult country, linger in isolated positions, etc., you must not do so." The theory is perhaps a little too ingenious to be accepted with confidence.
+
+^73:* "Marshal Turenne," p. 50.
+
+^74:1 Before # in the original text there is a # which is obviously not required.
+
+^74:2 Literally, "get the advantage of the ground," which means not only securing good positions, but availing oneself of natural advantages in every possible way. Chang Yu says: "Every kind of ground is characterised by certain natural features, and also gives scope for a certain variability of plan. How is it possible to turn these natural features to account unless topographical knowledge is supplemented by versatility of mind?"
+
+^74:3 [p. 75] Ts'ao Kung says that the # are # "the five things that follow;" but this cannot be right. We must rather look back to the five "variations" contained in  section 3. Chia Lin (who reads # here to balance the #) tells us that these imply five obvious and generally advantageous lines of action, namely: "if a certain road is short, it must be followed; if an army is isolated, it must be attacked; if a town is in a parlous condition, it must be besieged; if a position can be stormed, it must be attempted; and if consistent with military operations, the ruler's commands must be obeyed." But there are circumstances which sometimes forbid a general to use these advantages. For instance, "a certain road may be the shortest way for him, but if he knows that it abounds in natural obstacles, or that the enemy has laid an ambush on it, he will not follow that road. A hostile force may be open to attack, but if he knows that it is hard-pressed and likely to fight with desperation, he will refrain from striking," and so on. Here the # comes in to modify the #, and hence we see the uselessness of knowing the one without the other--of having an eye for weaknesses in the enemy's armour without being clever enough to recast one's plans on the spur of the moment. Capt. Calthrop offers this slovenly translation: "In the management of armies, if the art of the Nine Changes be understood [sic], a knowledge of the Five Advantages is of no avail."
+
+^75:1 "Whether in an advantageous position or a disadvantageous one," says Ts'ao Kung, "the opposite state should be always present to your mind."
+
+^75:2 #, according to Tu Mu, is equivalent to #, and # is paraphrased by Chang Yu as #. Tu Mu goes on to say: "If we wish to wrest an advantage from the enemy, we must not fix our minds on that alone, but allow for the possibility of the enemy also doing some harm to us, and let this enter as a factor into our calculations."
+
+^76:1 A translator cannot emulate the conciseness of # "to blend [thoughts of advantage] with disadvantage," but the meaning is as given. Tu Mu says: "If I wish to extricate myself from a dangerous position, I must consider not only the enemy's ability to injure me, but also my own ability to gain an advantage over the enemy. If in 'my counsels these two considerations are properly blended, I shall succeed in liberating myself ... For instance, if I am surrounded by the enemy and only think of effecting an escape, the nervelessness of my policy will incite my adversary to pursue and crush me; it would be far better to encourage my men to deliver a bold counter-attack, and use the advantage thus gained to free myself from the enemy's toils." See the story of Ts'ao Ts'ao, VII.  section 35, note. In his first edition, Capt. Calthrop translated  section section 7-9 as follows: "The wise man perceives clearly wherein lies advantage and disadvantage. While recognising an opportunity, he does not overlook the risks, and saves future anxiety." This has now been altered into: "The wise man considers well both advantage and disadvantage. He sees a way out of adversity, and on the day of victory to danger is not blind." Owing to a needless inversion of the Chinese, the words which I have italicised are evidently intended to represent  section 8!
+
+^76:2 Chia Lin enumerates several ways of inflicting this injury, some of which would only occur to the Oriental mind:--"Entice away the enemy's best and wisest men, so that he may be left without counsellors. Introduce traitors into his country, that the government policy may be rendered futile. Foment intrigue and deceit, and thus sow dissension between the ruler and his ministers. By means of every artful contrivance, cause deterioration amongst his men and waste of his treasure. Corrupt his morals by insidious gifts leading him into excess. Disturb and unsettle his mind by presenting him with lovely women." Chang Yu (after Wang Hsi) considers the # to be military chastisement: "Get the enemy," he says, "into a position where he must suffer injury, and he will submit of his own accord." Capt. Calthrop twists Sun Tzu's words into an absurdly barbarous precept: "In reducing an enemy to submission, inflict all possible damage upon him."
+
+^76:3 is defined by Ts'ao Kung as #, and his definition is generally [p. 77] adopted by the commentators. Tu Mu, however, seems to take it in the sense of "possessions," or, as we might say, "assets," which he considers to be # "a large army, a rich exchequer, harmony amongst the soldiers, punctual fulfilment of commands." These give us a whip-hand over the enemy.
+
+^77:1 #, literally, "make servants of them." Tu Yu says # "prevent them from having any rest."
+
+^77:2 Meng Shih's note contains an excellent example of the idiomatic use of # "cause them to forget pien (the reasons for acting otherwise than on their first impulse), and hasten in our direction."
+
+^77:3 The T'ung Tien and Yu Lan read #, but the conciser form is more likely to be right.
+
+^77:4 The T'ung Tien and Yu Lan insert #, after the first #, and omit #.
+
+^77:5 # "Bravery without forethought," as Ts'ao Kung analyses it, which causes a man to fight blindly and desperately like a mad bull. Such an opponent, says Chang Yu, "must not be encountered with brute force, but may be lured into an ambush and slain." Cf. Wu Tzu, chap. IV ad init.: # [p. 78] # "In estimating the character of a general, men are wont to pay exclusive attention to his courage, forgetting that courage is only one out of many qualities which a general should possess. The merely brave man is prone to fight recklessly; and he who fights recklessly, without any perception of what is expedient, must be condemned." Ssu-ma Fa, too, makes the incisive remark # "Simply going to one's death does not bring about victory."
+
+^78:1 # is explained by Ts'ao Kung of the man "whom timidity prevents from advancing to seize an advantage," and Wang Hsi adds, "who is quick to flee at the sight of danger." Meng Shih gives the closer paraphrase # "he who is bent on returning alive," that is, the man who will never take a risk. But, as Sun Tzu knew, nothing is to be achieved in war unless you are willing to take risks. T'ai Kung said: # "He who lets an advantage slip will subsequently bring upon himself real disaster." In 404 A.D., # Liu Yu pursued the rebel # Huan Hsuan up the Yangtsze and fought a naval battle with him at # the island of Ch'eng-hung. The loyal troops numbered only a few thousands, while their opponents were in great force. But Huan Hsun, fearing the fate which was in store for him should he be overcome, had a light boat made fast to the side of his war-junk, so that he might escape, if necessary, at a moment's notice. The natural result was that the fighting spirit of his soldiers was utterly quenched, and when the loyalists made an attack from windward with fireships, all striving with the utmost ardour to be first in the fray, Huan Hsuan's forces were routed, had to burn all their baggage and fled for two days and nights without stopping. [See #, chap. 99, fol. 13.] Chang Yu tells a somewhat similar story of a # Chao Ying-ch'i, a general of the Chin State who during a battle with the army of Ch'u in 597 B.C. had a boat kept in readiness for him on the river, wishing in case of defeat to be the first to get across.
+
+^78:2 I fail to see the meaning of Capt. Calthrop's "which brings insult." Tu Mu tells us that # Yao Hsiang, when opposed in 357 A.D. by # Huang Mei, # Teng Ch'iang and others, shut himself up behind his walls and refused to fight. Teng Ch'iang said: "Our adversary is of a choleric temper and easily provoked; let us make constant sallies and break down his walls, then he will grow angry and come out. [p. 79] Once we can bring his force to battle, it is doomed to be our prey." This plan was acted upon, Yao Hsiang came out to fight, was lured on as far as # San-yuan by the enemy's pretended flight, and finally attacked and slain.
+
+^79:1 This need not be taken to mean that a sense of honour is really a defect in a general. What Sun Tzu condemns is rather an exaggerated sensitiveness to slanderous reports, the thin-skinned man who is stung by opprobrium, however undeserved. Mei Yao-ch'en truly observes, though somewhat paradoxically: # "The seeker after glory should be careless of public opinion."
+
+^79:2 Here again, Sun Tzu does not mean that the general is to be careless of the welfare of his troops. All he wishes to emphasise is the danger of sacrificing any important military advantage to the immediate comfort of his men. This is a shortsighted policy, because in the long run the troops will suffer more from the defeat, or, at best, the prolongation of the war, which will be the consequence. A mistaken feeling of pity will often induce a general to relieve a beleaguered city, or to reinforce a hard-pressed detachment, contrary to his military instincts. It is now generally admitted that our repeated efforts to relieve Ladysmith in the South African War were so many strategical blunders which defeated their own purpose. And in the end, relief came through the very man who started out with the distinct resolve no longer to subordinate the interests of the whole to sentiment in favour of a part. An old soldier of one of our generals who failed most conspicuously in this war, tried once, I remember, to defend him to me on the ground that he was always "so good to his men." By this plea, had he but known it, he was only condemning him out of Sun Tzu's mouth.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 80]
+
+  
+
+IX. THE ARMY ON THE MARCH [*1].
+
+1. Sun Tzu said: We come now to the question of encamping the army, and observing signs of the enemy. [*2] Pass quickly over mountains, [*3] and keep in the neighbourhood of valleys. [*4]
+
+[p. 81]
+
+2. Camp in high places, [*1] facing the sun. [*2] Do not climb heights in order to fight. [*3] So much for mountain warfare. [*4]
+
+3. After crossing a river, you should get far away from it. [*5]
+
+4. When an invading force crosses a river in its onward march, do not advance to meet it in mid-stream. It will be best to let half the army get across, and then deliver your attack. [*6]
+
+[p. 82]
+
+5. If you are anxious to fight, you should not go to meet the invader near a river which he has to cross. [*1]
+
+6. Moor your craft higher up than the enemy, and facing the sun. [*2] Do not move up-stream to meet the enemy. [*3]
+
+[p. 83]
+
+[paragraph continues] So much for river warfare.
+
+7. In crossing salt-marshes, your sole concern should be to get over them quickly, without any delay. [*1]
+
+8. If forced to fight in a salt-marsh, you should have water and grass near you, and get your back to a clump of trees. [*2] So much for operations in salt-marshes.
+
+9. In dry, level country, take up an easily accessible position [*3] with rising ground to your right and on your rear,
+
+[p. 84]
+
+so that the danger may be in front, and safety lie behind. [*1] So much for campaigning in flat country.
+
+10. These are the four useful branches of military knowledge [*2] which enabled the Yellow Emperor to vanquish four several sovereigns. [*3]
+
+11. All armies prefer high ground to low, [*4] and sunny places to dark.
+
+12. If you are careful of your men, [*5]
+
+[p. 85]
+
+and camp on hard ground, [*1] the army will be free from disease of every kind, [*2] and this will spell victory.
+
+13. When you come to a hill or a bank, occupy the sunny side, with the slope on your right rear. Thus you will at once act for the benefit of your soldiers and utilise the natural advantages of the ground.
+
+14. When, in consequence of heavy rains up-country, a river which you wish to ford is swollen and flecked with foam, you must wait until it subsides. [*3]
+
+15. Country in which there are precipitous cliffs with torrents running between, [*4] deep natural hollows, [*5] confined places, [*6]
+
+[p. 86]
+
+tangled thickets, [*1] quagmires [*2] and crevasses, [*3] should be left with all possible speed and not approached.
+
+16. While we keep away from such places, we should get the enemy to approach them; while we face them, we should let the enemy have them on his rear.
+
+17 If in the neighbourhood of your camp [*4]
+
+[p. 87]
+
+there should be any hilly country, [*1] ponds surrounded by aquatic grass, hollow basins filled with reeds, [*2] or woods with thick undergrowth, [*3] they must be carefully routed out and searched; for these are places where men in ambush or insidious spies are likely to be lurking. [*4]
+
+18. When the enemy is close at hand and remains quiet, he is relying on the natural strength of his position. [*5]
+
+[p. 88]
+
+19. When he keeps aloof and tries to provoke a battle, he is anxious for the other side to advance. [*1]
+
+20. If his place of encampment is easy of access, he is tendering a bait. [*2]
+
+21. Movement amongst the trees of a forest shows that the enemy is advancing. [*3] The appearance of a number of screens in the midst of thick grass means that the enemy wants to make us suspicious. [*4]
+
+[p. 89]
+
+22. The rising of birds in their flight is the sign of an ambuscade. [*1] Startled beasts indicate that a sudden attack is coming. [*2]
+
+23. When there is dust rising in a high column, it is the sign of chariots advancing; when the dust is low, but spread over a wide area, it betokens the approach of infantry. [*3] When it branches out in different directions, it shows that parties have been sent to collect firewood. [*4]
+
+[p. 90]
+
+[paragraph continues] A few clouds of dust moving to and fro signify that the army is encamping. [*1]
+
+24. Humble words and increased preparations are signs that the enemy is about to advance. [*2]
+
+[p. 91]
+
+[paragraph continues] Violent language and driving forward as if to the attack are signs that he will retreat. [*1] When the light chariots [*2] come out first and take up a position on the wings, it is a sign that the enemy is forming for battle. [*3]
+
+26. Peace proposals unaccompanied by a sworn covenant indicate a plot. [*4]
+
+[p. 92]
+
+27. When there is much running about [*1] and the soldiers fall into rank, [*2] it means that the critical moment has come. [*3]
+
+28. When some are seen advancing and some retreating, it is a lure. [*4]
+
+29. When the soldiers stand leaning on their spears, they are faint from want of food. [*5]
+
+30. If those who are sent to draw water begin by drinking themselves, the army is suffering from thirst. [*6]
+
+[p. 93]
+
+31. If the enemy sees an advantage to be gained [*1] and makes no effort to secure it, the soldiers are exhausted.
+
+32. If birds gather on any spot, it is unoccupied. [*2] Clamour by night betokens nervousness. [*3]
+
+33. If there is disturbance in the camp, the general's authority is weak. If the banners and flags are shifted about, sedition is afoot. [*4] If the officers are angry, it means that the men are weary. [*5]
+
+34. When an army feeds its horses with grain and kills its cattle for food, [*6] and when the men do not hang their cooking-pots [*7]
+
+[p. 94]
+
+over the camp-fires, showing that they will not return to their tents, [*1] you may know that they are determined to fight to the death. [*2]
+
+35. The sight of men whispering together [*3] in small knots [*4]
+
+[p. 95]
+
+or speaking in subdued tones [*1] points to disaffection amongst the rank and file. [*2]
+
+36. Too frequent rewards signify that the enemy is at the end of his resources; [*3] too many punishments betray a condition of dire distress. [*4]
+
+37. To begin by bluster, but afterwards to take fright at the enemy's numbers, shows a supreme lack of intelligence. [*5]
+
+38. When envoys are sent with compliments in their mouths, it is a sign that the enemy wishes for a truce. [*6]
+
+[p. 96]
+
+39. If the enemy's troops march up angrily and remain facing ours for a long time without either joining battle or taking themselves off again, the situation is one that demands great vigilance and circumspection. [*1]
+
+40. If our troops are no more in number than the enemy, that is amply sufficient; [*2] it only means that no direct attack can be made. [*3] What we can do is simply to concentrate all our available strength, keep a close watch on the enemy, and obtain reinforcements. [*4]
+
+[p. 97]
+
+41. He who exercises no forethought but makes light of his opponents is sure to be captured by them. [*1]
+
+42. If soldiers are punished before they have grown
+
+[p. 98]
+
+attached to you, they will not prove submissive; and, unless submissive, they will be practically useless. If, when the soldiers have become attached to you, punishments are not enforced, they will still be useless. [*1]
+
+43. Therefore soldiers must be treated in the first instance with humanity, but kept under control by means of iron discipline. [*2] This is a certain road to victory.
+
+44. If in training soldiers commands are habitually enforced, the army will be well-disciplined; if not, its discipline will be bad. [*3]
+
+45. If a general shows confidence in his men but always insists on his orders being obeyed, [*4]
+
+[p. 99]
+
+the gain will be mutual. [*1]
+
+Footnotes
+
+^80:1 The contents of this interesting chapter are better indicated in  section 1 than by this heading.
+
+^80:2 The discussion of #, as Chang Yu points out, extends from here down to # ( section section 1-17), and # from that point down to # ( section section 18-39). The rest of the chapter consists of a few desultory remarks, chiefly on the subject of discipline.
+
+^80:3 For this use of #, cf. infra,  section 3. See also #, ch. 1. fol. 2 (standard edition of 1876): #; Shih Chi, ch. 27 ad init.: #.
+
+^80:4 Tu Mu says that # here = #. The idea is, not to linger among barren uplands, but to keep close to supplies of water and grass. Capt. Calthrop translates "camp in valleys," heedless of the very next sentence. Cf. Wu Tzu, ch. 3: # "Abide not in natural ovens," i.e. # "the openings of large valleys." Chang Yu tells the following anecdote: "# Wu-tu Ch'iang was a robber captain in the time of the Later Han, and # Ma Yuan was sent to exterminate his gang. Ch'iang having found a refuge in the hills, Ma Yuan made no attempt to force a battle, but seized all the favourable positions commanding supplies of water and forage. Ch'iang was soon in such a desperate plight for want of provisions that he was forced to make a total surrender. He did not know the advantage of keeping in the neighbourhood of valleys."
+
+^81:1 Not on high hills, but on knolls or hillocks elevated above the surrounding country.
+
+^81:2 #. Tu Mu takes this to mean "facing south," and Ch'en Hao "facing east." Cf. infra,  section section 11, 53.
+
+^81:3 # here simply equivalent to #. The T'ung Tien and Yu Lan read #.
+
+^81:4 After #, the T'ung Tien and Yu Lan insert #.
+
+^81:5 "In order to tempt the enemy to cross after you," according to Ts'ao Kung, and also, says Chang Yu, "in order not to be impeded in your evolutions." The T'ung Tien reads # If the enemy crosses a river," etc. But in view of the next sentence, this is almost certainly an interpolation.
+
+^81:6 The T'ung Tien and Yu Lan read # for #, without change of meaning. Wu Tzu plagiarises this passage twice over:--ch. II ad fin., #; ch. V, #. Li Ch'uan alludes to the great victory won by Han Hsin over # Lung Chu at the # Wei River. Turning to the Ch'ien Han Shu, ch. 34, fol. 6 verso, we find the battle described as follows: "The two armies were drawn up on opposite sides of the river. In the night, Han Hsin ordered his men to take some ten thousand sacks filled with sand and construct a dam a little higher up. Then, leading half his army across, he attacked [p. 82] Lung Chu; but after a time, pretending to have failed in his attempt, he hastily withdrew to the other bank. Lung Chu was much elated by this unlooked-for success, and exclaiming: "I felt sure that Han Hsin was really a coward!" he pursued him and began crossing the river in his turn. Han Hsin now sent a party to cut open the sandbags, thus releasing a great volume of water, which swept down and prevented the greater portion of Lung Chu's army from getting across. He then turned upon the force which had been cut off, and annihilated it, Lung Chu himself being amongst the slain. The rest of the army, on the further bank, also scattered and fled in all directions."
+
+^82:1 For fear of preventing his crossing. Capt. Calthrop makes the injunction ridiculous by omitting a #.
+
+^82:2 See supra,  section 2. The repetition of these words in connection with water is very awkward. Chang Yu has the note: # "Said either of troops marshalled on the river-bank, or of boats anchored in the stream itself; in either case it is essential to be higher than the enemy and facing the sun." The other commentators are not at all explicit. One is much tempted to reject their explanation of # altogether, and understand it simply as "seeking safety." [Cf. # in VIII.  section 12, and infra,  section 9.] It is true that this involves taking # in an unusual, though not, I think, an impossible tense. Of course the earlier passage would then have to be translated in like manner.
+
+^82:3 Tu Mu says: "As water flows downwards, we must not pitch our camp on the lower reaches of a river, for fear the enemy should open the sluices and sweep us away in a flood. This is implied above in the words #. Chu-ko Wu-hou has remarked that 'in river warfare we must not advance against the stream,' which is as much as to say that our fleet must not be anchored below that of the enemy, for then they would be able to take advantage of the current and make short work of us." There is also the danger, noted by other commentators, [p. 83] that the enemy now throw poison on the water to be carried down to us. Capt. Calthrop's first version was: "Do not cross rivers in the face of the stream"--a sapient piece of advice, which made one curious to know what the correct way of crossing rivers might be. He has now improved this into: "Do not fight when the enemy is between the army and the source of the river."
+
+^83:1 Because of the lack of fresh water, the poor quality of the herbage, and last but not least, because they are low, flat, and exposed to attack.
+
+^83:2 Li Ch'uan remarks that the ground is less likely to be treacherous where there are trees, while Tu Yu says that they will serve to protect the rear. Capt. Calthrop, with a perfect genius for going wrong, says "in the neighbourhood of a marsh." For # the T'ung Tien and Yu Lan wrongly read #, and the latter also has # instead of #.
+
+^83:3 This is doubtless the force of #, its opposite being #. Thus, Tu Mu explains it as # "ground that is smooth and firm," and therefore adapted for cavalry; Chang Yu as # "level ground, free from depressions and hollows." He adds later on that although Sun Tzu is discussing flat country, there will nevertheless be slight elevations and hillocks. [p. 84]
+
+The Yu Lan again reads # for #. Tu Mu quotes T'ai Kung as saying: "An army should have a stream or a marsh on its left, and a hill or tumulus on its right."
+
+^84:1 Wang Hsi thinks that # contradicts the saying # in  section 2, and therefore suspects a mistake in the text.
+
+^84:2 Those, namely, concerned with (1) mountains, (2) rivers, (3) marshes, and (4) plains. Compare Napoleon's "Military Maxims," no. 1.
+
+^84:3 Mei Yao-ch'en asks, with some plausibility, whether # is not a mistake for # "armies," as nothing is known of Huang Ti having conquered four other Emperors. The Shih Chi, (ch. I ad init.) speaks only of his victories over # Yen Ti and # Ch'ih Yu. In the # it is mentioned that he "fought seventy battles and pacified the Empire." Ts'ao Kung's explanation is, that the Yellow Emperor was the first to institute the feudal system of vassal princes, each of whom (to the number of four) originally bore the title of Emperor. Li Ch'uan tells us that the art of war originated under Huang Ti, who received it from his Minister # Feng Hou.
+
+^84:4 "High ground," says Mei Yao-ch'en, "is not only more agreeable and salubrious, but more convenient from a military point of view; low ground is not only damp and unhealthy, but also disadvantageous for fighting." The original text and the T'u Shu have # instead of #.
+
+^84:5 Ts'ao Kung says: # "Make for fresh water and pasture, where you can turn out your animals to graze." And [p. 85] the other commentators follow him, apparently taking # as = #. Cf. Mencius, V. 1. ix. 1, where # means a cattle-keeper. But here # surely has reference to the health of the troops. It is the title of Chuang Tzu's third chapter, where it denotes moral rather than physical well-being.
+
+^85:1 # must mean dry and solid, as opposed to damp and marshy, ground. This is to be found as a rule in high places, so the commentators explain # as practically equivalent to #.
+
+^85:2 Chang Yu says: "The dryness of the climate will prevent the outbreak of illness."
+
+^85:3 The T'ung Tien and Yu Lan have a superfluous # before #.
+
+^85:4 #, explained by Mei Yao-ch'en as #.
+
+^85:5 #, explained as # "places enclosed on every side by steep banks, with pools of water at the bottom."
+
+^85:6 [p. 86] # "natural pens or prisons," explained as # "places surrounded by precipices on three sides--easy to get into, but hard to get out of."
+
+^86:1 #, explained as # "places covered with such dense undergrowth that spears cannot be used."
+
+^86:2 #, explained as # "low-lying places, so heavy with mud as to be impassible for chariots and horsemen."
+
+^86:3 is explained by Mei Yao-ch'en as # "a narrow difficult way between beetling cliffs," but Ts'ao Kung says #, which seems to denote something on a much smaller scale. Tu Mu's note is # "ground covered with trees and rocks, and intersected by numerous ravines and pitfalls." This is very vague, but Chia Lin explains it clearly enough as a defile or narrow pass: #, and Chang Yu takes much the same view. On the whole, the weight of the commentators certainly inclines to the rendering "defile". But the ordinary meaning of # (a crack or fissure) and the fact that # above must be something in the nature of a defile, make me think that Sun Tzu is here speaking of crevasses. The T'ung Tien and Yu Lan read # for #, with the same meaning; the latter also has # after #--a palpable gloss.
+
+^86:4 The original text has #, but # has been generally adopted as yielding much better sense.
+
+^87:1 # is #, according to Chang Yu.
+
+^87:2 The original text omits # and #, so that # and # join to make a pair: "ponds and basins." This is plausible enough at first sight, but there are several objections to the : (1) # is unlikely to have got into the text as a gloss on #; (2) it is easy to suppose, on the other hand, that # and afterwards # (to restore the balance of the sentence) were omitted by a copyist who jumped to the conclusion that # and # must go together; (3) the sense, when one comes to consider it, actually requires #, for it is absurd to talk of pools and ponds as in themselves suitable places for an ambush; (4) Li Ching (571-649 A.D.) in his # "Art of War" has the words: #. This is evidently a reminiscence of Sun Tzu, so there can be little doubt that # stood in the text at this early date. It may be added that the T'ung Tien and Yu Lan both have #, and the latter also reads # for #.
+
+^87:3 I read # with the Yu Lan in preference to #, given in the original text, which is accepted by the commentators without question. The text of the T'u Shu up to this point runs as follows: #.
+
+^87:4 The original text omits #, which has been restored from the T'ung Tien and Yu Lan. The T'u Shu omits # as well, making # a substantive. On # Chang Yu has the note: # "We must also be on our guard against traitors who may lie in close covert, secretly spying out our weaknesses and overhearing our instructions. Fu and chien are to be taken separately."
+
+^87:5 [p. 88] Here begin Sun Tzu's remarks on the reading of signs, much of which is so good that it could almost be included in a modern manual like Gen. Baden-Powell's "Aids to Scouting."
+
+^88:1 Probably because we are in a strong position from which he wishes to dislodge us. "If he came close up to us," says Tu Mu, "and tried to force a battle, he would seem to despise us, and there would be less probability of our responding to the challenge."
+
+^88:2 # is here the opposite of # in  section 18. The reading of the T'ung Tien and Yu Lan, #, is pretty obviously corrupt. The original text, which transposes # and #, may very possibly be right. Tu Mu tells us that there is yet another reading: #.
+
+^88:3 Ts'ao Kung explains this as "felling trees to clear a passage," and Chang Yu says: "Every army sends out scouts to climb high places and observe the enemy. If a scout sees that the trees of a forest are moving and shaking, he may know that they are being cut down to clear a passage for the enemy's march."
+
+^88:4 Whenever the meaning of a passage happens to be somewhat elusive, Capt. Calthrop seems to consider himself justified in giving free rein to the imagination. Thus, though his text is here identical with ours, he renders the above: "Broken branches and trodden grass, as of the passing of a large host, must be regarded with suspicion." Tu Yu's explanation, borrowed from Ts'ao Kung, is as follows: "The presence of a number of screens or sheds in the midst of thick vegetation is a sure sign that the enemy has fled and, fearing pursuit, has constructed these hiding-places [p. 89] in order to make us suspect an ambush." It appears that these "screens" were hastily knotted together out of any long grass which the retreating enemy happened to come across.
+
+^89:1 Chang Yu's explanation is doubtless right: "When birds that are flying along in a straight line suddenly shoot upwards, it means that soldiers are in ambush at the spot beneath."
+
+^89:2 An example of # fou4 in the meaning of "ambuscade" may be found in the Tso Chuan, # 9th year: #. In the present passage, however, it is to be distinguished from # just above, in that it implies onward motion on the part of the attacking force. Thus, Li Ch'uan defines it as #, and Tu Mu as #.
+
+^89:3 # "high and sharp," or rising to a peak, is of course somewhat exaggerated as applied to dust. The commentators explain the phenomenon by saying that horses and chariots, being heavier than men, raise more dust, and also follow one another in the same wheel-track, whereas foot-soldiers would be marching in ranks, many abreast. According to Chang Yu, "every army on the march must have scouts (#) some way in advance, who on sighting dust raised by the enemy, will gallop back and report it to the commander-in-chief." Cf. Gen. Baden-Powell: "As you move along, say, in a hostile country, your eyes should be looking afar for the enemy or any signs of him: figures, .dust rising, birds getting up, glitter of arms, etc." [**]
+
+^89:4 There is some doubt about the reading #. The T'ung Tien and Yu Lan have #, and Li Ch'uan proposes #.
+
+^89:* "Aids to Scouting," p. 26.
+
+^90:1 Chang Yu says: "In apportioning the defences for a cantonment, light horse will be sent out to survey the position and ascertain the weak and strong points all along its circumference. Hence the small quantity of dust and its motion."
+
+^90:2 "As though they stood in great fear of us," says Tu Mu. "Their object is to make us contemptuous and careless, after which they will attack us." Chang Yu alludes to the story of # T'ien Tan of the Ch'i State, who in 279 B.C. was hard-pressed in his defence of # Chi-mo against the Yen forces, led by # Ch'i Chieh. In ch. 82 of the Shih Chi we read: "T'ien Tan openly said: 'My only fear is that the Yen army may cut off the noses of their Ch'i prisoners and place them in the front rank to fight against us; that would be the undoing of our city.' The other side being informed of this speech, at once acted on the suggestion; but those within the city were enraged at seeing their fellow-countrymen thus mutilated, and fearing only lest they should fall into the enemy's hands, were nerved to defend themselves more obstinately than ever. Once again T'ien Tan sent back converted spies who reported these words to the enemy: 'What I dread most is that the men of Yen may dig up the ancestral tombs outside the town, and by inflicting. this indignity on our forefathers cause us to become faint-hearted.' Forthwith the besiegers dug up all the graves and burned the corpses lying in them. And the inhabitants of Chi-mo, witnessing the outrage from the city-walls, wept passionately and were all impatient to go out and fight, their fury being increased tenfold. T'ien Tan knew then that his soldiers were ready for any enterprise. But instead of a sword, he himself took a mattock in his hands, and ordered others to be distributed amongst his best warriors, while the ranks were filled up with their wives and concubines. He then served out all the remaining rations and bade his men eat their fill. The regular soldiers were told to keep out of sight, and the walls were manned with the old and weaker men and with women. This done, envoys were despatched to the enemy's camp to arrange terms of surrender, whereupon the Yen army began shouting for joy. T'ien Tan also collected 20,000 ounces of silver from the people, and got the wealthy citizens of Chi-mo to send it to the Yen general with the prayer that, when the town capitulated, he would not allow their homes to be plundered or their women to be maltreated. Ch'i Chieh, in high good humour, granted their prayer; but his army now became increasingly slack and [p. 91] careless. Meanwhile, T'ien Tan got together a thousand oxen, decked them with pieces of red silk, painted their bodies, dragon-like, with coloured stripes, and fastened sharp blades on their horns and well-greased rushes on their tails. When night came on, he lighted the ends of the rushes, and drove the oxen through a number of holes which he had pierced in the walls, backing them up with a force of 5000 picked warriors. The animals, maddened with pain, dashed furiously into the enemy's camp where they caused the utmost confusion and dismay; for their tails acted as torches, showing up the hideous pattern on their bodies, and the weapons on their horns killed or wounded any with whom they came into contact In the meantime, the band of 5000 had crept up with gags in their mouths, and now threw themselves on the enemy. At the same moment a frightful din arose in the city itself, all those that remained behind making as much noise as possible by banging drums and hammering on bronze vessels, until heaven and earth were convulsed by the uproar. Terror-stricken, the Yen army fled in disorder, hotly pursued by the men of Ch'i, who succeeded in slaying their general Ch'i Chieh ... The result of the battle was the ultimate recovery of some seventy cities which had belonged to the Ch'i State."
+
+^91:1 I follow the original text here, also adopted by the T'u Shu. The standard text reads # on the strength of Ts'ao Kung's commentary #, which shows that his text included the word #. Strong as this ground is, I do not think it can counterbalance the obvious superiority of the other reading in point of sense. # not only provides no antithesis to #, but makes the whole passage absurd; for if the language of the enemy is calculated to deceive, it cannot be known as deceitful at the time, and can therefore afford no "sign." Moreover, the extra word in # (an awkward locution, by the way) spoils the parallelism with #.
+
+^91:2 The same, according to Tu Yu, as the # of II.  section 1.
+
+^91:3 The T'ung Tien omits #.
+
+^91:4 [p. 92]Tu Yu defines # as #, and Li Ch'uan as # "a treaty confirmed by oaths and hostages." Wang Hsi and Chang Yu, on the other hand, simply say # "without reason," "on a frivolous pretext," as though # bore the rather unusual sense of "important." Capt. Calthrop has "without consultation," which is too loose.
+
+^92:1 Every man hastening to his proper place under his own regimental banner.
+
+^92:2 I follow the T'u Shu in omitting # after #. Tu Mu quotes the Chou Li, ch. xxix. fol. 31: #.
+
+^92:3 What Chia Lin calls #, as opposed to #.
+
+^92:4 Capt. Calthrop is hardly right in translating: "An advance, followed by sudden retirement." It is rather a case of feigned confusion. As Tu Mu says: #.
+
+^92:5 # is here probably not a synonym for #, but = # "a weapon." The original text has #, which has been corrected from the T'ung Tien and Yu Lan.
+
+^92:6 As Tu Mu remarks: # "One may know the condition of a whole army from the behaviour of a single man." The # may mean either that they drink before drawing water for the army, or before they return to camp. Chang Yu takes the latter view. The T'ung Tien has the faulty reading #, and the Yu Lan, worse still, #.
+
+^93:1 Not necessarily "booty," as Capt. Calthrop translates it. The T'ung Tien and Yu Lan read #, etc.
+
+^93:2 A useful fact to bear in mind when, for instance, as Ch'en Hao says, the enemy has secretly abandoned his camp.
+
+^93:3 Owing to false alarms; or, as Tu Mu explains it: # "Fear makes men restless; so they fall to shouting at night in order to keep up their courage." The T'ung Tien inserts # before #.
+
+^93:4 The T'ung Tien and Yu Lan omit #.
+
+^93:5 And therefore, as Capt. Calthrop says, slow to obey. Tu Yu understands the sentence differently: "If all the officers of an army are angry with their general, it means that they are broken with fatigue" [owing to the exertions which he has demanded from them].
+
+^93:6 # is expanded by Mei Yao-ch'en (following Tu Mu) into #, which is the sense I have given above. In the ordinary course of things, the men would be fed on grain and the horses chiefly on grass.
+
+^93:7 [p. 94] The T'ung Tien reads #, which is much the same as #, and the Yu Lan #, which is manifestly wrong.
+
+^94:1 For #, the T'ung Tien and Yu Lan both read #.
+
+^94:2 For # see VII.  section 36. I may quote here the illustrative passage from the Hou Han Shu, ch. 71, given in abbreviated form by the P'ei Wen Yun Fu: "The rebel. # Wang Kuo of # Liang was besieging the town of # Ch'en-ts'ang, and # Huang-fu Sung, who was in supreme command, and # Tung Cho were sent out against him. The latter pressed for hasty measures, but Sung turned a deaf ear to his counsel. At last the rebels were utterly worn out, and began to throw down their weapons of their own accord. Sung was now for advancing to the attack, but Cho said: 'It is a principle of war not to pursue desperate men and not to press a retreating host.' Sung answered: 'That does not apply here. What I am about to attack is a jaded army, not a retreating host; with disciplined troops I am falling on a disorganised multitude, not a band of desperate men.' Thereupon he advanced to the attack unsupported by his colleague, and routed the enemy, Wang Kuo being slain." The inferior reading of the T'u Shu for  section 34 is as follows: #. The first clause strikes me as rather shallow for Sun Tzu and it is hard to make anything of # in the second without the negative. Capt. Calthrop, nothing daunted, set down in his first edition: "When they cast away their cooking-pots." He now has: "When the cooking-pots are hung up on the wall."
+
+^94:3 # is well explained by Tu Mu as # "speaking with bated breath."
+
+^94:4 The Shuo Wen rather strangely defines # by the word #, but the Erh Ya says # "to join" or "contract," which is undoubtedly its primary meaning. Chang Yu is right, then, in explaining it here by the word #. The other commentators are very much at sea: Ts'ao Kung says #, Tu Yu #,  Tu Mu #, Chia Lin #, Mei Yao-ch'en #, Wang Hsi #.
+
+^95:1 # is said to be the same as #.
+
+^95:2 # is equivalent to #, the subject of course being "the general," understood. In the original text, which seems to be followed by several commentators, the whole passage stands thus: #. Here it would be the general who is talking to his men, not the men amongst themselves. For #, which is the chief stumbling-block in the way of this reading, the T'u Shu gives the very plausible emendation # (also read hsi, and defined by K'ang Hsi as # "to speak fast"). But this is unnecessary if we keep to the standard text.
+
+^95:3 Because, when an army is hard pressed, as Tu Mu says, there is always a fear of mutiny, and lavish rewards are given to keep the men in good temper.
+
+^95:4 Because in such case discipline becomes relaxed, and unwonted severity is necessary to keep the men to their duty.
+
+^95:5 I follow the interpretation of Ts'ao Kung: #, also adopted by Li Ch'uan, Tu Mu and Chang Yu. Another possible meaning, set forth by Tu Yu, Chia Lin, Mei Yao-ch'en and Wang Hsi, is: "The general who is first tyrannical towards his men, and then in terror lest they should mutiny, etc." This would connect the sentence with what went before about rewards and punishments. The T'ung Tien and Yu Lan read # "affection" instead of #.
+
+^95:6 [p. 96] Tu Mu says: # "If the enemy open friendly relations by sending hostages, it is a sign that they are anxious for an armistice, either because their strength is exhausted or for some other reason." But it hardly needs a Sun Tzu to draw such an obvious inference; and although Tu Mu is supported by Mei Yao-ch'en and Chang Yu, I cannot think that hostages are indicated by the word #.
+
+^96:1 Capt. Calthrop falls into a trap which often lurks in the word #. He translates: "When both sides, eager for a fight, face each other for a considerable time, neither advancing nor retiring," etc. Had he reflected a little, he would have seen that this is meaningless as addressed to a commander who has control over the movements of his own troops. #, then, does not mean that the two armies go to meet each other, but simply that the other side comes up to us. Likewise with #. If this were not perfectly clear of itself, Mei Yao-ch'en's paraphrase would make it so: #, etc. As Ts'ao Kung points out, a manoeuvre of this sort may be only a ruse to gain time for an unexpected flank attack or the laying of an ambush.
+
+^96:2 Wang Hsi's paraphrase, partly borrowed from Ts'ao Kung, is #. Another reading, adopted by Chia Liu and the T'u Shu, is # which Capt. Calthrop renders, much too loosely: "Numbers are no certain mark of strength."
+
+^96:3 Literally, "no martial advance." That is to say, # "cheng" tactics and frontal attacks must be eschewed, and stratagem resorted to instead.
+
+^96:4 [p. 97] This is an obscure sentence, and none of the commentators succeed in squeezing very good sense out of it. The difficulty lies chiefly in the words #, which have been taken in every possible way. I follow Li Ch'uan, who appears to offer the simplest explanation: # "Only the side that gets more men will win." Ts'ao Kung's note, concise as usual to the verge of incomprehensibility, is #. Fortunately we have Chang Yu to expound its meaning to us in language which is lucidity itself: # "When the numbers are even, and no favourable opening presents itself, although we may not be strong enough to deliver a sustained attack, we can find additional recruits amongst our sutlers and camp-followers, and then, concentrating our forces and keeping a close watch on the enemy, contrive to snatch the victory. But we must avoid borrowing foreign soldiers to help us." He then quotes from Wei Liao Tzu, ch. 3: # "The nominal strength of mercenary troops may be 100,000, but their real value will be not more than half that figure." According to this interpretation, # means "to get recruits," not from outside, but from the tag-rag and bobtail which follows in the wake of a large army. This does not sound a very soldierly suggestion, and I feel convinced that it is not what Sun Tzu meant. Chia Lin, on the other hand, takes the words in a different sense altogether, namely "to conquer the enemy" [cf. I  section 20]. But in that case they could hardly be followed by #. Better than this would be the rendering "to make isolated captures," as opposed to # "a general attack."
+
+^97:1 The force of # is not easy to appreciate. Ch'en Hao says #, thus referring # to the second verb. He continues, quoting from the Tso Chuan: # "If bees and scorpions carry poison, how much more will a hostile state! [#, XXII. 3.] Even a puny opponent, then, should not be treated with contempt."
+
+^98:1 This is wrongly translated by Capt. Calthrop: "If the troops know the general, but are not affected by his punishments, they are useless."
+
+^98:2 # and #, according to Ts'ao Kung, are here equivalent to # and # respectively. Compare our two uses of the word "civil." Yen Tzu [+ B.C. 493] said of # Ssu ma Jang-chu: # "His civil virtues endeared him to the people; his martial prowess kept his enemies in awe." Cf. Wu Tzu, ch. 4 init.: # "The ideal commander unites culture with a warlike temper; the profession of arms requires a combination of hardness and tenderness." Again I must find fault with Capt. Calthrop's translation: "By humane treatment we obtain obedience; authority brings uniformity."
+
+^98:3 The T'ung Tien and Yu Lan read: #.
+
+^98:4 The original text has #. # is certainly awkward without #, but on the other hand it is clear that Tu Mu accepted the T'ung Tien text, which is identical with ours. He says: "A general ought [p. 99] in time of peace to show kindly confidence in his men and also make his authority respected, so that when they come to face the enemy, orders may be executed and discipline maintained, because they all trust and look up to him." What Sun Tzu has said in  section 44, however, would lead one rather to expect something like this: "If a general is always confident that his orders will be carried out," etc. Hence I am tempted to think that he may have written #. But this is perhaps too conjectural.
+
+^99:1 Chang Yu says: # "The general has confidence in the men under his command, and the men are docile having confidence in him. Thus the gain is mutual." He quotes a pregnant sentence from Wei Liao Tzu, ch. 4: # "The art of giving orders is not to try to rectify minor blunders and not to be swayed by petty doubts" Vacillation and fussiness are the surest means of sapping the confidence of an army. Capt. Calthrop winds up the chapter with a final mistranslation of a more than usually heinous description: "Orders are always obeyed, if general and soldiers are in sympathy." Besides inventing the latter half of the sentence, he has managed to invert protasis and apodosis.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 100]
+
+  
+
+X. TERRAIN [*1].
+
+1. Sun Tzu said: We may distinguish six kinds of terrain, to wit: (1) Accessible ground; [*2] (2) entangling ground; [*3] (3) temporising ground; [*4] (4) narrow passes; (5) precipitous heights; [*5] (6) positions at a great distance from the enemy. [*6]
+
+[p. 101]
+
+2. Ground which can be freely traversed by both sides is called accessible. [*1]
+
+3. With regard to ground of this nature, [*2] be before the enemy in occupying the raised and sunny spots, [*3] and carefully guard your line of supplies. [*4]
+
+Then you will be able to fight with advantage. [*5]
+
+[p. 102]
+
+4. Ground which can be abandoned but is hard to re-occupy is called entangling. [*1]
+
+5. From a position of this sort, if the enemy is unprepared, you may sally forth and defeat him. But if the enemy is prepared for your coming, and you fail to defeat him, then, return being impossible, disaster will ensue. [*2]
+
+6. When the position is such that neither side will gain by making the first move, it is called temporising ground. [*3]
+
+7. In a position of this sort, even though the enemy should offer us an attractive bait, [*4] it will be advisable not to stir forth, but rather to retreat, thus enticing the enemy in his turn; then, when part of his army has come out, we may deliver our attack with advantage. [*5]
+
+[p. 103]
+
+8. With regard to narrow passes, if you can occupy them first, [*1] let them be strongly garrisoned and await the advent of the enemy. [*2]
+
+9. Should the enemy forestall you in occupying a pass, do not go after him if the pass is fully garrisoned, but only if it is weakly garrisoned.
+
+10. With regard to precipitous heights, if you are beforehand with your adversary, you should occupy the raised and sunny spots, and there wait for him to come up. [*3]
+
+[p. 104]
+
+11. If the enemy has occupied them before you, do not follow him, but retreat and try to entice him away. [*1]
+
+12. If you are situated at a great distance from the enemy, and the strength of the two armies is equal, [*2] it is not easy to provoke a battle, [*3] and fighting will be to your disadvantage.
+
+13. These six are the principles connected with Earth. [*4] The general who has attained a responsible post must be careful to study them. [*5]
+
+[p. 105]
+
+14. Now an army is exposed to six several calamities, not arising from natural causes, [*1] but from faults for which the general is responsible. These are: (1) Flight; (2) insubordination; (3) collapse; (4) ruin; (5) disorganisation; (6) rout. [*2]
+
+15. Other conditions being equal, if one force is hurled against another ten times its size, the result will be the flight of the former. [*3]
+
+16. When the common soldiers are too strong and their officers too weak, the result is insubordination. [*4]
+
+[p. 106]
+
+[paragraph continues] When the officers are too strong and the common soldiers too weak, the result is collapse. [*1]
+
+17. When the higher officers [*2] are angry and insubordinate, and on meeting the enemy give battle on their own account from a feeling of resentment, before the commander-in-chief can tell whether or no he is in a position to fight, the result is ruin. [*3]
+
+[p. 107]
+
+18. When the general is weak and without authority; when his orders are not clear and distinct; [*1] when there are no fixed duties assigned to officers and men, [*2] and the ranks are formed in a slovenly haphazard manner, the result is utter disorganisation.
+
+19. When a general, unable to estimate the enemy's strength, allows an inferior force to engage a larger one, or hurls a weak detachment against a powerful one, and neglects to place picked soldiers in the front rank, the result must be a rout. [*3]
+
+[p. 108]
+
+20. These are six ways of courting defeat, [*1] which must be carefully noted by the general who has attained a responsible post. [*2]
+
+21. The natural formation of the country is the soldier's best ally; [*3] but a power of estimating the adversary, [*4] of controlling the forces of victory, [*5] and of shrewdly calculating difficulties, dangers and distances, [*6]
+
+[p. 109]
+
+constitutes the test of a great general. [*1]
+
+22. He who knows these things, and in fighting puts his knowledge into practice, will win his battles. He who knows them not, nor practises them, will surely be defeated.
+
+2 3. If fighting is sure to result in victory, then you must fight, even though the ruler forbid it; if fighting will not result in victory, then you must not fight even at the ruler's bidding. [*2]
+
+[p. 110]
+
+24. The general who advances without coveting fame and retreats without fearing disgrace, [*1] whose only thought is to protect his country and do good service for his sovereign, [*2] is the jewel of the kingdom. [*3]
+
+25. Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death. [*4]
+
+[p. 111]
+
+26. If, however, you are indulgent, but unable to make your authority felt; kind-hearted, but unable to enforce your commands; and incapable, moreover, of quelling disorder: [*1] then your soldiers must be likened to spoilt children; they are useless for any practical purpose. [*2]
+
+27. If we know that our own men are in a condition to attack, but are unaware that the enemy is not open to attack, we have gone only halfway towards victory. [*3]
+
+[p. 112]
+
+28. If we know that the enemy is open to attack, but are unaware that our own men are not in a condition to attack, we have gone only halfway towards victory. [*1]
+
+29. If we know that the enemy is open to attack, and also know that our men are in a condition to attack, but are unaware that the nature of the ground makes fighting impracticable, we have still gone only halfway towards victory. [*2]
+
+30. Hence the experienced soldier, once in motion, is never bewildered; once he has broken camp, he is never at a loss [*3]
+
+31. Hence the saying: If you know the enemy and know yourself, your victory will not stand in doubt; [*4]
+
+[p. 113]
+
+if you know Heaven and know Earth, [*1] you may make your victory complete. [*2]
+
+Footnotes
+
+^100:1 Only about a third of the chapter, comprising  section section 1-13, deals with #, the subject being more fully treated in ch. XI. The "six calamities" are discussed in  section section 14-20, and the rest of the chapter is again a mere string of desultory remarks, though not less interesting, perhaps, on that account.
+
+^100:2 Mei Yao-ch'en says: "plentifully provided with roads and means of communication."
+
+^100:3 The same commentator says: # "Net-like country, venturing into which you become entangled."
+
+^100:4 Tu Yu explains # as #. This meaning is still retained in modern phrases such as #, # "stave off," "delay." I do not know why Capt. Calthrop calls # "suspended ground," unless he is confusing it with #.
+
+^100:5 The root idea in # is narrowness; in #, steepness.
+
+^100:6 It is hardly necessary to point out the faultiness of this classification. A strange lack of logical perception is shown in the Chinaman's unquestioning acceptance of glaring cross-divisions such as the above.
+
+^101:1 Generally speaking, # "level country" is meant. Cf. IX.  section 9: #.
+
+^101:2 The T'ung Tien reads #.
+
+^101:3 See IX.  section 2. The T'ung Tien reads #.
+
+^101:4 A curious use of # as a verb, if our text is right. The general meaning is doubtless, as Tu Yu says,# "not to allow the enemy to cut your communications." Tu Mu, who was not a soldier and can hardly have had any practical experience of fighting, goes more into detail and speaks of protecting me line of communications by a wall (#), or enclosing it by embankments on each side (#)! In view of Napoleon's dictum, "the secret of war lies in the communications," [**] we could wish that Sun Tzu had done more than skirt the edge of this important subject here and in I.  section 10, VII.  section 11. Col. Henderson says: "The line of supply may be said to be as vital to the existence of an army as the heart to the life of a human being. Just as the duellist who finds his adversary's point menacing him with certain death, and his own guard astray, is compelled to conform to his adversary's movements, and to content himself with warding off his thrusts, so the commander whose communications are suddenly threatened finds himself in a false position, and he will be fortunate if he has not to change all his plans, to split up his force into more or less isolated detachments, and to fight with inferior numbers on ground which he has not had time to prepare, and where defeat will not he an ordinary failure, but will entail the ruin or the surrender of his whole army." [***]
+
+^101:5 Omitted by Capt. Calthrop.
+
+^101:* See "Pensees de Napoleon Ier," no. 47.
+
+^101:** "The Science of War," chap. 2.
+
+^102:1 Capt. Calthrop is wrong in translating #, "retreat from it."
+
+^102:2 # (an example of litotes) is paraphrased by Mei Yao-ch'en as #, "you will receive a check."
+
+^102:3 # "Each side finds it inconvenient to move, and the situation remains at a deadlock" (Tu Yu).
+
+^102:4 Tu Yu says # "turning their backs on us and pretending to flee." But this is only one of the lures which might induce us to quit our position. Here again # is used as a verb, but this time in a different sense: "to hold out an advantage to."
+
+^102:5 Mei Yao-ch'en paraphrases the passage in a curious jingle, the scheme of rhymes being abcbdd: #
+
+^103:1 Capt. Calthrop says: "Defiles, make haste to occupy." But this is a conditional clause, answering to # in the next paragraph.
+
+^103:2 Because then, as Tu Yu observes, # "the initiative will lie with us, and by making sudden and unexpected attacks we shall have the enemy at our mercy." The commentators make a great pother about the precise meaning of #, which to the foreign reader seems to present no difficulty whatever.
+
+^103:3 Ts'ao Kung says: # "The particular advantage of securing heights and defiles is that your actions cannot then be dictated by the enemy." [For the enunciation of the grand principle alluded to, see VI.  section 2]. Chang Yu tells the following anecdote of # P'ei Hsing-chien (A.D. 619-682), who was sent on a punitive expedition against the Turkic tribes. "At nightfall he pitched his camp as usual, and it had already been completely fortified by wall and ditch, when suddenly he gave orders that the army should shift its quarters to a hill near by. This was highly displeasing to his officers, who protested loudly against the extra fatigue which it would entail on the men. P'ei Hsing-chien, however, paid no heed to their remonstrances and had the camp moved as quickly as possible. The same night, a terrific storm came on, which flooded their former place of encampment to the depth of over twelve feet. The recalcitrant officers were amazed at the sight, and owned that they had been in the wrong. 'How did you know what was going to happen?' they asked. P'ei Hsing-chien replied: 'From this time forward be content to obey orders without asking [p. 14] unnecessary questions.' [See Chiu T'ang Shu, ch. 84, fol. 12 r degrees., and Hsin T'ang Shu ch. 108, fol. 5 v degrees.] From this it may be seen," Chang Yu continues, "that high and sunny places are advantageous not only for fighting, but also because they are immune from disastrous floods."
+
+^104:1 The turning-point of # Li Shih-min's campaign in 621 A.D. against the two rebels, # Tou Chien-te, King of # Hsia, and # Wang Shih-ch'ung, Prince of # Cheng, was his seizure of the heights of # Wu-lao, in spite of which Tou Chien-te persisted in his attempt to relieve his ally in Lo-yang, was defeated and taken prisoner. [See Chiu T'ang Shu, ch. 2, fol. 5 v degrees., and also ch. 54.]
+
+^104:2 The T'ung Tien reads #.
+
+^104:3 Ts'ao Kung says that # means # "challenging the enemy." But the enemy being far away, that plainly involves, as Tu Yu says, # "going to meet him." The point of course is, that we must not think of undertaking a long and wearisome march, at the end of which # "we should be exhausted and our adversary fresh and keen."
+
+^104:4 Or perhaps, "the principles relating to ground." See, however, I.  section 8.
+
+^104:5 Capt. Calthrop omits #. Out of the foregoing six #, it will be noticed that nos. 3 and 6 have really no reference to the configuration of the country, and that only 4 and 5 can be said to convey any definite geographical idea.
+
+^105:1 The T'u Shu reads #.
+
+^105:2 I take exception to Capt. Calthrop's rendering of # and # as "distress" and "disorganisation," respectively.
+
+^105:3 Cf. III.  section 10. The general's fault here is that of # "not calculating the enemy's strength." It is obvious that # cannot have the same force as in  section 12, where it was equivalent to #. I should not be inclined, however, to limit it, with Chang Yu, to # "the wisdom and valour of the general and the sharpness of the weapons." As Li Ch'uan very justly remarks, # "Given a decided advantage in position, or the help of some stratagem such as a flank attack or an ambuscade, it would be quite possible [to fight in the ratio of one to ten]."
+
+^105:4 # "laxity"--the metaphor being taken from an unstrung bow. Capt. Calthrop's "relaxation" is not good, on account of its ambiguity. Tu Mu cites the unhappy case of # T'ien Pu [Hsin Tang Shu, ch. 148], who was sent to # Wei in 821 A.D. with orders to lead an army against # Wang T'ing-ts'ou. But the whole time he was in command, his soldiers treated him with the utmost contempt, and openly flouted his authority by riding about the camp on donkeys, several thousands at a time. T'ien Pu was powerless to put a stop to this conduct, and when, [p. 106] after some months had passed, he made an attempt to engage the enemy, his troops turned tail and dispersed in every direction. After that, the unfortunate man committed suicide by cutting his throat.
+
+^106:1 Ts'ao Kung says: # "The officers are energetic and want to press on, the common soldiers are feeble and suddenly collapse." Note that # is to be taken literally of physical weakness, whereas in the former clause it is figurative. Li Ch'uan makes # equivalent to #, and Tu Mu explains it as # "stumbling into a death-trap."
+
+^106:2 #, according to Ts'ao Kung, are the # "generals of inferior rank." But Li Ch'uan, Ch'en Hao and Wang Hsi take the term as simply convertible with # or #.
+
+^106:3 Ts'ao Kung makes #, understood, the subject of #, which seems rather far-fetched. Wang Hsi's note is: # "This means, the general is angry without just cause, and at the same time does not appreciate the ability of his subordinate officers; thus he arouses fierce resentment and brings an avalanche of ruin upon his head." He takes #, therefore, in the sense of #; but I think that Ch'en Hao is right in his paraphrase # "they don't care if it be possible or no." My interpretation of the whole passage is that of Mei Yao-ch'en and Chang Yu. Tu Mu gives a long extract from the Tso Chuan, #, XII. 3, showing how the great battle of # Pi [597 B.C.] was lost for the Chin State through the contumacy of # Hsien Hu and the resentful spite of # Wei I and # Chao Chan. Chang Yu also alludes to the mutinous conduct of # Luan Yen [ibid. #, XIV. 3].
+
+^107:1 Wei Liao Tzu (ch. 4) says: # "If the commander gives his orders with decision, the soldiers will not wait to hear them twice; if his moves are made without vacillation, the soldiers will not be in two minds about doing their duty." General Baden-Powell says, italicising the words: "The secret of getting successful work out of your trained men lies in one nutshell--in the clearness of the instructions they receive." [**] Assuming that clear instructions beget confidence, this is very much what Wei Liao Tzu (loc. cit.) goes on to say: #. Cf. also Wu Tzu ch. 3: # "the most fatal defect in a military leader is diffidence; the worst calamities that befall an army arise from hesitation."
+
+^107:2 # "Neither officers nor men have any regular routine" [Tu Mu].
+
+^107:3 Chang Yu paraphrases the latter part of the sentence #, and continues: # "Whenever there is fighting to be done, the keenest spirits should be [p. 108] appointed to serve in the front ranks, both in order to strengthen the resolution of our own men and to demoralise the enemy." Cf. the primi ordines of Caesar ("De Bello Gallico," V. 28, 44 et al.). There seems little to distinguish # from # in  section 15, except that # is a more forcible word.
+
+^107:* "Aids to Scouting," p. xii.
+
+^108:1 Ch'en Hao makes them out to be: (1) # "neglect to estimate the enemy's strength;" (2) # "want of authority;" (3) # "defective training;" (4) # "unjustifiable anger;" (5) # "non-observance of discipline;" (6) # "failure to use picked men."
+
+^108:2 See supra,  section 53.
+
+^108:3 Chia Lin's text has the reading # for #. Ch'en Hao says: # "The advantages of weather and season are not equal to those connected with ground."
+
+^108:4 The insertion of a "but" is necessary to show the connection of thought here. A general should always utilise, but never rely wholly on natural advantages of terrain.
+
+^108:5 # is one of those condensed expressions which mean so much in Chinese, and so little in an English translation. What it seems to imply is complete mastery of the situation from the beginning.
+
+^108:6 The T'ung Tien and Yu Lan read #. I am decidedly puzzled by Capt. Calthrop's translation: "an eye for steepness, command and distances." Where did he find the word which I have put in italics?
+
+^109:1 A somewhat free translation of #. As Chang Yu remarks, these are # "the essentials of soldiering," ground being only a helpful accessory.
+
+^109:2 Cf. VIII.  section 3 fin. Huang Shih-kung of the Chin dynasty, who is said to have been the patron of # Chang Liang and to have written the #, has these words attributed to him: # "The responsibility of setting an army in motion must devolve on the general alone; if advance and retreat are controlled from the Palace, brilliant results will hardly be achieved. Hence the god-like ruler and the enlightened monarch are content to play a humble part in furthering their country's cause [lit., kneel down to push the chariot wheel]." This means that # "in matters lying outside the zenana, the decision of the military commander must be absolute." Chang Yu also quotes the saying: # "Decrees of the Son of Heaven do not penetrate the walls of a camp." Napoleon, who has been accused of allowing his generals too little independence of action, speaks in the same sense: "Un general en chef n'est pas a couvert de ses fautes a la guerre par un ordre de son souverain ou du ministre, quand celui qui le donne est eloigne du champ d'operation, et qu'il connait mal, ou ne connait pas du tout le dernier etat des choses." [**]
+
+^109:* "Maximes de Guerre," no. 72.
+
+^110:1 It was Wellington, I think, who said that the hardest thing of all for a soldier is to retreat.
+
+^110:2 #, which is omitted by the T'u Shu, is said by Ch'en Hao to be equivalent to #. If it had to be separately translated, it would be something like our word "accrue."
+
+^110:3 A noble presentment, in few words, of the Chinese "happy warrior." Such a man, says Ho Shih, # "even if he had to suffer punishment, would not regret his conduct."
+
+^110:4 Cf. I.  section 6. In this connection, Tu Mu draws for us an engaging picture of the famous general Wu Ch'i, from whose treatise on war I have frequently had occasion to quote: "He wore the same clothes and ate the same food as the meanest of his soldiers, refused to have either a horse to ride or a mat to sleep on, carried his own surplus rations wrapped in a parcel, and shared every hardship with his men. One of his soldiers was suffering from an abscess, and Wu Ch'i himself sucked out the virus. The soldier's mother, hearing this, began wailing and lamenting. Somebody asked her, saying: 'Why do you cry? Your son is only a common soldier, and yet the commander-in-chief himself has sucked the poison from his sore.' The woman replied: 'Many years ago, Lord Wu performed a similar service for my husband, who never left him afterwards, and finally met his death at the hands of the enemy. And now that he has done the same for my son, he too will fall fighting I know not where'." Li Ch'uan mentions # the Viscount of Ch'u, who invaded the small state of # Hsiao during the winter. # The Duke of Shen said to him: "Many of [p. 111] the soldiers are suffering severely from the cold." So he made a round of the whole army, comforting and encouraging the men; and straightway they felt as if they were clothed in garments lined with floss silk. [Tso Chuan, #, XII. 5] # Chang Yu alludes to the same passage, saying: #.
+
+^111:1 Capt. Calthrop has got these three clauses quite wrong. The last he translates: "overindulgence may produce disorder."
+
+^111:2 Cf. IX.  section 42. We read in the #, pt. 2: # "Injury comes out of kindness." Li Ching once said that if you could make your soldiers afraid of you, they would not be afraid of the enemy. Tu Mu recalls an instance of stern military discipline which occurred in 219 A.D., when # Lu Meng was occupying the town of a # Chiang-ling. He had given stringent orders to his army not to molest the inhabitants nor take anything from them by force. Nevertheless, a certain officer serving under his banner, who happened to be a fellow-townsman, ventured to appropriate a bamboo hat (#) belonging to one of the people, in order to wear it over his regulation helmet as a protection against the rain. La Meng considered that the fact of his being also a native of # Ju-nan should not be allowed to palliate a clear breach of discipline, and accordingly he ordered his summary execution, the tears rolling down his face, however, as he did so. This act of severity filled the army with wholesome awe, and from that time forth even articles dropped in the highway were not picked up. [San Kuo Chih, ch. 54, f. 13 r degrees. & v degrees.].
+
+^111:3 That is, as Ts'ao Kong says, "the issue in this case is uncertain."
+
+^112:1 Cf. III.  section 13 (1).
+
+^112:2 I may take this opportunity of pointing out the rather nice distinction in meaning between # and #. The latter is simply "to attack" without any further implication, whereas # is a stronger word which in nine cases out of ten means "to attack with expectation of victory," "to fall upon," as we should say, or even "to crush." On the other hand, # is not quite synonymous with #, which is mostly used of operations on a larger scale, as of one State making war on another, often with the added idea of invasion. #, finally, has special reference to the subjugation of rebels. See Mencius, VII. 2. ii. 2.
+
+^112:3 The reason being, according to Tu Mu, that he has taken his measures so thoroughly as to ensure victory beforehand. "He does not move recklessly," says Chang Yu, "so that when he does move, he makes no mistakes." Another reading substitutes # for # and # for #. The latter variant only is adopted by the T'ung Tien and Yu Lan. Note that # here means "at the end of his mental resources."
+
+^112:4 [p. 113] Capt. Calthrop makes the saying end here, which cannot be justified.
+
+^113:1 # and # are transposed for the sake of the jingle between # and #. The original text, however, has #, and the correction has been made from the T'ung Tien.
+
+^113:2 As opposed to #, above. The original text has #, the corruption being perhaps due to the occurrence of # in the preceding sentence. Here, however # would not be synonymous with #, but equivalent to # "inexhaustible," "beyond computation." Cf. V.  section 11. The T'ung Tien has again supplied the true reading. Li Ch'uan sums up as follows: # "Given a knowledge of three things--the affairs of man, the seasons of heaven and the natural advantages of earth--, victory will invariably crown your battles."
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 114]
+
+  
+
+XI. THE NINE SITUATIONS [*1].
+
+1. Sun Tzu said: The art of war recognises nine varieties of ground: (1) Dispersive ground; (2) facile ground; (3) contentious ground; (4) open ground; (5) ground of intersecting highways; (6) serious ground; (7) difficult ground; (8) hemmed-in ground; (9) desperate ground.
+
+2. When a chieftain is fighting in his own territory, it is dispersive ground. [*2]
+
+[p. 115]
+
+3. When he has penetrated into hostile territory, but to no great distance, it is facile ground. [*1]
+
+4. Ground the possession of which imports great advantage to either side, is contentious ground. [*2]
+
+[p. 116]
+
+5. Ground on which each side has liberty of movement is open ground. [*1]
+
+6. Ground which forms the key to three contiguous states, [*2] so that he who occupies it first has most of the Empire at his command, [*3] is ground of intersecting highways. [*4]
+
+[p. 117]
+
+7. When an army has penetrated into the heart of a hostile country, leaving a number of fortified cities in its rear, [*1] it is serious ground. [*2]
+
+8. Mountain forests, [*3] rugged steeps, marshes and fens--all country that is hard to traverse: this is difficult ground. [*4]
+
+9. Ground which is reached through narrow gorges, and from which we can only retire by tortuous paths, so that a small number of the enemy would suffice to crush a large body of our men: this is hemmed-in ground.
+
+10. Ground on which we can only be saved from destruction by fighting without delay, is desperate ground. [*5]
+
+[p. 118]
+
+11. On dispersive ground, therefore, fight not. On facile ground, halt not. On contentious ground, attack not. [*1]
+
+[p. 119]
+
+12. On open ground, do not try to block the enemy's way. [*1] On ground of intersecting highways, join hands with your allies. [*2]
+
+13. On serious ground, gather in plunder. [*3]
+
+[p. 120]
+
+[paragraph continues] In difficult ground, keep steadily on the march. [*1]
+
+14. On hemmed-in ground, resort to stratagem. [*2] On desperate ground, fight. [*3]
+
+15. Those who were called skilful leaders of old [*4] knew how to drive a wedge between the enemy's front and rear; [*5]
+
+[p. 121]
+
+to prevent co-operation between his large and small divisions; to hinder the good troops from rescuing the bad, [*1] the officers from rallying their men. [*2]
+
+16. When the enemy's men were scattered, they prevented them from concentrating; [*3] even when their forces were united, they managed to keep them in disorder. [*4]
+
+17. When it was to their advantage, they made a forward move; when otherwise, they stopped still. [*5]
+
+18. If asked how to cope with a great host of the enemy in orderly array and on the point of marching to the attack, [*6] I should say: "Begin by seizing something which your opponent holds dear; then he will be amenable to your will." [*7]
+
+[p. 122]
+
+19. Rapidity is the essence of war: [*1]
+
+[p. 123]
+
+take advantage of the enemy's unreadiness, make your way by unexpected routes, and attack unguarded spots.
+
+20. The following are the principles to be observed by an invading force: The further you penetrate into a country, the greater will be the solidarity of your troops, and thus the defenders will not prevail against you.
+
+21. Make forays in fertile country in order to supply your army with food. [*1]
+
+22. Carefully study the well-being of your men, [*2]
+
+[p. 124]
+
+and do not overtax them. Concentrate your energy and hoard your strength. [*1] Keep your army continually on the move, [*2] and devise unfathomable plans. [*3]
+
+[p. 125]
+
+23. Throw your soldiers into positions whence there is no escape, and they will prefer death to flight. [*1] If they will face death, there is nothing they may not achieve. [*2] Officers and men alike will put forth their uttermost strength [*3]
+
+24. Soldiers when in desperate straits lose the sense of fear. If there is no place of refuge, they will stand firm. If they are in the heart of a hostile country, they will show a stubborn front. [*4] If there is no help for it, they will fight hard.
+
+[p. 126]
+
+25. Thus, without waiting to be marshalled, the soldiers will be constantly on the qui vive; [*1] without waiting to be asked, they will do your will; [*2] without restrictions, they will be faithful; [*3] without giving orders, they can be trusted. [*4]
+
+26. Prohibit the taking of omens, and do away with superstitious doubts. [*5] Then, until death itself comes, no calamity need be feared. [*6]
+
+[p. 127]
+
+27. If our soldiers are not overburdened with money, it is not because they have a distaste for riches; if their lives are not unduly long, it is not because they are disinclined to longevity. [*1]
+
+28. On the day they are ordered out to battle, your soldiers may weep, [*2] those sitting up bedewing their garments, and those lying down letting the tears run down their cheeks. [*3]
+
+[p. 128]
+
+[paragraph continues] But let them once be brought to bay, and they will display the courage of a Chu or a Kuei. [*1]
+
+29. The skilful tactician may be likened to the shuai-jan. Now the shuai-jan is a snake that is found in the Ch'ang mountains. [*2]
+
+[p. 129]
+
+[paragraph continues] Strike at its head, and you will be attacked by its tail; strike at its tail, and you will be attacked by its head; strike at its middle. [*1] and you will be attacked by head and tail both.
+
+30. Asked if an army can be made to imitate the shuai-jan, [*2] I should answer, Yes. For the men of Wu and the men of Yueh are enemies; [*3] yet if they are crossing a river in the same boat and are caught by a storm, they will come to each other's assistance just as the left hand helps the right. [*4]
+
+31. Hence it is not enough to put one's trust in the tethering of horses, [*5] and the burying of chariot wheels in the ground. [*6]
+
+[p. 130]
+
+32. The principle on which to manage an army is to set up one standard of courage which all must reach. [*1]
+
+33. How to make the best of both strong and weak--that is a question involving the proper use of ground. [*2]
+
+34. Thus the skilful general conducts his army just as though he were leading a single man, willy-nilly, by the hand. [*3]
+
+[p. 131]
+
+35. It is the business of a general to be quiet and thus ensure secrecy; upright and just, and thus maintain order. [*1]
+
+36. He must be able to mystify his officers and men by false reports and appearances, [*2] and thus keep them in total ignorance. [*3]
+
+[p. 132]
+
+37. By altering his arrangements and changing his plans, [*1] he keeps the enemy without definite knowledge. [*2]
+
+[p. 133]
+
+[paragraph continues] By shifting his camp and taking circuitous routes, he prevents the enemy from anticipating his purpose. [*1]
+
+38. At the critical moment, the leader of an army acts like one who has climbed up a height and then kicks away the ladder behind him. [*2] He carries his men deep into hostile territory before he shows his hand. [*3]
+
+39. He burns his boats and breaks his cooking-pots; [*4] like a shepherd driving a flock of sheep, he drives his men this way and that, and none knows whither he is going. [*5]
+
+[p. 134]
+
+40. To muster his host and bring it into danger:--this may be termed the business of the general. [*1]
+
+41. The different measures suited to the nine varieties of ground; [*2] the expediency of aggressive or defensive tactics; [*3] and the fundamental laws of human nature: these are things that must most certainly be studied.
+
+42. When invading hostile territory, the general principle is, that penetrating deeply brings cohesion; penetrating but a short way means dispersion. [*4]
+
+43. When you leave your own country behind, and take your army across neighbouring territory, [*5] you find yourself on critical ground. [*6]
+
+[p. 135]
+
+[paragraph continues] When there are means of communication [*1] on all four sides, the ground is one of intersecting highways. [*2]
+
+44. When you penetrate deeply into a country, it is serious ground. When you penetrate but a little way, it is facile ground.
+
+45. When you have the enemy's strongholds on your rear, [*3] and narrow passes in front, it is hemmed-in ground. When there is no place of refuge at all, it is desperate ground.
+
+46. Therefore, on dispersive ground, I would inspire my men with unity of purpose. [*4]
+
+[p. 136]
+
+[paragraph continues] On facile ground, I would see that there is close connection between all parts of my army. [*1]
+
+47. On contentious ground, I would hurry up my rear. [*2]
+
+[p. 137]
+
+48. On open ground, I would keep a vigilant eye on my defences. [*1] On ground of intersecting highways, I would consolidate my alliances. [*2]
+
+49. On serious ground, I would try to ensure a continuous stream of supplies. [*3] On difficult ground, I would keep pushing on along the road [*4]
+
+50. On hemmed-in ground, I would block any way of retreat. [*5]
+
+[p. 138]
+
+[paragraph continues] On desperate ground, I would proclaim to my soldiers the hopelessness of saving their lives. [*1]
+
+[p. 139]
+
+51. For it is the soldier's disposition to offer an obstinate resistance when surrounded, to fight hard when he cannot help himself, and to obey promptly when he has fallen into danger. [*1]
+
+[p. 140]
+
+52. We cannot enter into alliance with neighbouring princes until we are acquainted with their designs. We are not fit to lead an army on the march unless we are familiar with the face of the country--its mountains and forests, its pitfalls and precipices, its marshes and swamps. We shall be unable to turn natural advantages to account unless we make use of local guides. [*1]
+
+53. To be ignorant of any one of the following four or five principles [*2] does not befit a warlike prince. [*3]
+
+[p. 141]
+
+54. When a warlike prince attacks a powerful state, his generalship shows itself in preventing the concentration of the enemy's forces. He overawes his opponents, [*1] and their allies are prevented from joining against him. [*2]
+
+55. Hence he does not strive [*3]
+
+[p. 142]
+
+to ally himself with all and sundry, [*1] nor does he foster the power of other states. He carries out his own secret designs, [*2] keeping his antagonists in awe. [*3] Thus he is able to capture their cities and overthrow their kingdoms. [*4]
+
+56. Bestow rewards without regard to rule, [*5] issue orders [*6] without regard to previous arrangements [*7]
+
+[p. 143]
+
+and you will be able to handle a whole army [*1] as though you had to do with but a single man. [*2]
+
+57. Confront your soldiers with the deed itself; never let them know your design. [*3] When the outlook is bright, bring it before their eyes; but tell them nothing when the situation is gloomy.
+
+58. Place your army in deadly peril, and it will survive; plunge it into desperate straits, and it will come off in safety. [*4]
+
+[p. 144]
+
+[p. 145]
+
+59. For it is precisely when a force has fallen into harm's way that it is capable of striking a blow for victory. [*1]
+
+60. Success in warfare is gained by carefully accommodating ourselves to the enemy's purpose. [*2]
+
+61. By persistently hanging on the enemy's flank, [*3] we shall succeed in the long run [*4] in killing the commander-in-chief. [*5]
+
+62. This is called ability to accomplish a thing by sheer cunning. [*6]
+
+[p. 146]
+
+63. On the day that you take up your command, [*1] block the frontier passes, [*2] destroy the official tallies, [*3] and stop the passage of all emissaries. Either to or from the enemy's country.
+
+64. Be stern in the council-chamber, [*4] so that you may control the situation.
+
+[p. 147]
+
+65. If the enemy leaves a door open, you must rush in. [*1]
+
+66. Forestall your opponent by seizing what he holds dear, [*2] and subtly contrive to time his arrival on the ground. [*3]
+
+[p. 148]
+
+67. Walk in the path defined by rule [*1] and accommodate yourself to the enemy until you can fight a decisive battle. [*2]
+
+68. At first, then, exhibit the coyness of a maiden, until the enemy gives you an opening; afterwards emulate the rapidity of a running hare, and it will be too late for the enemy to oppose you. [*3]
+
+[p. 149]
+
+Footnotes
+
+^114:1 Li Ch'uan is not quite right in calling these #. As we shall see, some of them are highly disadvantageous from the military point of view. Wang Hsi more correctly says: # "There are nine military situations, good and bad." One would like to distinguish the # from the six # of chap. X by saying that the latter refer to the natural formation or geographical features of the country, while the # have more to do with the condition of the army, being # "situations" as opposed to "grounds." But it is soon found impossible to carry out the distinction. Both are cross-divisions, for among the # we have "temporising ground" side by side with "narrow passes," while in the present chapter there is even greater confusion.
+
+^114:2 So called because the soldiers, being near to their homes and  to see their wives and children, are likely to seize the opportunity afforded by a battle and scatter in every direction. "In their advance," observes Tu Mu, "they will lack the valour of desperation, and when they retreat, they will find harbours of refuge." The #, which appears in the T'u Shu, seems to have been accidentally omitted in my edition of the standard text.
+
+^115:1 Li Ch'uan and Ho Shih say #: "because of the facility for retreating," and the other commentators give similar explanations. Tu Mu remarks: # "When your army has crossed the border, you should burn your boats and bridges, in order to make it clear to everybody that you have no hankering after home." I do not think that "disturbing ground," Capt. Calthrop's rendering of #, has anything to justify it. If an idiomatic translation is out of the question, one should at least attempt to be literal.
+
+^115:2 I must apologise for using this word in a sense not known to the dictionary, i.e. "to be contended for"--Tu Mu's #. Ts'ao Kung says: # "ground on which the few and the weak can defeat the many and the strong," such as # "the neck of a pass," instanced by Li Ch'uan. Thus, Thermopylae was a #, because the possession of it, even for a few days only, meant holding the entire invading army in check and thus gaining invaluable time. Cf. Wu Tzu, ch. V. ad init.: # "For those who have to fight in the ratio of one to ten, there is nothing better than a narrow pass." When # Lu Kuang was returning from his triumphant expedition to Turkestan in 385 A.D., and had got as far as # I-ho, laden with spoils, # Liang Hsi, administrator of # Liang-chou, taking advantage of the death of Fu Chien, King of Ch'in, plotted against him and was for barring his way into the province. # Yang Han, governor of # Kao-ch'ang, counselled him, saying: "Lu Kuang is fresh from his victories in the west, and his soldiers are vigorous and mettlesome. If we oppose him in the shifting sands of the desert, we shall be no match for him, and we must therefore try a different plan. Let us hasten to occupy the defile at the mouth of the # Kao-wu pass, thus cutting him off from supplies of water, and when his troops are prostrated with thirst, we can dictate our own terms without moving. Or if you think that the pass I mention is too far off. we could make a stand against him at the # I-wu pass, which is [p. 116] nearer. The cunning and resource of # Tzu-fang himself [i.e. #] would be expended in vain against the enormous strength of these two positions." Liang Hsi, refusing to act on this advice, was overwhelmed and swept away by the invader. [See, #, ch. 122, fol. 3 r degrees, and #, ch. 43, fol. 26.]
+
+^116:1 This is only a makeshift translation of #, which according to Ts'ao Kung stands for # "ground covered with a network of roads," like a chess-board. Another interpretation, suggested by Ho Shih, is # "ground on which intercommunication is easy." In either case, it must evidently be # "flat country," and therefore # "cannot be blocked." Cf. #, X.  section 2.
+
+^116:2 # "Our country adjoining the enemy's and a third country conterminous with both." [Ts'ao Kung.] Meng Shih instances the small principality of # Cheng, which was bounded on the north-east by # Ch'i, on the west by # Chin, and on the south by # Ch'u.
+
+^116:3 # of course stands for the loose confederacy of states into which China was divided under the Chou dynasty. The belligerent who holds this dominating position can constrain most of them to become his allies. See infra,  section 48. # appears at first sight to be "the masses" or "population" of the Empire, but it is more probably, as Tu Yu says, #.
+
+^116:4 Capt. Calthrop's "path-ridden ground" might stand well enough for # above, but it does not bring out the force of #, which clearly denotes the central position where important highways meet.
+
+^117:1 After #, the T'ung Tien intercalates the gloss #.
+
+^117:2 Wang Hsi explains the name by saying that # "when an army has reached such a point, its situation is serious." Li Chuan instances (1) the victorious march of # Yo I into the capital of Ch'i in 284 B.C., and (2) the attack on Ch'u, six years later, by the Chin general # Po Ch'i.
+
+^117:3 Or simply, "forests." I follow the T'u Shu in omitting the # before #, given in the standard text, which is not only otiose but spoils the rhythm of the sentence.
+
+^117:4 # p'i3(to be distinguished from # i4) is defined by K'ang Hsi (after the Shuo Wen) as # "to destroy." Hence Chia Lin explains # as ground # "that has been ruined by water passing over it," and Tu Yu simply as # "swampy ground." But Ch'en Hao says that the word is specially applied to deep hollows--what Chu-ko Liang, he tells us, used to designate by the expressive term #, "earth-hells." Compare the # of IX.  section55.
+
+^117:5 [p. 118] The situation, as pictured by Ts'ao Kung, is very similar to the #, except that here escape is no longer possible: # "A lofty mountain in front, a large river behind, advance impossible, retreat blocked." Ch'en Hao says: # "to be on 'desperate ground' is like sitting in a leaking boat or crouching in a burning house." Tu Mu quotes from Li Ching a vivid description of the plight of an army thus entrapped: "Suppose an army invading hostile territory without the aid of local guides:--it falls into a fatal snare and is at the enemy's mercy. A ravine on the left, a mountain on the right, a pathway so perilous that the horses have to be roped together and the chariots carried in slings, no passage open in front, retreat cut off behind, no choice but to proceed in single file (#). Then, before there is time to range our soldiers in order of battle, the enemy in overwhelming strength suddenly appears on the scene. Advancing, we can nowhere take a breathing-space; retreating, we have no haven of refuge. We seek a pitched battle, but in vain; yet standing on the defensive, none of us has a moment's respite. If we simply maintain our ground, whole days and months will crawl by; the moment we make a move, we have to sustain the enemy's attacks on front and rear. The country is wild, destitute of water and plants; the army is lacking in the necessaries of life, the horses are jaded and the men worn-out, all the resources of strength and skill unavailing, the pass so narrow that a single man defending it can check the onset of ten thousand; all means of offence in the hands of the enemy, all points of vantage already forfeited by ourselves:--in this terrible plight, even though we had the most valiant soldiers and the keenest of weapons, how could they be employed with the slightest effect?" Students of Greek history may be reminded of the awful close to the Sicilian expedition, and the agony of the Athenians under Nicias and Demosthenes. [See Thucydides, VII. 78 sqq.].
+
+^118:1 But rather let all your energies be bent on occupying the advantageous position first. So Ts'ao Kung. Li Ch'uan and others, however, suppose the meaning to be that the enemy has already forestalled us, so that it would be sheer madness to attack. In the # when the King of Wu inquires what should be done in this case, Sun Tzu replies: "The rule with regard to contentious ground is that those in possession have the advantage over the other side. If a position of this kind is [p. 119] secured first by the enemy, beware of attacking him. Lure him away by pretending to flee--show your banners and sound your drums--make a dash for other places that he cannot afford to lose--frail brushwood and raise a dust--confound his ears and eyes--detach a body of your best troops, and place it secretly in ambuscade. Then your opponent will sally forth to the rescue."
+
+^119:1 Because the attempt would be futile, and would expose the blocking force itself to serious risks. There are two interpretations of # follow that of Chang Yu (#). The other is indicated in Ts'ao Kung's brief note: # "Draw closer together"--i.e., see that a portion of your own army is not cut off. Wang Hsi points out that # is only another name for the #, "accessible ground" of X.  section 2, and says that the advice here given is simply a variation of # "keep a sharp eye on the line of supplies," be careful that your communications are not cut. The T'ung Tien reads #.
+
+^119:2 Or perhaps, "form alliances with neighbouring states." Thus Ts'ao Kung has: #. Capt. Calthrop's "cultivate intercourse" is much too timid and vague. The original text reads #.
+
+^119:3 On this, Li Ch'uan has the following delicious note: # "When an army penetrates far into the enemy's country, care must be taken not to alienate the people by unjust treatment. Follow the example of the Han Emperor Kao Tsu, whose march into Ch'in territory was marked by no violation of women or looting of valuables. [Nota bene: this was in 207 B.C., and may well cause us to blush for the Christian armies that entered Peking in 1900 A.D.] Thus he won the hearts of all. In the present passage, then, I think that the true reading must be, not # 'plunder,' but # 'do not plunder'." Alas, I fear that in this instance the worthy commentator's feelings outran his judgment. Tu Mu, [p. 120] at least, has no such illusions. He says: "When encamped on 'serious ground,' there being no inducement as yet to advance further, and no possibility of retreat, one ought to take measures for a protracted resistance by bringing in provisions from all sides, and keep a close watch on the enemy." Cf. also II.  section 9: #.
+
+^120:1 Or, in the words of VIII. 52, # "do not encamp."
+
+^120:2 Ts'ao Kung says: # "Try the effect of some unusual artifice;" and Tu Yu amplifies this by saying: # "In such a position, some scheme must be devised which will suit the circumstances, and if we can succeed in deluding the enemy, the peril may be escaped." This is exactly what happened on the famous occasion when Hannibal was hemmed in among the mountains on the road to Casilinum, and to all appearances entrapped by the Dictator Fabius. The stratagem which Hannibal devised to baffle his foes was remarkably like that which T'ien Tan had also employed with success exactly 62 years before. [See IX.  section 24, note.] When night came on, bundles of twigs were fastened to the horns of some 2000 oxen and set on fire, the terrified animals being then quickly driven along the mountain side towards the passes which were beset by the enemy. The strange spectacle of these rapidly moving lights so alarmed and discomfited the Romans that they withdrew from their position, and Hannibal's army passed safely through the defile. [See Polybius, III. 93, 94; Livy, XXII. 16, 17.]
+
+^120:3 For; as Chia Lin remarks: # "if you fight with all your might, there is a chance of life; whereas death is certain if you cling to your corner."
+
+^120:4 # is omitted in the T'u Shu text.
+
+^120:5 More literally, "cause the front and rear to lose touch with each other."
+
+^121:1 I doubt if # can mean "officers and men," as Capt. Calthrop translates. This is wanted for #.
+
+^121:2 The reading #, derived from the Yu Lan, must be considered very doubtful. The original text has #, and the T'u Shu #.
+
+^121:3 Capt. Calthrop translates # "they scattered the enemy," which cannot be right.
+
+^121:4 Mei Yao-ch'en's note makes the sense plain: #. All these clauses, of course, down to #, are dependent on # in  section 15.
+
+^121:5 Mei Yao-ch'en connects this with the foregoing: # "Having succeeded in thus dislocating the enemy, they would push forward in order to secure any advantage to be gained; if there was no advantage to be gained, they would remain where they were."
+
+^121:6 # is like #, introducing a supposed question.
+
+^121:7 [p. 122] Opinions differ as to what Sun Tzu had in mind. Ts'ao Kung thinks it is it # "some strategical advantage on which the enemy is depending." Tu Mu says: # "The three things which an enemy is anxious to do, and on the accomplishment of which his success depends, are: (1) to capture our favourable positions; (2) to ravage our cultivated land; (3) to guard his own communications." Our object then must be to thwart his plans in these three directions and thus render him helpless. [Cf. III.  section 3.] But this exegesis unduly strains the meaning of # and # and I agree with Ch'en Hao, who says that # does not refer only to strategical advantages, but is any person or thing that may happen to be of importance to the enemy. By boldly seizing the initiative in this way, you at once throw the other side on the defensive.
+
+^122:1 # means "the conditions of war," not, as Capt. Calthrop, says, "the spirit of the troops." According to Tu Mu, # "this is a summary of leading principles in warfare," and he adds: # "These are the profoundest truths of military science, and the chief business of the general." The following anecdotes, told by Ho Shih, show the importance attached to speed by two of China's greatest generals. In 227 A.D., # Meng Ta, governor of # Hsin-ch'eng under the Wei Emperor Wen Ti, was meditating defection to the House of Shu, and had entered into correspondence with Chu-ko Liang, Prime Minister of that State. The Wei general Ssu-ma I was then military governor of # Wan, and getting wind of Meng Ta's treachery, he at once set off with an army to anticipate his revolt, having previously cajoled him by a specious message of friendly import. Ssu-ma's officers came to him and said: "If Meng Ta has leagued himself with Wu and Shu, the matter should be thoroughly investigated before we make a move." Ssu-ma I replied: "Meng Ta is an unprincipled man, and we ought to go and punish him at once, while he is still wavering and before he has thrown off the mask." Then, by a series of forced marches, he brought his army under the walls of Hsin-ch'eng within the space of eight days. Now Meng Ta had previously said in a letter to Chu-ko Liang: "Wan is 1200 li from here. When the news of my revolt reaches Ssu-ma I, he will at once inform his Imperial Master, but it will be a whole month before any steps can be taken, and by that [p. 123] time my city will be well fortified. Besides, Ssu-ma I is sure not to come himself, and the generals that will be sent against us are not worth troubling about." The next letter, however, was filled with consternation: "Though only eight days have passed since I threw off my allegiance, an army is already at the city-gates. What miraculous rapidity is this!" A fortnight later, Hsin-ch'eng had fallen and Meng Ta had lost his head. [See Chin Shu, ch. 1, f. 3.] In 621 A.D., Li Ching was sent from # K'uei-chou in Ssu-ch'uan to reduce the successful rebel # Hsiao Hsien, who had set up as Emperor at the modern # Ching-chou Fu in Hupeh. It was autumn, and the Yangtsze being then in flood, Hsiao Hsien never dreamt that his adversary would venture to come down through the gorges, and consequently made no preparations. But Li Ching embarked his army without loss of time, and was just about to start when the other generals implored him to postpone his departure until the river was in a less dangerous state for navigation. Li Ching replied: "To the soldier, overwhelming speed is of paramount importance, and he must never miss opportunities. Now is the time to strike, before Hsiao Hsien even knows that we have got an army together. If we seize the present moment when the river is in flood, we shall appear before his capital with startling suddenness, like the thunder which is heard before you have time to stop your ears against it. [See VII,  section 19, note.] This is the great principle in war. Even if he gets to know of our approach, he will have to levy his soldiers in such a hurry that they will not be fit to oppose us. Thus the full fruits of victory will be ours." All came about as he predicted, and Hsiao Hsien was obliged to surrender, nobly stipulating that his people should be spared and he alone suffer the penalty of death. [See Hsin Tang Shu, ch. 93, f. 1 v degrees.]
+
+^123:1 Cf. supra,  section 13. Li Ch'uan does not venture on a note here.
+
+^123:2 [p. 124] #, according to Wang Hsi, means: # "Pet them, humour them, give them plenty of food and drink, and look after them generally."
+
+^124:1 Tu Mu explains these words in a rhyming couplet: #; and Ch'en recalls the line of action adopted in 224 B.C. by the famous general # Wang Chien, whose military genius largely contributed to the success of the First Emperor. He had invaded the Ch'u State, where a universal levy was made to oppose him. But, being doubtful of the temper of his troops, he declined all invitations to fight and remained strictly on the defensive. In vain did the Ch'u general try to force a battle: day after day Wang Chien kept inside his walls and would not come out, but devoted his whole time and energy to winning the affection and confidence of his men. He took care that they should be well fed, sharing his own meals with them, provided facilities for bathing, and employed every method of judicious indulgence to weld them into a loyal and homogeneous body. After some time had elapsed, he told off certain persons to find out how the men were amusing themselves. The answer was, that they were contending with one another in putting the weight and long-jumping (#). When Wang Chien heard that they were engaged in these athletic pursuits, he knew that their spirits had been strung up to the required pitch and that they were now ready for fighting. By this time the Ch'u army, after repeating their challenge again and again, had marched away eastwards in disgust. The Ch'in general immediately broke up his camp and followed them, and in the battle that ensued they were routed with great slaughter. Shortly afterwards, the whole of Ch'u was conquered by Ch'in, and the king # Fu-ch'u led into captivity. [See Shih Chi, ch. 73, f. 5 r degrees. It should be noted that, # being a taboo character under the Ch'in dynasty, the name figures as # throughout.]
+
+^124:2 In order that the enemy may never know exactly where you are. It has struck me, however, that the true reading might be, not #, but # "link your army together" [cf. supra  section 46, #], which would be more in keeping with #. Capt. Calthrop cuts the Gordian knot by omitting the words altogether.
+
+^124:3 Chang Yu's paraphrase is: #.
+
+^125:1 Cf. Nicias' speech to the Athenians: To te xumpan gnute, u andres stratiutai, anagkaion te on ymin andrasin agathois gignesthai, us me ontos xurion eggys opoi an malakisthentes sutheite, etc. [Thuc. VII. 77. vii.]
+
+^125:2 # by itself constitutes the protasis, and # is the interrogative = #. Capt. Calthrop makes the protasis end with #: "If there be no alternative but death." But I do not see how this is to be got out of the Chinese. Chang Yu gives a clear paraphrase: # and quotes his favourite, Wei Liao Tzu (ch. 3): # "If one man were to run amok with a sword in the market-place, and everybody else tried to get out of his way, I should not allow that this man alone had courage and that all the rest were contemptible cowards. The truth is, that a desperado and a man who sets some value on his life do not meet on even terms."
+
+^125:3 # appears to stand for the more usual #. Chang Yu says # "If they are in an awkward place together, they will surely exert their united strength to get out of it."
+
+^125:4 Capt. Calthrop weakly says: "there is unity," as though the text were #, as in  section 20. But # introduces quite a new idea--that of tenacity--which Ts'ao Kung tries to explain by the word # "to bind fast."
+
+^126:1 Tu Mu says: # Capt. Calthrop wrongly translates # "without warnings."
+
+^126:2 Literally, "without asking, you will get." Chang Yu's paraphrase is: #.
+
+^126:3 Chang Yu says: #.
+
+^126:4 This last clause is very similar in sense to the one preceding, except that # indicates the soldiers' attachment to their leader, and # the leader's attitude towards them. I rather doubt if # can mean "they will have confidence in their leader," as the commentary seems to indicate. That way, the sense is not nearly so good. On the other hand, it is just possible that here, as in VIII.  section 8 and infra,  section 55, # may # "without orders, they will carry out [their leader's plans]." The whole of this paragraph, of course, has reference to "desperate ground."
+
+^126:5 # is amplified by Ts'ao Kung into #, and into #. Cf. the Ssu-ma Fa, ch. 3: #.
+
+^126:6 The superstitious, "bound in to saucy doubts and fears," degenerate into cowards and "die many times before their deaths." Tu Mu quotes Huang Shih-kung: # "'Spells and incantations should be strictly forbidden, and no officer allowed to inquire by divination into the fortunes of an army, for fear the soldier's minds should be seriously perturbed.' The meaning is," he continues, "that if all doubts and scruples are discarded, [p. 128] your men will never falter in their resolution until they die." The reading of the standard text is # "there will be no refuge," which does not fit in well here. I therefore prefer to adopt the variant #, which evidently stood in Li Ch'uan's text.
+
+^127:1 Chang Yu has the best note on this passage: # "Wealth and long life are things for which all men have a natural inclination. Hence, if they burn or fling away valuables, and sacrifice their own lives, it is not that they dislike them, but simply that they have no choice." Sun Tzu is slyly insinuating that, as soldiers are but human, it is for the general to see that temptations to shirk fighting and grow rich are not thrown in their way. Capt. Calthrop, mistaking # for the adjective, has: "not because money is a bad thing ... not because long life is evil."
+
+^127:2 The word in the Chinese is # "snivel." This is taken to indicate more genuine grief than tears alone.
+
+^127:3 Not because they are afraid, but because, as Ts'ao Kung says, # "all have embraced the firm resolution to do or die." We may remember that the heroes of the Iliad were equally childlike in showing their emotion. Chang Yu alludes to the mournful parting at the # I River between # Ching K'o and his friends, when the former was sent to attempt the life of the King of Ch'in (afterwards First Emperor) in 227 B.C. The tears of all flowed down like rain as he bade them farewell and uttered the following lines: # [p. 128] # "The shrill blast is blowing, Chilly the burn; Your champion is going--Not to return." [**]
+
+^127:* [p. 128] Giles' Biographical Dictionary, no. 399.
+
+^128:1 # was the personal name of # Chuan Chu, a native of the Wu State and contemporary with Sun Tzu himself, who was employed by # Kung-tzu Kuang, better known as Ho Lu Wang, to assassinate his sovereign # Wang Liao with a dagger which he secreted in the belly of a fish served up at a banquet. He succeeded in his attempt, but was immediately hacked to pieces by the king's bodyguard. This was in 515 B.C. The other hero referred to, # Ts'ao Kuei (or Ts'ao # Mo), performed the exploit which has made his name famous 166 years earlier, in 681 B.C. Lu had been thrice defeated by Ch'i, and was just about to conclude a treaty surrendering a large slice of territory, when Ts'ao Kuei suddenly seized # Huan Kung, the Duke of Ch'i, as he stood on the altar steps and held a dagger against his chest. None of the Duke's retainers dared to move a muscle, and Ts'ao Kuei proceeded to demand full restitution, declaring that Lu was being unjustly treated because she was a smaller and weaker state. Huan Kung, in peril of his life, was obliged to consent, whereupon Ts'ao Kuei flung away his dagger and quietly resumed his place amid the terrified assemblage without having so much as changed colour. As was to be expected, the Duke wanted afterwards to repudiate the bargain, but his wise old counsellor # Kuan Chung pointed out to him the impolicy of breaking his word, and the upshot was that this bold stroke regained for Lu the whole of what she had lost in three pitched battles. [For another anecdote of Ts'ao Kuei see VII.  section 27, note; and for the biographies of these three bravos, Ts'ao, Chuan and Ching, see Shih Chi, ch. 86.]
+
+^128:2 # means "suddenly" or "rapidly," and the snake in question was doubtless so called owing to the rapidity of its movements. Through this passage, the term has now come to be used in the sense of "military manoeuvres." The # have apparently not been identified.
+
+^129:1 Another reading in the Yu Lan for # is # "belly."
+
+^129:2 That is, as Mei Yao-ch'en says, # "Is it possible to make the front and rear of an army each swiftly responsive to attack on the other, just as though they were parts of a single living body?"
+
+^129:3 Cf. VI.  section 21.
+
+^129:4 The meaning is: If two enemies will help each other in a time of common peril, how much more should two parts of the same army, bound together as they are by every tie of interest and fellow-feeling. Yet it is notorious that many a campaign has been ruined through lack of cooperation, especially in the case of allied armies.
+
+^129:5 # said here to be equivalent to #.
+
+^129:6 These quaint devices to prevent one's army from running away recall the Athenian hero Sophanes, who carried an anchor with him at the battle of Plataea, by means of which he fastened himself firmly to one spot. [See Herodotus, IX. 74.] It is not enough, says Sun Tzu, to render flight impossible by such mechanical means. You will not succeed unless [p. 130] your men have tenacity and unity of purpose, and, above all, a spirit of sympathetic co-operation. This is the lesson which can be learned from the shuai-jan.
+
+^130:1 Literally, "level the courage [of all] as though [it were that of] one." If the ideal army is to form a single organic whole, then it follows that the resolution and spirit of its component parts must be of the same quality, or at any rate must not fall below a certain standard. Wellington's seemingly ungrateful description of his army at Waterloo as "the worst he had ever commanded" meant no more than that it was deficient in this important particular--unity of spirit and courage. Had he not foreseen the Belgian defections and carefully kept those troops in the background, he would almost certainly have lost the day.
+
+^130:2 This is rather a hard sentence on the first reading, but the key to it will be found, firstly, in the pause after #, and next, in the meaning of # itself. The best equivalent for this that I can think of is the German "zur Geltung kommen." Mei Yao-ch'en's paraphrase is: # "The way to eliminate the differences of strong and weak and to make both serviceable is to utilise accidental features of the ground." Less reliable troops, if posted in strong positions, will hold out as long as better troops on more exposed terrain. The advantage of position neutralises the inferiority in stamina and courage. Col. Henderson says: "With all respect to the text books, and to ordinary tactical teaching, I am inclined to think that the study of ground is often overlooked, and that by no means sufficient importance is attached to the selection of positions ... and to the immense advantages that are to be derived, whether you are defending or attacking, from the proper utilisation of natural features." [**]
+
+^130:3 [p. 131] Tu Mu says: # "The simile has reference to the ease with which he does it." # means that he makes it impossible for his troops to do otherwise than obey. Chang Yu quotes a jingle, to be found in Wu Tzu, ch. 4: #.
+
+^130:* [p. 130] "The Science of War," p. 333.
+
+^131:1 # seems to combine the meanings "noiseless" and "imperturbable," both of which attributes would of course conduce to secrecy. Tu Mu explains # as # "deep and inscrutable," and # as # "fair and unbiassed." Mei Yao-ch'en alone among the commentators takes # in the sense of n # "self-controlled." # and # are causally connected with # and # respectively. This is not brought out at all in Capt. Calthrop's rendering: "The general should be calm, inscrutable, just and prudent." The last adjective, moreover, can in no sense be said to represent #.
+
+^131:2 Literally, "to deceive their eyes and ears"--# being here used as a verb in the sense of #.
+
+^131:3 Ts'ao Kung gives us one of his excellent apophthegms: # "The troops must not be allowed to share your schemes in the beginning; they may only rejoice with you over their happy outcome." "To mystify, mislead, and surprise the enemy," is one of the first principles in war, as has been frequently pointed out. But how about the other process--the mystification of one's own men? Those who may think that Sun Tzu is over-emphatic on this point would do well to read Col. Henderson's remarks on Stonewall Jackson's Valley campaign: "The infinite pains," he says, "with which Jackson sought to conceal, even from his most trusted staff officers, his movements, his intentions, and his thoughts, a commander less thorough would have pronounced useless"--etc. etc. [**] In the year 88 A.D., as we read in ch. 47 [p. 132] of the Hou Han Shu, "Pan Ch'ao took the field with 25,000 men from Khotan and other Central Asian states with the object of crushing Yarkand. The King of Kutcha replied by dispatching his chief commander to succour the place with an army drawn from the kingdoms of Wen-su, Ku-mo and Wei-t'ou, totalling 50,000 men. Pan Ch'ao summoned his officers and also the King of Khotan to a council of war, and said: 'Our forces are now outnumbered and unable to make head against the enemy. The best plan, then, is for us to separate and disperse, each in a different direction. The King of Khotan will march away by the easterly route, and I will then return myself towards the west. Let us wait until the evening drum has sounded and then start.' Pan Ch'ao now secretly released the prisoners whom he had taken alive, and the King of Kutcha was thus informed of his plans. Much elated by the news, the latter setoff at once at the head of 10,000 horsemen to bar Pan Ch'ao's retreat in the west, while the King of Wen-su rode eastwards with 8000 horse in order to intercept the King of Khotan. As soon as Pan Ch'ao knew that the two chieftains had gone, he called his divisions together, got them well in hand, and at cock-crow hurled them against the army of Yarkand, as it lay encamped. The barbarians, panic-stricken, fled in confusion, and were closely pursued by Pan Ch'ao. Over 5000 heads were brought back as trophies, besides immense spoils in the shape of horses and cattle and valuables of every description. Yarkand then capitulating, Kutcha, and the other kingdoms drew off their respective forces. From that time forward, Pan Ch'ao's prestige completely overawed the countries of the west." In this case, we see that the Chinese general not only kept his own officers in ignorance of his real plans, but actually took the bold step of dividing his army in order to deceive the enemy.
+
+^131:* "Stonewall Jackson," vol. 1, p. 421.
+
+^132:1 Wang Hsi thinks that this means, not using the same stratagem twice. He says: #.
+
+^132:2 Note that # denotes the enemy, as opposed to the # of  section 36. Capt. Calthrop, not perceiving this, joins the two paragraphs into one. Chang Yu quotes # as saying: # "The axiom, that war is based on deception, does not apply only to deception of the enemy. You must deceive even your own soldiers. Make them follow you, but without letting them know why."
+
+^133:1 Wang Hsi paraphrases # as # "camp on easy ground," and Chang Yu follows him, saying: #. But this is an utterly untenable view. For # cf. VII. 4. Chia Lin, retaining his old interpretation of those words, is now obliged to explain # as "cause the enemy to shift his camp," which is awkward in the extreme.
+
+^133:2 I must candidly confess that I do not understand the syntax of #, though the meaning is fairly plain. The difficulty has evidently been felt, for Tu Mu tells us that one text omits #. It is more likely, however, that a couple of characters have dropped out.
+
+^133:3 #, literally, "releases the spring" (see V.  section 15), that is, takes some decisive step which makes it impossible for the army to return--like # Hsiang Yu, who sunk his ships after crossing a river. Ch'en Hao, followed by Chia Lin, understands the words less well as # "puts forth every artifice at his command." But # this derived sense occurs nowhere else in Sun Tzu.
+
+^133:4 Omitted in the T'u Shu.
+
+^133:5 The T'u Shu inserts another # after #. Tu Mu says: # "The army is only cognisant of orders to advance or retreat; it is ignorant of the ulterior ends of attacking and conquering."
+
+^134:1 Sun Tzu means that after mobilisation there be no delay in aiming a blow at the enemy's heart. With # cf. supra,  section. 23: #. Note how he returns again and again to this point. Among the warring states of ancient China, desertion was no doubt a much more present fear and serious evil than it is in the armies of to-day.
+
+^134:2 Chang Yu says: #, "One must not be hide-bound in interpreting the rules for the nine varieties of ground.
+
+^134:3 The use of # "contraction and expansion" may be illustrated by the saying #, which almost exactly corresponds to the French "il faut reculer pour mieux sauter." [**] Capt. Calthrop, more suo, avoids a real translation and has: "the suiting of the means to the occasion."
+
+^134:4 Cf. supra,  section 20.
+
+^134:5 Chang Yu's paraphrase is #.
+
+^134:* See Giles' Dictionary, no. 9817.
+
+^134:6 [p. 135] This "ground" is cursorily mentioned in VIII.  section 2, but it does not figure among the Nine # of this chapter or the Six # in chap. X. One's first impulse would be to translate it "distant ground" (# is commonly used in the sense of "distant lands"), but this, if we can trust the commentators, is precisely what is not meant here. Mei Yao-ch'en says it is # "a position not far enough advanced to be called 'facile,' and not near enough to home to be called `dispersive,' but something between the two." That, of course, does not explain the name #, which seems to imply that the general has severed his communications and temporarily cut himself off from his base. Thus, Wang Hsi says: "It is ground separated from home by an interjacent state, whose territory we have had to cross in order to reach it. Hence it is incumbent on us to settle our business there quickly." He adds that this position is of rare occurrence, which is the reason why it is not included among the #. Capt. Calthrop gives but a poor rendering of this sentence: "To leave home and cross the borders is to be free from interference."
+
+^135:1 The T'u Shu reads # for #.
+
+^135:2 From # down to the end of  section 45, we have some of the definitions of the early part of the chapter repeated in slightly different language. Capt. Calthrop omits these altogether.
+
+^135:3 # = #.
+
+^135:4 [p. 136] This end, according to Tu Mu, is best attained by remaining on the defensive, and avoiding battle. Cf. supra,  section 11.
+
+^136:1 The T'ung Tien has # instead of #. The present reading is supported by the # of Chang Yu-hsien. As Tu Mu says, the object is to guard against two possible contingencies:--# "(1) the desertion of our own troops; (2) a sudden attack on the part of the enemy." Cf. VII.. section 17:, #. Mei Yao-ch'en says: # "On the march, the regiments should be in close touch; in an encampment, there should be continuity between the fortifications." He seems to have forgotten, by the way, what Sun Tzu says above: #.
+
+^136:2 This is Ts'ao Kung's interpretation. Chang Yu adopts its, saying: #, "We must quickly bring up our rear, so that head and tail may both reach the goal." That is, they must not be allowed to straggle up a long way apart. Mei Yao-ch'en offers another equally plausible explanation: # "Supposing the enemy has not yet reached the coveted position, and we are behind him, we should advance with all speed in order to dispute its possession." # would thus denote the enemy, # being the preposition, and # would retain its usual intransitive sense. Cf. VII.  section 4: #. Ch'en Hao, on the other hand, assuming that the enemy has had time select his own ground, quotes VI.  section 1, where Sun Tzu warns us against coming exhausted to the attack. His own idea of the situation is rather vaguely expressed: # "If there is a favourable position lying in front of you, detach a picked body of troops to occupy it; then if the enemy, relying on their numbers, come up to make a fight for it, you may fall quickly on their rear with your main body, and victory will be assured." It was thus, he adds, that Chao She beat the army of Ch'in. [See <page 57>.] Li Ch'uan would read # for #:, it is not easy to see why.
+
+^137:1 As Wang Hsi says, # "fearing a surprise attack." The T'ung Tien reads here # (see next sentence).
+
+^137:2 The T'ung Tien reads #, which Tu Yu explains as "watching the market towns," # "the hotbeds of revolution." Capt. Calthrop translates # by the same words as # in  section 12: "cultivate intercourse."
+
+^137:3 The commentators take this as referring to forage and plunder, not, as one might expect, to an unbroken communication with a home base. One text, indeed, gives the reading #. Cf.  section 13. Capt. Calthrop's "be careful of supplies" fails to render the force of #.
+
+^137:4 Capt. Calthrop's "do not linger" cannot be called a translation, but only a paraphrase of the paraphrase offered by Ts'ao Kung: # "Pass away from it in all haste."
+
+^137:5 # "To make it seem that I mean to defend the position, whereas my real intention is to burst suddenly through the enemy's lines" [Meng Shih]; # "in order to make my soldiers fight with desperation" [Mei Yao-ch'en]; # "fearing lest my men be tempted to run away" [Wang Hsi]. Tu Mu points out that this is the converse of VII.  section 36, where it is the enemy who is surrounded. In 532 A.D., # Kao Huan, afterwards Emperor and canonised as # Shen-wu, was surrounded by a great [p. 138] army under # Erh-chu Chao and others. His own force was comparatively small, consisting only of 2000 horse and something under 30,000 foot. The lines of investment had not been drawn very closely together, gaps being left at certain points. But Kao Huan, instead of trying to escape, actually made a shift to block all the remaining outlets himself by driving into them a number of oxen and donkeys roped together. As soon as his officers and men saw that there was nothing for it but to conquer or die, their spirits rose to an extraordinary pitch of exaltation, and they charged with such desperate ferocity that the opposing ranks broke and crumbled under their onslaught. [See Tu Mu's commentary, and # ch. 1, fol. 6.]
+
+^138:1 Tu Yu says: # "Burn your baggage and impedimenta, throw away your stores and provisions, choke up the wells, destroy your cooking-stoves, and make it plain to your men that they cannot survive, but must fight to the death." Mei Yao-ch'en says epigrammatically: # "The only chance of life lies in giving up all hope of it." This concludes what Sun Tzu has to say about "grounds" and the "variations" corresponding to them. Reviewing the passages which bear on this important subject, we cannot fail to be struck by the desultory and unmethodical fashion in which it is treated. Sun Tzu begins abruptly in VIII.  section 2 to enumerate "variations" before touching on "grounds" at all, but only mentions five, namely nos. 7, 5, 8 and 9 of the subsequent list, and one that is not included in it. A few varieties of ground are dealt with in the earlier portion of chap. IX, and then chap. X sets forth six new grounds, with six variations of plan to match. None of these is mentioned again, though the first is hardly to be distinguished from ground no. 4 in the next chapter. At last, in chap. XI, we come to the Nine Grounds par excellence, immediately followed by the variations. This takes us down to  section 14. In  section section 43-45, fresh definitions are provided for nos. 5, 6, 2, 8 and 9 (in the order given), as well as for the tenth ground noticed in chap VIII; and finally, the nine variations are enumerated once more from beginning to end, all, with the exception of 5, 6 and 7, being different from those previously given. Though it is impossible to account for the present state of Sun Tzu's text, a few suggestive facts may be brought into prominence: (1) Chap. VIII, according to the title, should deal with nine variations, whereas only five appear. (2) It is an abnormally short chapter. (3) Chap. XI is entitled The Nine Grounds. Several of these are defined twice over, besides which there are two distinct lists of the corresponding variations. (4) The length of the chapter is disproportionate, being double that of any other except IX. I do not propose[p. 139] to draw any inferences from these facts, beyond the general conclusion that Sun Tzu's work cannot have come down to us in the shape in which it left his hands: chap. VIII is obviously defective and probably out of place, while XI seems to contain matter that has either been added by a later hand or ought to appear elsewhere.
+
+^139:1 # is rendered by Capt. Calthrop: "to pursue the enemy if he retreat." But # cannot mean "to retreat." Its primary sense is to pass over, hence to go too far, to exceed or to err. Here, however, the word has lost all implication of censure, and appears to mean "to pass the boundary line dividing safety from danger," or, as Chang Yu puts it, # "to be deeply involved in a perilous position." The latter commentator alludes to the conduct of Pan Ch'ao's devoted followers in 73 A.D. The story runs thus in the Hou Han Shu, ch. 47, fol. 1 v degrees: "When Pan Ch'ao arrived at # Shan-shan, # Kuang, the King of the country, received him at first with great politeness and respect; but shortly afterwards his behaviour underwent a sudden change, and he became remiss and negligent. Pan Ch'ao spoke about this to the officers of his suite: 'Have you not noticed,' he said, 'that Kuang's polite intentions are on the wane? This must signify that envoys have come from the Northern barbarians, and that consequently he is in a state of indecision, not knowing with which side to throw in his lot. That surely is the reason. The truly wise man, we are told, can perceive things before they have come to pass; how much more, then, those that are already manifest!' Thereupon he called one of the natives who had been assigned to his service, and set a trap for him, saying: 'Where are those envoys from the Hsiung-nu who arrived some days ago?' The man was so taken aback that between surprise and fear he presently blurted out the whole truth. Pan Ch'ao, keeping his informant carefully under lock and key, then summoned a general gathering of his officers, thirty-six in all, and began drinking with them. When the wine had mounted into their heads a little, he tried to rouse their spirit still further by addressing them thus: 'Gentlemen, here we are in the heart of an isolated region, anxious to achieve riches and honour by some great exploit. Now it happens that an ambassador from the Hsiung-nu arrived in this kingdom only a few days ago, and the result is that the respectful courtesy extended towards us by our royal host has disappeared. Should this envoy prevail upon him to seize our party and hand us over to the Hsiung-nu [p. 140] our bones will become food for the wolves of the desert. What are we to do?' With one accord, the officers replied: 'Standing as we do in peril of our lives, we will follow our commander through life and death' (#)." For the sequel of this adventure, see chap. XII.  section 1, note.
+
+^140:1 These three sentences are repeated from VII.  section section 12-14--in order to emphasise their importance, the commentators seem to think. I prefer to regard them as interpolated here in order to form an antecedent to the following words. With regard to local guides, Sun Tzu might have added that there is always the risk of going wrong, either through their treachery or some misunderstanding such as Livy records (XXII. 13): Hannibal, we are told, ordered a guide to lead him into the neighbourhood of Casinum, where there was an important pass to be occupied; but his Carthaginian accent, unsuited to the pronunciation of Latin names, caused the guide to understand Casilinum instead of Casinum, and turning from his proper route, he took the army in that direction, the mistake not being discovered until they had almost arrived.
+
+^140:2 Referring, I think, to what is contained in  section section 54, 55. Ts'ao Kung, thinking perhaps of the # in VIII.  section 6, takes them to be # "the advantages and disadvantages attendant on the nine varieties of ground." The T'u Shu reads #.
+
+^140:3 #, "one who rules by force," was a term specially used for those princes who established their hegemony over other feudal states. The [p. 141] famous # of the 7th century B.C. were (1) # Duke Huan of Ch'i (2) # Duke Wen of Chin, (3) # Duke Hsiang of Sung, (4) # Prince Chuang of Ch'u, (5) # Duke Mu of Ch'in. Their reigns covered the period 685-591 B.C.
+
+^141:1 Here and in the next sentence, the Yu Lan inserts # after #.
+
+^141:2 Mei Yao-ch'en constructs one of the chains of reasoning that are so much affected by the Chinese: "In attacking a powerful state, if you can divide her forces, you will have a superiority in strength; if you have a superiority in strength, you will overawe the enemy; if you overawe the enemy, the neighbouring states will be frightened; and if the neighbouring states are frightened, the enemy's allies will be prevented from joining her." The following gives a stronger meaning to # "If the great state has once been defeated (before she has had time to summon her allies), then the lesser states will hold aloof and refrain from massing their forces." Ch'en Hao and Chang Yu take the sentence in quite another way. The former says: "Powerful though a prince may be, if he attacks a large state, he will be unable to raise enough troops, and must rely to some extent on external aid; if he dispenses with this, and with overweening confidence in his own strength, simply tries to intimidate the enemy, he will surely be defeated." Chang Yu puts his view thus: "If we recklessly attack a large state, our own people will be discontented and hang back. But if (as will then be the case) our display of military force is inferior by half to that of the enemy, the other chieftains will take fright and refuse to join us." According to this interpretation, # would refer, not to the #, but to the # himself.
+
+^141:3 For the Yu Lan reads #.
+
+^142:1 #, as in  section 6, stands for # "the feudal princes," or the states ruled by them.
+
+^142:2 For (read shen1) in the meaning of #, cf. VIII.  section 8. The commentators are unanimous on this point, and we must therefore beware of translating # by "secretly self-confident" or the like. Capt. Calthrop (omitting #) has: "he has confidence in himself."
+
+^142:3 The train of thought appears to be this: Secure against a combination of his enemies, # "he can afford to reject entangling alliances and simply pursue his own secret designs, his prestige enabling him to dispense with external friendships." (Li Ch'uan.)
+
+^142:4 This paragraph, though written many years before the Ch'in State became a serious menace, is not a bad summary of the policy by which the famous Six Chancellors gradually paved the way for her final triumph under Shih Huang Ti. Chang Yu, following up his previous note, thinks that Sun Tzu is condemning this attitude of cold-blooded selfishness and haughty isolation. He again refers # to the warlike prince, thus making it appear that in the end he is bound to succumb.
+
+^142:5 Wu Tzu (ch. 3) less wisely says: # "Let advance be richly rewarded and retreat be heavily punished."
+
+^142:6 #, literally, "hang" or "post up."
+
+^142:7 # "In order to prevent treachery," says Wang Hsi. The general meaning is made clear by Ts'ao Kung's quotation from the [p. 143] Ssu-ma Fa: # "Give instructions only on sighting the enemy; give rewards only when you see deserving deeds." #, however, presents some difficulty. Ts'ao Kung's paraphrase #, I take to mean: "The final instructions you give to your army should not correspond with those that have been previously posted up." Chang Yu simplifies this into, "your arrangements should not be divulged beforehand." And Chia Lin says: # "there should be no fixity in your rules and arrangements." Not only is there danger in letting your plans be known, but war often necessitates the entire reversal of them at the last moment.
+
+^143:1 #, according to Ts'ao Kong, is here equal to #. The exact meaning is brought out more clearly in the next paragraph.
+
+^143:2 Cf. supra,  section 34.
+
+^143:3 Literally, "do not tell them words;" i.e. do not give your reasons for any order. Lord Mansfield once told a junior colleague to "give no reasons" for his decisions, and the maxim is even more applicable to a general than to a judge. Capt. Calthrop translates this sentence with beautiful simplicity: "Orders should direct the soldiers." That is all.
+
+^143:4 Compare the paradoxical saying #. These words of Sun Tzu were once quoted by Han Hsin in explanation of the tactics he employed in one of his most brilliant battles, already alluded to on <page 28>. In 204 B.C., he was sent against the army of Chao, and halted ten miles from the mouth of the # Ching-hsing pass, where the enemy had mustered in full force. Here, at midnight, he detached a body of 2000 light cavalry, every man of which was furnished [p. 144] with a red flag. Their instructions were to make their way through narrow defiles and keep a secret watch on the enemy. "When the men of Chao see me in full flight," Han Hsin said, "they will abandon their fortifications and give chase. This must be the sign for you to rush in, pluck down the Chao standards and set up the red banners of # Han in their stead." Turning, then to his other officers, he remarked: "Our adversary holds a strong position, and is not likely to come out and attack us until he sees the standard and drums of the commander-in-chief, for fear I should turn back and escape through the mountains." So saying, he first of all sent out a division consisting of 10,000 men, and ordered them to form in line of battle with their backs to the River#  Ti. Seeing this manoeuvre, the whole army of Chao broke into loud laughter. By this time it was broad daylight, and Han Hsin, displaying the generalissimo's flag, marched out of the pass with drums beating, and was immediately engaged by the enemy. A great battle followed, lasting for some time; until at length Han Hsin and his colleague # Chang Ni, leaving drums and banner on the field, fled to the division on the river bank, where another fierce battle was raging. The enemy rushed out to pursue them and to secure the trophies, thus denuding their ramparts of men; but the two generals succeeded in joining the other army, which was fighting with the utmost desperation. The time had now come for the 2000 horsemen to play their part. As soon as they saw the men of Chao following up their advantage, they galloped behind the deserted walls, tore up the enemy's flags and replaced them by those of Han. When the Chao army turned back from the pursuit, the sight of these red flags struck them with terror. Convinced that the Hans had got in and overpowered their king, they broke up in wild disorder, every effort of their leader to stay the panic being in vain. Then the Han army fell on them from both sides and completed the rout, killing a great number and capturing the rest, amongst whom was King # Ya himself . ... After the battle, some of Han Hsin's officers came to him and said: "In the Art of War we are told to have a hill or tumulus on the right rear, and a river or marsh on the left front. [This appears to be a blend of Sun Tzu and T'ai Lung. See IX.  section 9, and note.] You, on the contrary, ordered us to draw up our troops with the river at our back. Under these conditions, how did you manage to gain the victory?" The general replied: "I fear you gentlemen have not studied the Art of War with sufficient care. Is it not written there: 'Plunge your army into desperate straits and it will come off in safety; place it in deadly peril and it will survive'? Had I taken the usual course, I should never have been able to bring my colleagues round. What says the Military Classic (#)?--'Swoop down on the market-place and drive the men off to fight' (#). [This passage does not occur in the present text of Sun Tzu.] If I had not placed my troops in a position where [p. 145]they were obliged to fight for their lives, but had allowed each man to follow his own discretion, there would have been a general debandade, and it would have been impossible to do anything with them." The officers admitted the force of his argument, and said: "These are higher tactics than we should have been capable of." [See Ch'ien Han Shu, ch. 34, ff. 4, 5.]
+
+^145:1 Danger has a bracing effect.
+
+^145:2 Ts'ao Kung says: # "Feign stupidity"--by an appearance of yielding and falling in with the enemy's wishes. Chang Yu's note makes the meaning clear: "If the enemy shows an inclination to advance, lure him on to do so; if he is anxious to retreat, delay on purpose that he may carry out his intention." The object is to make him remiss and contemptuous before we deliver our attack.
+
+^145:3 I understand the first four words to mean "accompanying the enemy in one direction." Ts'ao Kung says: # "unite the soldiers and make for the enemy." But such a violent displacement of characters is quite indefensible. Mei Yao-ch'en is the only commentator who seems to have grasped the meaning: # The T'u Shu reads #.
+
+^145:4 Literally, "after a thousand li."
+
+^145:5 Always a great point with the Chinese.
+
+^145:6 The T'u Shu has #, and yet another reading, [p. 146] mentioned by Ts'ao Kung, is #. Capt. Calthrop omits this sentence, after having thus translated the two preceding: "Discover the enemy's intentions by conforming to his movements. When these are discovered, then, with one stroke, the general may be killed, even though he be one hundred leagues distant."
+
+^146:1 # does not mean "when war is declared," as Capt. Calthrop says, nor yet exactly, as Ts'ao Kung paraphrases it, # "when your plans are fixed," when you have mapped out your campaign. The phrase is not given in the P'ei Wen Yun Fu. There being no causal connection discoverable between this and the preceding sentence, # must perforce be left untranslated.
+
+^146:2 # is explained by Mei Yao-ch'en as #.
+
+^146:3 The locus classicus for these tallies is Chou Li, XIV. fol. 40 (Imperial edition): #. The generic term thus appears to be #, # being the special kind used at city-gates and on the frontier. They were tablets of bamboo or wood, one half of which was issued as a permit or passport by the official in charge of a gate (# or .#. Cf. the # "border-warden" of Lun Yu III. 24, who may have had similar duties.) When this half was returned to him, within a fixed period, he was authorised to open the gate and let the traveller through.
+
+^146:4 Show no weakness, and insist on your plans being ratified by the sovereign. # indicates a hall or temple in the Palace. Cf. I.  section 26. It is not clear if other officers would he present. Hardly anything can be made of #, the reading of the standard text, so I have adopted Tu Mu's conjecture #, which appears in the T'u Shu. [p. 147] Ts'ao Kung explains # by #, and Ho Shih by #. Another reading is #, and Mei Yao-ch'en, adopting this, understands the whole sentence to mean: Take the strictest precautions to ensure secrecy in your deliberations. Capt. Calthrop glides rather too smoothly over the rough places. His translation is: "conduct the business of the government with vigilance."
+
+^147:1 This looks a very simple sentence, yet Ts'ao Kung is the only commentator who takes it as I have done. Meng Shih, followed by Mei Yao-ch'en and Chang Yu, defines # as # "spies," and makes # an active verb: "If spies come from the enemy, we must quickly let them in." But I cannot find that the words # have this meaning anywhere else. On the other hand, they may be taken as two verbs, #, expressing the enemy's indecision whether to advance or retreat, that being the best moment to attack him. [Cf. Tao Te Ching, chap. X: #; also # Li Chi, XII, I. ii. 25.] It is not easy to choose between this and Ts'ao Kung's explanation; the fact that # occurs shortly afterwards, in  section 68, might be adduced in support of either. # must be understood in the sense of # or #. The only way to avoid this is to put # between commas and translate: "If we leave a door open, the enemy is sure to rush in."
+
+^147:2 Cf. supra,  section 18.
+
+^147:3 Capt. Calthrop hardly attempts to translate this difficult paragraph, but invents the following instead: "Discover what he most values, and plan to seize it." Ch'en Hao's explanation, however, is clear enough: # "If I manage to seize a favourable position, but the enemy does not appear on the scene, the advantage thus obtained cannot be turned to any practical account. He who intends, therefore, to occupy a position of importance to the enemy, must begin by making an artful appointment,[p. 148] so to speak, with his antagonist, and cajole him into going there as well." Mei Yao-ch'en explains that this "artful appointment" is to be made through the medium of the enemy's own spies, who will carry back just the amount of information that we choose to give them. Then, having cunningly disclosed our intentions, # "we must manage, though starting after the enemy, to arrive before him" (VII.  section 4). We must start after him in order to ensure his marching thither; we must arrive before him in order to capture the place without trouble. Taken thus, the present passage lends some support to Mei Yao-ch'en's interpretation of  section 47.
+
+^148:1 # stands for # "a marking-line," hence a rule of conduct. See Mencius VII. 1. xli. 2. Ts'ao Kung explains it by the similar metaphor # "square and compasses." The baldness of the sentiment rather inclines me to favour the reading # adopted by Chia Lin in place of #, which yields an exactly opposite sense, namely: "Discard hard and fast rules." Chia Lin says: # "Victory is the only thing that matters, and this cannot be achieved by adhering to conventional canons." It is unfortunate that this variant rests on very slight authority, for the sense yielded is certainly much more satisfactory. Napoleon, as we know, according to the veterans of the old school whom he defeated, won his battles by violating every accepted canon of warfare.
+
+^148:2 The last four words of the Chinese are omitted by Capt. Calthrop. Tu Mu says: # "Conform to the enemy's tactics until a favourable opportunity offers; then come forth and engage in a battle that shall prove decisive."
+
+^148:3 As the hare is noted for its extreme timidity, the comparison hardly appears felicitous. But of course Sun Tzu was thinking only of its speed. The words have been taken to mean: You must flee from the enemy as quickly as an escaping hare; but this is rightly rejected by Tu Mu. Capt. Calthrop is wrong in translating # "rabbit." Rabbits are not indigenous to China, and were certainly not known there in the 6th century B.C. The last sixteen characters evidently form a sort of four-line jingle. Chap. X, it may be remembered, closed in similar fashion.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 150]
+
+  
+
+XII. THE ATTACK BY FIRE [*1].
+
+1. Sun Tzu said: There are five ways of attacking with fire. The first is to burn soldiers in their camp; [*2]
+
+[p. 151]
+
+the second is to burn stores; [*1] the third is to burn baggage-trains; [*2] the fourth is to burn arsenals and magazines; [*3] the fifth is to hurl dropping fire amongst the enemy. [*4]
+
+[p. 152]
+
+2. In order to carry out an attack with fire, we must have means available. [*1] the material for raising fire should always be kept in readiness. [*2]
+
+3. There is a proper season for making attacks with fire, and special days for starting a conflagration. [*3]
+
+[p. 153]
+
+4. The proper season is when the weather is very dry; the special days are those when the moon is in the constellations of the Sieve, the Wall, the Wing or the Cross-bar; [*1] for these four are all days of rising wind. [*2]
+
+5. In attacking with fire, one should be prepared to meet five possible developments: [*3]
+
+6. (1) When fire breaks out inside the enemy's camp, respond at once [*4] with an attack from without.
+
+[p. 154]
+
+7. (2) If there is an outbreak of fire, but the enemy's soldiers remain quiet, bide your time and do not attack. [*1]
+
+8. (3) When the force of the flames has reached its height, follow it up with an attack, if that is practicable; if not, stay where you are. [*2]
+
+9. (4) If it is possible to make an assault with fire from without, do not wait for it to break out within, but deliver your attack at a favourable moment. [*3]
+
+[p. 155]
+
+10. (5) When you start a fire, be to windward of it. Do not attack from the leeward. [*1]
+
+11. A wind that rises in the daytime lasts long, but a night breeze soon falls. [*2]
+
+12. In every army, the five developments connected with fire must be known, the movements of the stars calculated, and a watch kept for the proper days. [*3]
+
+[p. 156]
+
+13. Hence those who use fire as an aid to the attack show intelligence; [*1] those who use water as an aid to the attack gain an accession of strength. [*2]
+
+14. By means of water, an enemy may be intercepted, but not robbed of all his belongings. [*3]
+
+[p. 157]
+
+15. Unhappy is the fate of one who tries to win his battles and succeed in his attacks without cultivating the spirit of enterprise; for the result is waste of time and general stagnation. [*1]
+
+16. Hence the saying: The enlightened ruler lays his plans well ahead; the good general cultivates his resources. [*2]
+
+[p. 158]
+
+17. Move not unless you see an advantage; [*1] use not your troops unless there is something to be gained; fight not unless the position is critical. [*2]
+
+18. No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique. [*3]
+
+19. If it is to your advantage, make a forward move if not, stay where you are. [*4]
+
+[p. 159]
+
+20. Anger may in time change to gladness; vexation may be succeeded by content. [*1]
+
+21. But a kingdom that has once been destroyed can never come again into being; [*2] nor can the dead ever be brought back to life.
+
+22. Hence the enlightened ruler is heedful, and the good general full of caution. [*3]
+
+This is the way to keep a country at peace and an army intact. [*4]
+
+Footnotes
+
+^150:1 Rather more than half the chapter ( section section 1-13) is devoted to the subject of fire, after which the author branches off into other topics.
+
+^150:2 So Tu Mu. Li Ch'uan says: # "Set fire to the camp, and kill the soldiers" (when they try to escape from the flames). Pan Ch'ao, sent on a diplomatic mission to the King of Shan-shan [see XI. S 51, note], found himself placed in extreme peril by the unexpected arrival of an envoy from the Hsiung-nu [the mortal enemies of the Chinese]. In consultation with his officers, he exclaimed: "'Never venture, never win! [**] The only course open to us now is to make an assault by fire on the barbarians under cover of night, when they will not be able to discern our numbers. Profiting by their panic, we shall exterminate them completely; this will cool the King's courage and cover us with glory, besides ensuring the success of our mission.' The officers all replied that would be necessary to discuss the matter first with the Intendant (#). Pan Ch'ao then fell into a passion: 'It is to-day,' he cried, 'that our fortunes must be decided! The Intendant is only a humdrum civilian, who on hearing of our project will certainly be afraid, and everything will be brought to light. An inglorious death is no worthy fate for valiant warriors.' All then agreed to do as he wished. Accordingly, as soon as night came on, he and his little band quickly made their way to the barbarian camp. A strong gale was blowing at the time. Pan Ch'ao ordered ten of the party to take drums and hide behind the enemy's barracks, it being arranged that when they saw flames shoot up, they [p. 151] should begin drumming and yelling with all their might. The rest of his men, armed with bows and crossbows, he posted in ambuscade at the gate of the camp. He then set fire to the place from the windward side, whereupon a deafening noise of drums and shouting arose on the front and rear of the Hsiung-nu, who rushed out pell-mell in frantic disorder. Pan Ch'ao slew three of them with his own hand, while his companions cut off the heads of the envoy and thirty of his suite. The remainder, more than a hundred in all, perished in the flames. On the following day, Pan Ch'ao went back and informed # Kuo Hsun [the Intendant] of what he had done. The latter was greatly alarmed and turned pale. But Pan Ch'ao, divining his thoughts, said with uplifted hand: 'Although you did not go with us last night, I should not think, Sir, of taking sole credit for our exploit.' This satisfied Kuo Hsun, and Pan Ch'ao, having sent for Kuang, King of Shan-shan, showed him the head of the barbarian envoy. The whole kingdom was seized with fear and trembling, which Pan Ch'ao took steps to allay by issuing a public proclamation. Then, taking the king's son as hostage, he returned to make his report to # Tou Ku." [Hou Han Shu, ch. 47, ff. 1, 2.]
+
+^150:* # "Unless you enter the tiger's lair, you cannot get hold of the tiger's cubs."
+
+^151:1 Tu Mu says: # "Provisions, fuel and fodder." In order to subdue the rebellious population of Kiangnan, # Kao Keng recommended Wen Ti of the Sui dynasty to make periodical raids and burn their stores of grain, a policy which in the long run proved entirely successful. [#, ch. 41, fol. 2.]
+
+^151:2 An example given is the destruction of # Yuan Shao's waggons and impedimenta by Ts'ao Ts'ao in 200 A.D.
+
+^151:3 Tu Mu says that the things contained in # and # are the same. He specifies weapons and other implements, bullion and clothing. Cf. VII.  section 11.
+
+^151:4 No fewer than four totally diverse explanations of this sentence are given by the commentators, not one of which is quite satisfactory. It is obvious, at any rate, that the ordinary meaning of # ("regiment" or "company") is here inadmissible. In spite of Tu Mu's note, #, I must regard "company burning" (Capt. Calthrop's rendering) as nonsense pure and simple. We may also, I think, reject the very forced explanation given by Li Ch'uan, Mei Yao-ch'en [p. 152] and Chang Yu, of whom the last-named says: # "burning a regiment's weapons, so that the soldiers may have nothing to fight with." That leaves only two solutions open: one, favoured by Chia Lin and Ho Shih, is to take # in the somewhat uncommon sense of "a road," = #. The commentary on a passage in the #, quoted in K'ang Hsi, defines # (read sui) as # "a difficult road leading through a valley." Here it would stand for the # "line of supplies," which might be effectually interrupted if the country roundabout was laid waste with fire. Finally, the interpretation which I have adopted is that given by Tu Yu in the T'ung Tien. He reads # (which is not absolutely necessary, # being sometimes used in the same sense), with the following note: # "To drop fire into the enemy's camp. The method by which this may be done is to set the tips of arrows alight by dipping them into a brazier, and then shoot them from powerful crossbows into the enemy's lines."
+
+^152:1 Ts'ao Kung thinks # "traitors in the enemy's camp" are referred to. He thus takes # as the efficient cause only. But Ch'en Hao is more likely to be right in saying: # "We must have favourable circumstances in general, not merely traitors to help us." Chia Lin says: # "We must avail ourselves of wind and dry weather."
+
+^152:2 # is explained by Ts'ao Kung as # "appliances for making fire." Tu Mu suggests # "dry vegetable matter, reeds, brushwood, straw, grease, oil, etc." Here we have the material cause. Chang Yu says: # "vessels for hoarding fire, stuff for lighting fires."
+
+^152:3 [p. 153] A fire must not be begun "recklessly" or # "at haphazard."
+
+^153:1 These are, respectively, the 7th, 14th, 27th, and 28th of the # Twenty-eight Stellar Mansions, corresponding roughly to Sagittarius, Pegasus, Crater and Corvus. The original text, followed by the T'u Shu, has # in place of #, the present reading rests on the authority of the T'ung Tien and Yu Lan. Tu Mu says: #. For #, both T'ung Tien and Yu Lan give the more precise location #. Mei Yao-ch'en tells us that by # is meant the tail of the # Dragon; by #, the eastern part of that constellation; by # and #, the tail of the # Quail.
+
+^153:2 # is elliptical for #. Hsiao I (afterwards fourth Emperor of the Liang dynasty, A.D. 552-555) is quoted by Tu Yu as saying that the days # of spring, # of summer, # of autumn, and # of winter bring fierce gales of wind and rain.
+
+^153:3 I take # as qualifying #, not #, and therefore think that Chang Yu is wrong in referring # to the five methods of attack set forth in  section 1. What follows has certainly nothing to do with these.
+
+^153:4 The Yu Lan incorrectly reads # for #.
+
+^154:1 The original text omits #. The prime object of attacking with fire is to throw the enemy into confusion. If this effect is not produced, it means that the enemy is ready to receive us. Hence the necessity for caution.
+
+^154:2 Ts'ao Kung says: # "If you see a possible way, advance; but if you find the difficulties too great, retire."
+
+^154:3 Tu Mu says that the previous paragraphs had reference to the fire breaking out (either accidentally, we may suppose, or by the agency of incendiaries) inside the enemy's camp. "But," he continues, #, "if the enemy is settled in a waste place littered with quantities of grass, or if he has pitched his camp in a position which can be burnt out, we must carry our fire against him at any seasonable opportunity, and not wait on in hopes of an outbreak occurring within, for fear our opponents should themselves burn up the surrounding vegetation, and thus render our own attempts fruitless." The famous # Li Ling once baffled the # leader of the Hsiung-nu in this way. The latter, taking advantage of a favourable wind, tried to set fire to the Chinese general's camp, but found that every scrap of combustible vegetation in the neighbourhood had already been burnt down. On the other hand, # Po-ts'ai, a general of the # Yellow Turban rebels, was badly defeated in 184 A.D. through his neglect of this simple precaution. "At the head of a large army he was besieging # Ch'ang-she, which was held by # Huang-fu Sung. The garrison was very [p. 155] small, and a general feeling of nervousness pervaded the ranks; so Huang-fu Sung called his officers together and said: 'in war, there are various indirect methods of attack, and numbers do not count for everything. [The commentator here quotes Sun Tzu, V.  section section 5, 6 and 10.] Now the rebels have pitched their camp in the midst of thick grass (#), which will easily burn when the wind blows. If we set fire to it at night, they will be thrown into a panic, and we can make a sortie and attack them on all sides at once, thus emulating the achievement of T'ien Tan.' [See <page 90>.] That same evening, a strong breeze sprang up; so Huang-fu Sung instructed his soldiers to bind reeds together into torches and mount guard on the city walls, after which he sent out a band of daring men, who stealthily made their way through the lines and started the fire with loud shouts and yells. Simultaneously, a glare of light shot up from the city-walls, and Huang-fu Sung, sounding his drums, led a rapid charge, which threw the rebels into confusion and put them to headlong flight." [Hou Han Shu, ch. 71, f. 2 r degrees.]
+
+^155:1 Chang Yu, following Tu Yu, says: # "When you make a fire, the enemy will retreat away from it; if you oppose his retreat and attack him then, he will fight desperately, which will not conduce to your success." A rather more obvious explanation is given by Tu Mu: "If the wind is in the east, begin burning to the east of the enemy, and follow lip the attack yourself from that side. If you start the fire on the east side, and then attack from the west, you will suffer in the same way as your enemy."
+
+^155:2 Cf. Lao Tzu's saying: # "A violent wind does not last the space of a morning." (Tao Te Ching, chap. 23.) Mei Yao-ch'en and Wang Hsi say: "A day breeze dies down at nightfall, and a night breeze at daybreak. This is what happens as a general rule." The phenomenon observed may be correct enough, but how this sense is to be obtained is not apparent.
+
+^155:3 [p. 156] Tu Mu's commentary shows what has to be supplied in order to make sense out of #. He says: # "We must make calculations as to the paths of the stars, and watch for the days on which wind will rise, before making our attack with fire." Chang Yu seems to take # in the sense of #: "We must not only know how to assail our opponents with fire, but also be on our guard against similar attacks from them."
+
+^156:1 I have not the least hesitation in rejecting the commentators' explanation of # as = #. Thus Chang Yu says: # "... will clearly [i.e. obviously] be able to gain the victory." This is not only clumsy in itself, but does not balance in the next clause. For # "intelligent," cf. infra,  section 16, and Lun Yu XII. 6.
+
+^156:2 Capt. Calthrop gives an extraordinary rendering of the paragraph: "... if the attack is to be assisted, the fire must be unquenchable. If water is to assist the attack, the flood must be overwhelming."
+
+^156:3 Ts'ao Kung's note is: # "We can merely obstruct the enemy's road or divide his army, but not sweep away all his accumulated stores." Water can do useful service, but it lacks the terrible destructive power of fire. This is the reason, Chang Yu concludes, why the former is dismissed in a couple of sentences, whereas the attack by fire is discussed in detail. Wu Tzu (ch. 4) speaks thus of the two elements: # "If an army is encamped on low-lying marshy ground, from which the water cannot run off, and where the rainfall is heavy, it may be submerged by a flood. If an army is encamped in wild marsh lands thickly overgrown with weeds and brambles, and visited by frequent gales, it may be exterminated by fire."
+
+^157:1 This is one of the most perplexing passages in Sun Tzu. The difficulty lies mainly in #, of which two interpretations appear possible. Most of the commentators understand # in the sense (not known to K'ang Hsi) of # "reward" or # "promote," and # as referring to the merit of officers and men. Thus Ts'ao Kung says: # "Rewards for good service should not be deferred a single day." And Tu Mu: "If you do not take opportunity to advance and reward the deserving, your subordinates will not carry out your commands, and disaster will ensue." # would then probably mean # "stoppage of expenditure," or as Chia Lin puts it, # "the grudging of expenditure." For several reasons, however, and in spite of the formidable array of scholars on the other side, I prefer the interpretation suggested by Mei Yao-ch'en alone, whose words I will quote: # "Those who want to make sure of succeeding in their battles and assaults must seize the favourable moments when they come and not shrink on occasion from heroic measures: that is to say, they must resort to such means of attack as fire, water and the like. What they must not do, and what will prove fatal, is to sit still and simply hold on to the advantages they have got." This retains the more usual meaning of #, and also brings out a clear connection of thought with the previous part of the chapter. With regard to #, Wang Hsi paraphrases it as # "expending treasure and tiring out [lit., ageing] the army." # Of course is expenditure or waste in general, either of time, money or strength. But the soldier is less concerned with the saving of money than of time. For the metaphor expressed in "stagnation" I am indebted to Ts'ao Kung, who says: #. Capt. Calthrop gives a rendering which bears but little relation to the Chinese text: "unless victory or possession be obtained, the enemy quickly recovers, and misfortunes arise. The war drags on, and money is spent."
+
+^157:2 [p. 158] As Sun Tzu quotes this jingle in support of his assertion in  section 15, we must suppose # to stand for # or something analogous. The meaning seems to be that the ruler lays plans which the general must show resourcefulness in carrying out. It is now plainer than ever that # cannot mean "to reward." Nevertheless, Tu Mu quotes the following from the #, ch. 2: # "The warlike prince controls his soldiers by his authority, knits them together by good faith, and by rewards makes them serviceable. If faith decays, there will be disruption; if rewards are deficient, commands will not be respected."
+
+^158:1 #, the Yu Lan's variant for #, is adopted by Li Ch'uan and Tu Mu.
+
+^158:2 Sun Tzu may at times appear to be over-cautious, but he never goes so far in that direction as the remarkable passage in the Tao Te Ching. ch. 69: # "I dare not take the initiative, but prefer to act on the defensive; I dare not advance an inch, but prefer to retreat a foot."
+
+^158:3 Again compare Lao Tzu, ch. 68: #. Chang Yu says that # is a weaker word than #, and is therefore applied to the general as opposed to the sovereign. The T'ung Tien and Yu Lan read # for #, and the latter # for #.
+
+^158:4 This is repeated from XI.  section 17. Here I feel convinced that it is an interpolation, for it is evident that  section 20 ought to follow immediately on [p. 159]  section 18. For #, the T'ung Tien and Yu Lan have #. Capt. Calthrop invents a sentence which he inserts before this one: "Do not make war unless victory may be gained thereby." While he was about it, he might have credited Sun Tzu with something slightly less inane.
+
+^159:1 According to Chang Yu, # denotes joy outwardly manifested in the countenance, # the inward sensation of happiness.
+
+^159:2 The Wu State was destined to be a melancholy example of this saying. See <page 50>.
+
+^159:3 #, which usually means "to warn," is here equal to #. This is a good instance of how Chinese characters, which stand for ideas, refuse to be fettered by dictionary-made definitions. The T'u Shu reads as in  section 16.
+
+^159:4 It is odd that # should not have the same meaning here as in III.  section 1, q.v. This has led me to consider whether it might not be possible to take the earlier passage thus: "to preserve your own army (country, regiment, etc.) intact is better than to destroy the enemy's." The two words do not appear in the T'ung Tien or the Yu Lan. Capt. Calthrop misses the point by translating: "then is the state secure, and the army victorious in battle."
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 160]
+
+  
+
+XIII. THE USE OF SPIES [*1].
+
+1. Sun Tzu said: Raising a host of a hundred thousand men and marching them great distances entails heavy loss on the people and a drain on the resources of the State. The daily expenditure will amount to a thousand ounces of silver. [*2]
+
+[p. 161]
+
+[paragraph continues] There will be commotion at home and abroad, and men will drop down exhausted on the highways. [*1]
+
+As many as seven hundred thousand families will be impeded in their labour. [*2]
+
+2. Hostile armies may face each other for years, striving
+
+[p. 162]
+
+for the victory which is decided in a single day. This being so, to remain in ignorance of the enemy's condition simply because one grudges the outlay of a hundred ounces of silver in honours and emoluments, [*1] is the height of inhumanity. [*2]
+
+3. One who acts thus is no leader of men, no present help to his sovereign, [*3] no master of victory. [*4]
+
+[p. 163]
+
+4. Thus, what enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge. [*1]
+
+5. Now this foreknowledge cannot be elicited from spirits; [*2] it cannot be obtained inductively from experience, [*3] nor by any deductive calculation. [*4]
+
+6. Knowledge of the enemy's dispositions can only be obtained from other men. [*5]
+
+[p. 164]
+
+7. Hence the use of spies, of whom there are five classes: (1) Local spies; (2) inward spies; (3) converted spies; (4) doomed spies; (5) surviving spies.
+
+8. When these five kinds of spy are all at work, none can discover the secret system. [*1] This is called [*2] "divine manipulation of the threads." [*3] It is the sovereign's most precious faculty. [*4]
+
+9. Having local spies [*5] means employing the services of the inhabitants of a district. [*6]
+
+[p. 165]
+
+10. Having inward spies, making use of officials of the enemy. [*1]
+
+[p. 166]
+
+11. Having converted spies, getting hold of the enemy's spies and using them for our own purposes. [*1]
+
+[p. 167]
+
+12. Having doomed spies, doing certain things openly for purposes of deception, and allowing our own spies to know of them and report them to the enemy. [*1]
+
+13. Surviving spies, finally, are those who bring back news from the enemy's camp. [*2]
+
+[p. 168]
+
+14. Hence it is that with none in the whole army are more intimate relations to be maintained than with spies. [*1]
+
+[p. 169]
+
+[paragraph continues] None should be more liberally rewarded. [*1] In no other business should greater secrecy be preserved. [*2]
+
+15. Spies cannot be usefully employed [*3] without a certain intuitive sagacity. [*4]
+
+[p. 170]
+
+16. They cannot be properly managed without benevolence and straightforwardness. [*1]
+
+17. Without subtle ingenuity of mind, one cannot make certain of the truth of their reports. [*2]
+
+18. Be subtle! be subtle! [*3] and use your spies for every kind of business.
+
+19. If a secret piece of news is divulged by a spy before the time is ripe, he must be put to death together with the man to whom the secret was told. [*4]
+
+[p. 171]
+
+20. Whether the object be to crush an army, to storm a city, or to assassinate an individual, it is always necessary to begin by finding out the names of the attendants, [*1] the aides-de-camp, [*2] the door-keepers and sentries [*3] of the general in command. [*4] Our spies must be commissioned to ascertain these. [*5]
+
+[p. 172]
+
+21. The enemy's spies who have come to spy on us must be sought out, [*1] tempted with bribes, led away and comfortably housed. [*2] Thus they will become converted spies and available for our service.
+
+22. It is through the information brought by the converted spy that we are able to acquire and employ local and inward spies. [*3]
+
+23. It is owing to his information, again, that we can cause the doomed spy to carry false tidings to the enemy. [*4]
+
+24. Lastly, it is by his information that the surviving spy can be used on appointed occasions. [*5]
+
+[p. 173]
+
+25. The end and aim of spying in all its five varieties is knowledge of the enemy; [*1] and this knowledge can only be derived, in the first instance, from the converted spy. [*2] Hence it is essential that the converted spy be treated with the utmost liberality.
+
+26. Of old, the rise of the Yin dynasty [*3] was due to I Chih [*4]
+
+[p. 174]
+
+who had served under the Hsia. Likewise, the rise of the Chou dynasty was due to Lu Ya [*1] who had served under the Yin. [*2]
+
+27. Hence it is only the enlightened ruler and the wise general who will use the highest intelligence of the army for purposes of spying, [*3]
+
+[p. 175]
+
+and thereby they achieve great results. [*1] Spies are a most important element in war, because on them depends an army's ability to move. [*2]
+
+Footnotes
+
+^160:1 # is really a vulgar form of #, and does not appear in the Shuo Wen. In practice, however, it has gradually become a distinct character with special meanings of its own, and I have therefore followed my edition of the standard text in retaining this form throughout the chapter. In VI.  section 25, on the other hand, the correct form # will be found. The evolution of the meaning "spy" is worth considering for a moment, provided it be understood that this is very doubtful ground, and that any dogmatism is out of place. The Shuo Wen defines # as # (the old form of #) "a crack" or "chink," and on the whole we may accept # Hsu Ch'ieh's analysis as not unduly fanciful: # "At night, a door is shut; if, when it is shut, the light of the moon is visible, it must come through a chink." From this it is an easy step to the meaning "space between," or simply "between," as for example in the phrase # "to act as a secret spy between enemies." Here # is the word which means "spy;" but we may suppose that constant association so affected the original force of #, that # could at last be dropped altogether, leaving # to stand alone with the same signification. Another possible theory is that the word may first have come to mean # "to peep" (see #, quoted in K'ang Hsi), which would naturally be suggested by "crack" or "crevice," and afterwards the man who peeps, or spy.
+
+^160:2 [p. 161] Cf. II.  section section 1, 13, 14.
+
+^161:1 #, which is omitted by the Yu Lan, appears at first sight to be explained by the words immediately following, so that the obvious translation would be "(enforced) idleness along the line of march." [Cf. Tao Te Ching, ch. 30: # "Where troops have been quartered, brambles and thorns spring up."] The commentators, however, say that # is here equivalent to #--a meaning which is still retained in the phrase #. Tu Mu refers # to those who are engaged in conveying provisions to the army. But this can hardly be said to emerge clearly from Sun Tzu's text. Chang Yu has the note: "We may be reminded of the saying: 'On serious ground, gather in plunder' [XI.  section 13]. Why then should carriage and transportation cause exhaustion on the highways?--The answer is, that not victuals alone, but all sorts of munitions of war have to be conveyed to the army. Besides, the injunction to 'forage on the enemy' only means that when an army is deeply engaged in hostile territory, scarcity of food must be provided against. Hence, without being solely dependent on the enemy for corn, we must forage in order that there may be an uninterrupted flow of supplies. Then, again, there are places like salt deserts (#), where provisions being unobtainable, supplies from home cannot be dispensed with."
+
+^161:2 Mei Yao-ch'en says: # "Men will be lacking at the plough-tail," The allusion is to # the system of dividing land into nine parts, as shown in the character #, each consisting of a # or # (about 15 acres), the plot in the centre being cultivated on behalf of the State by the tenants of the other eight. It was here also, so Tu Mu tells us, that their cottages were built and a well sunk, to be used by all in common. [See II.  section 12, note.] These groups of eight peasant proprietors were called #. In time of war, one of the families had to serve in the army, while the other seven contributed to its support (#). Thus, by a levy of 100,000 men (reckoning one able-bodied soldier to each family) the husbandry of 700,000 families would be affected.
+
+^162:1 "For spies" is of course the meaning, though it would spoil the effect of this curiously elaborate exordium if spies were actually mentioned at this point.
+
+^162:2 Sun Tzu's argument is certainly ingenious. He begins by adverting to the frightful misery and vast expenditure of blood and treasure which war always brings in its train. Now, unless you are kept informed of the enemy's condition, and are ready to strike at the right moment, a war may drag on for years. The only way to get this information is to employ spies, and it is impossible to obtain trustworthy spies unless they are properly paid for their services. But it is surely false economy to grudge a comparatively trifling amount for this purpose, when every day that the war lasts eats up an incalculably greater sum. This grievous burden falls on the shoulders of the poor, and hence Sun Tzu concludes that to neglect the use of spies is nothing less than a crime against humanity.
+
+^162:3 An inferior reading for # is #, thus explained by Mei Yao-ch'en: #.
+
+^162:4 This idea, that the true object of war is peace, has its root in the national temperament of the Chinese. Even so far back as 597 B.C., these memorable words were uttered by Prince # Chuang of the Ch'u State: # "The character for 'prowess' (#) is made up of # 'to stay' and # 'a spear' (cessation of hostilities). Military prowess is seen in the repression of cruelty, the calling in of weapons, the preservation of the appointment of Heaven, the firm establishment of merit, the bestowal of happiness on the people, putting harmony between the princes, the diffusion of wealth." [Tso Chuan, # XII. 3 ad fin.]
+
+^163:1 That is, knowledge of the enemy's dispositions, and what he means to do.
+
+^163:2 # "by prayers or sacrifices," says Chang Yu. # are the disembodied spirits of men, and # beings or "gods."
+
+^163:3 Tu Mu's note makes the meaning clear: #, he says, is the same as # reasoning by analogy; # "[knowledge of the enemy] cannot be gained by reasoning from other analogous cases."
+
+^163:4 Li Ch'uan says: # "Quantities like length, breadth, distance and magnitude, are susceptible of exact mathematical determination; human actions cannot be so calculated."
+
+^163:5 Mei Yao-ch'en has rather an interesting note: # "Knowledge of the spirit-world is to be obtained by divination; information in natural science may be sought by inductive reasoning; the laws of the universe can be verified by mathematical calculation: but the dispositions of an enemy are ascertainable through spies and spies alone."
+
+^164:1 # is explained by Tu Mu as # "the way in which facts leak out and dispositions are revealed."
+
+^164:2 # the reading of the standard text, but the T'ung Tien, Yu Lan and T'u Shu all have #.
+
+^164:3 Capt. Calthrop translates # "the Mysterious Thread," but Mei Yao-ch'en's paraphrase # shows that what is meant is the control of a number of threads.
+
+^164:4 "Cromwell, one of the greatest and most practical of all cavalry leaders, had officers styled 'scout masters,' whose business it was to collect all possible information regarding the enemy, through scouts and spies, etc., and much of his success in war was traceable to the previous knowledge of the enemy's moves thus gained." [**]
+
+^164:5 # is the emended reading of Chia Lin and the T'u Shu for the unintelligible #, here and in  section 7, of the standard text, which nevertheless reads # in  section 22.
+
+^164:6 Tu Mu says: "In the enemy's country, win people over by kind treatment, and use them as spies."
+
+^164:* "Aids to Scouting," p. 2.
+
+^165:1 # includes both civil and military officials. Tu Mu enumerates the following classes as likely to do good service in this respect: "Worthy men who have been degraded from office, criminals who have undergone punishment; also, favourite concubines who are greedy for gold, men who are aggrieved at being in subordinate positions, or who have been passed over in the distribution of posts, others who are anxious that their side should be defeated in order that they may have a chance of displaying their ability and talents, fickle turncoats who always want to have a foot in each boat (#). Officials of these several kinds," he continues, "should be secretly approached and bound to one's interests by means of rich presents. In this way you will be able to find out the state of affairs in the enemy's country, ascertain the plans that are being formed against you, and moreover disturb the harmony and create a breach between the sovereign and his ministers." The necessity for extreme caution, however, in dealing with "inward spies," appears from an historical incident related by Ho Shih: "# Lo Shang, Governor of # I-chou, sent his general # Wei Po to attack the rebel # Li Hsiung of Shu in his stronghold at # P'i. After each side had experienced a number of victories and defeats, Li Hsiung had recourse to the services of a certain # P'o-t'ai, a native of # Wu-tu. He began by having him whipped until the blood came, and then sent him off to Lo Shang, whom he was to delude by offering to co-operate with him from inside the city, and to give a fire signal at the right moment for making a general assault. Lo Shang, confiding in these promises, marched out all his best troops, and placed Wei Po and others at their head with orders to attack at P'o-t'ai's bidding. Meanwhile, Li Hsiung's general, # Li Hsiang, had prepared an ambuscade on their line of march; and P'o-t'ai, having reared long scaling-ladders against the city walls, now lighted the beacon-fire. Wei Po's men raced up on seeing the signal and began climbing the ladders as fast as they could, while others were drawn up by ropes lowered from above. More than a hundred of Lo Shang's soldiers entered the city in this way, every one of whom was forthwith beheaded. Li Hsiung then charged with all his forces, both inside and outside the city, and routed the enemy completely." [This happened in 303 A.D. I do not know where Ho Shih got the story from. It is not given in the biography of Li Hsiung or that of his father Li # Te, Chin Shu, ch. 120, 121.]
+
+^166:1 By means of heavy bribes and liberal promises detaching them from the enemy's service, and inducing them to carry back false information as well as to spy in turn on their own countrymen. Thus Tu Yu: #. On the other hand, # Hsiao Shih-hsien in defining the # says that we pretend not to have detected him, but contrive to let him carry away a false impression of what is going on (#). Several of the commentators accept this as an alternative definition; but that it is not what Sun Tzu meant is conclusively proved by his subsequent remarks about treating the converted spy generously ( section 21 sqq.). Ho Shih notes three occasions on which converted spies were used with conspicuous success: 1) by T'ien Tan in his defence of Chi-mo (see supra, <page 90>); 2) by Chao She on his march to O-yu (see <page 57>); and by the wily # Fan Chu in 260 B.C., when Lien P'o was conducting a defensive campaign against Chin. The King of Chao strongly disapproved of Lien P'o's cautious and dilatory methods, which had been unable to avert a series of minor disasters, and therefore lent a ready ear to the reports of his spies, who had secretly gone over to the enemy and were already in Fan Chu's pay. They said: "The only thing which causes Ch'in anxiety is lest # Chao Kua should be made general. Lien P'o they consider an easy opponent, who is sure to be vanquished in the long run." Now this Chao Kua was a son of the famous Chao She. From his boyhood, he had been wholly engrossed in the study of war and military matters, until at last he came to believe that there was no commander in the whole Empire who could stand against him. His father was much disquieted by this overweening conceit, and the flippancy with which he spoke of such a serious thing as war, and solemnly declared that if ever Kua was appointed general, he would bring ruin on the armies of Chao. This was the man who, in spite of earnest protests from his own mother and the veteran statesman # Lin Hsiang-ju, was now sent to succeed Lien P'o. Needless to say, he proved no match for the redoubtable Po Ch'i and the great military power of Ch'in. He fell into a trap by which his army was divided into two and his communications cut; and after a desperate resistance lasting 46 days, during which the famished soldiers devoured one another, he was himself killed by an arrow, and his whole force, amounting, it is said, to 400,000 men, ruthlessly put to the sword. [See #, ch. 19, ff. 48-50].
+
+^167:1 # is Li Ch'uan's conjecture for #, which is found in the T'ung Tien and the Yu Lan. The T'u Shu, unsupported by any good authority, adds # after #. In that case, the doomed spies would be those of the enemy, to whom our own spies had conveyed false information. But this is unnecessarily complicated. Tu Yu gives the best exposition of the meaning: "We ostentatiously do things calculated to deceive out own spies, who must be led to believe that they have been unwittingly disclosed. Then, when these spies are captured in the enemy's lines, they will make an entirely false report, and the enemy will take measures accordingly, only to find that we do something quite different. The spies will thereupon be put to death." Capt. Calthrop makes a hopeless muddle of the sentence. As an example of doomed spies, Ho Shih mentions the prisoners released by Pan Ch'ao in his campaign against Yarkand. (See <page 132>.) He also refers to # T'ang Chien, who in 630 A.D. was sent by T'ai Tsung to lull the Turkish Khan # Chieh-li into fancied security, until Li Ching was able to deliver a crushing blow against him. Chang Yu says that the Turks revenged themselves by killing T'ang Chien, but this is a mistake, for we read in both the Old and the New T'ang History (ch. 58, fol. 2 and ch. 89, fol. 8 respectively) that he escaped and lived on until 656. # Li I-chi [**] played a somewhat similar part in 203 B.C., when sent by the King of Han to open peaceful negotiations with Ch'i. He has certainly more claim to be described as a #; for the King of Ch'i, being subsequently attacked without warning by Han Hsin, and infuriated by what he considered the treachery of Li I-chi, ordered the unfortunate envoy to be boiled alive.
+
+^167:* Ch'ien Han Shu, ch. 43, fol. 1. # Yen Shih-ku in loc. says: #.
+
+^167:2 This is the ordinary class of spies, properly so called, forming a regular part of the army. Tu Mu says: # "Your surviving spy must be a man of keen intellect, though [p. 168] in outward appearance a fool; of shabby exterior, but with a will of iron. He must be active, robust, endowed with physical strength and courage; thoroughly accustomed to all sorts of dirty work, able to endure hunger and cold, and to put up with shame and ignominy." Ho Shih tells the following story of # Ta-hsi Wu of the Sui dynasty: "When he was governor of Eastern Ch'in, # Shen-wu of Ch'i made a hostile movement upon # Sha-yuan. The Emperor T'ai Tsu [? Kao Tsu] sent Ta-hsi Wu to spy upon the enemy. He was  by two other men. All three were on horseback and wore the enemy's uniform. When it was dark, they dismounted a few hundred feet away from the enemy's camp and stealthily crept up to listen, until they succeeded in catching the passwords used by the army. Then they got on their horses again and boldly passed through the camp under the guise of night-watchmen (#); and more than once, happening to come across a soldier who was committing some breach of discipline, they actually stopped to give the culprit a sound cudgelling! Thus they managed to return with the fullest possible information about the enemy's dispositions, and received warm commendation from the Emperor, who in consequence of their report was able to inflict a severe defeat on his adversary." With the above classification it is interesting to compare the remarks of Frederick the Great: [***] "Es giebt vielerley Sorten von Spions: 1. Geringe Leute, welche sich von diesem Handwerk meliren. 2. Doppelte Spions. 3. Spions von Consequenz, and endlich 4. Diejenigen, welche man zu diesem unglucklichen Hankwerk zwinget." This of course is a bad cross-division. The first class ("Burgersleute, Bauern, Priesters, etc.") corresponds roughly to Sun Tzu's "local spies," and the third to "inward spies." Of "Doppelte Spions" it is broadly stated that they are employed "um dem Feinde falsche Nachrichten aufzubinden." Thus they would include both converted and doomed spies. Frederick's last class of spies does not appear in Sun Tzu's list, perhaps because the risk in using them is too great.
+
+^167:** [p. 168] "Unterricht des Konigs von Preussen an die Generale seiner Armeen," cap. 1 (edition of 1794).
+
+^168:1 The original text and the T'u Shu have # in place of the first #. Tu Mu and Mei Yao-ch'en point out that the spy is privileged to enter even the general's private sleeping-tent. Capt. Calthrop has an inaccurate translation: "In connection with the armies, spies should be treated with the greatest kindness."
+
+^169:1 Frederick concludes his chapter on spies with the words: "Zu allem diesem fuge ich noch hinzu, dass man in Bezahlung der Spions freygebig, ja verschwenderisch seyn muss. Ein Mench, der um eures Dienstes halber den Strick waget, verdienet dafur belohnet zu werden."
+
+^169:2 Tu Mu gives a graphic touch: #, that is to say, all communications with spies should be carried on "mouth-to-ear." Capt. Calthrop has: "All matters relating to spies are secret," which is distinctly feeble. An inferior reading for # is #. The following remarks on spies may be quoted from Turenne, who made perhaps larger use of them than any previous commander: "Spies are attached to those who give them most, he who pays them ill is never served. They should never be known to anybody; nor should they know one another. When they propose anything very material, secure their persons, or have in your possession their wives and children as hostages for their fidelity. Never communicate anything to them but what it is absolutely necessary that they should know." [**]
+
+^169:* "Marshal Turenne," p. 311.
+
+^169:3 This is the nuance of Tu Yu's paraphrase #.
+
+^169:4 Mei Yao-ch'en says: # "In order to use them, one must know fact from falsehood, and be able to discriminate between honesty and double-dealing." Wang Hsi takes # and # separately, defining the former as # "intuitive perception" and the latter as # "practical intelligence." Tu Mu strangely refers these attributes to the spies themselves: # "Before using spies we must assure ourselves as to their integrity of character and the extent of their experience and skill." But he continues: # "A brazen face and a crafty disposition are more dangerous than mountains or rivers; it takes a man of genius to penetrate such." So that we are left in some doubt as to his real opinion on the passage.
+
+^170:1 Chang Yu says that # means "not grudging them honours and pay;" # "showing no distrust of their honesty." "When you have attracted, them by substantial offers, you must treat them with absolute sincerity; then they will work for you with all their might."
+
+^170:2 Mei Yao-ch'en says: "Be on your guard against the possibility of spies going over to the service of the enemy." The T'ung Tien and Yu Lan read # for #.
+
+^170:3 Cf. VI.  section 9: #. Capt. Calthrop translates: "Wonderful indeed is the power of spies."
+
+^170:4 The Chinese here is so concise and elliptical that some expansion is necessary for the proper understanding of it. # denotes important information about the enemy obtained from a surviving spy. The subject of #, however, is not this information itself, but the secret stratagem built up on the strength of it. # means "is heard"--by anybody else. Thus, word for word, we get: "If spy matters are heard before [our plans] are carried out," etc. Capt. Calthrop, in translating # "the spy who told the matter, and the man who repeated the same," may appeal to the authority of the commentators; but he surely misses the main point of Sun Tzu's injunction. For, whereas you kill the spy himself # "as a punishment for letting out the secret," the object of killing the other man is only, as Ch'en Hao puts it, # "to stop his mouth" and prevent the [p. 171] news leaking any further. If it had already been repeated to others, this object would not be gained. Either way, Sun Tzu lays himself open to the charge of inhumanity, though Tu Mu tries to defend him by saying that the man deserves to be put to death, for the spy would certainly not have told the secret unless the other had been at pains to worm it out of him. The T'ung Tien and Yu Lan have the reading ... #, etc., which, while not affecting the sense, strikes me as being better than that of the standard text. The T'u Shu has ... #, which I suppose would mean: "the man who heard the secret and the man who told it to him."
+
+^171:1 # is a comprehensive term for those who wait on others, servants and retainers generally. Capt. Calthrop is hardly happy in rendering it "right-hand men."
+
+^171:2 #, literally "visitors," is equivalent, as Tu Yu says, to # "those whose duty it is to keep the general supplied with information," which naturally necessitates frequent interviews with him. Chang Yu goes too far afield for an explanation in saying that they are # "the leaders of mercenary troops.".
+
+^171:3 # and #.
+
+^171:4 #, according to Chang Yu, is simply # "a general on active service." Capt. Calthrop is wrong, I think, in making # directly dependent on (... "the names of the general in charge," etc.).
+
+^171:5 As the first step, no doubt, towards finding out if any of these important functionaries can be won over by bribery. Capt. Calthrop blunders badly with: "Then set the spies to watch them."
+
+^172:1 # is omitted by the T'ung Tien and Yu Lan. Its recurrence is certainly suspicious, though the sense may seem to gain by it. The T'u Shu has this variation: . . . #, etc.
+
+^172:2 # is probably more than merely # or "detain." Cf.  section 25 ad fin., where Sun Tzu insists that these converted spies shall be treated well. Chang Yu's paraphrase is #.
+
+^172:3 Tu Yu expands # into # "through conversion of the enemy's spies we learn the enemy's condition." And Chang Yu says: # "We must tempt the converted spy into our service, because it is he that knows which of the local inhabitants are greedy of gain, and which of the officials are open to corruption." In the T'ung Tien, # has been altered to #, doubtless for the sake of uniformity with  section 9.
+
+^172:4 "Because the converted spy knows how the enemy can best be deceived!' (Chang Yu) The T'ung Tien text, followed by the Yu Lan, has here the obviously interpolated sentence #.
+
+^172:5 Capt. Calthrop omits this sentence.
+
+^173:1 I have ventured to differ in this place from those commentators--Tu Yu and Chang Yu--who understand # as #, and make # the antecedent of # (the others ignoring the point altogether). It is plausible enough that Sun Tzu should require the ruler to be familiar with the methods of spying (though one would rather expect # "general" in place of #). But this involves taking # here in quite a different way from the # immediately following, as also from those in the previous sentences. # there refers vaguely to the enemy or the enemy's condition, and in order to retain the same meaning here, I make # a verb, governed by #. Cf. XI.  section 19, where # is used in exactly the same manner. The sole objection that I can see in the way of this interpretation is the fact that the #, or fourth variety of spy, does not add to our knowledge of the enemy, but only misinforms the enemy about us. This would be, however, but a trivial oversight on Sun Tzu's part, inasmuch as the "doomed spy" is in the strictest sense not to be reckoned as a spy at all. Capt. Calthrop, it is hardly necessary to remark, slurs over the whole difficulty.
+
+^173:2 As explained in  section section 22-24. He not only brings information himself, but makes it possible to use the other kinds of spy to advantage.
+
+^173:3 Sun Tzu means the # Shang dynasty, founded in 1766 B.C. Its name was changed to Yin by # P'an Keng in 1401.
+
+^173:4 Better known as # I Yin, the famous general and statesman who took part in Ch'eng T'ang's campaign against # Chieh Kuei.
+
+^174:1 # Lu Shang, whose "style" was #, rose to high office under the tyrant # Chou Hsin, whom he afterwards helped to overthrow. Popularly known as #, a title bestowed on him by Wen Wang, he is said to have composed a treatise on war, erroneously identified with the #.
+
+^174:2 There is less precision in the Chinese than I have thought it well to introduce into my translation, and the commentaries on the passage are by no means explicit. But, having regard to the context, we can hardly doubt that Sun Tzu is holding up I Chih and Lu Ya as illustrious examples of the converted spy, or something closely analogous. His suggestion is, that the Hsia and Yin dynasties were upset owing to the intimate knowledge of their weaknesses and shortcomings which these former ministers were able to impart to the other side. Mei Yao-ch'en appears to resent any such aspersion on these historic names: "I Yin and Lu Ya," he says, "were not rebels against the Government (#). Hsia could not employ the former, hence Yin employed him. Yin could not employ the latter, hence Chou employed him. Their great achievements were all for the good of the people." Ho Shih is also indignant: # "How should two divinely inspired men such as I and Lu have acted as common spies? Sun Tzu's mention of them simply means that the proper use of the five classes of spies is a matter which requires men of the highest mental calibre like I and Lu, whose wisdom and capacity qualified them for the task. The above words only emphasise this point." Ho Shih believes then that the two heroes are mentioned on account of their supposed skill in the use of spies. But this is very weak, as it leaves totally unexplained the significant words # and #. Capt. Calthrop speaks, rather strangely, of "the province of Yin ... the country of Hsia ... the State of Chu ... the people of Shang."
+
+^174:3 [p. 175] Ch'en Hao compares  section 15: . He points out that # "the god-like wisdom of Ch'eng Tang and Wu Wang led them to employ I Yin and Lu Shang." The T'u Shu omits #.
+
+^175:1 Tu Mu closes with a note of warning: # "Just as water, which carries a boat from bank to bank, may also be the means of sinking it, so reliance on spies, while productive of great results, is oft-times the cause of utter destruction."
+
+^175:2 The antecedent to # must be either # or # understood from the whole sentence. Chia Lin says that an army without spies is like a man without ears or eyes.
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 176]
+
+  
+
+CHINESE CONCORDANCE
+
+  
+
+(omitted)
+
+[]
+
+      
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 192]
+
+  
+
+INDEX
+
+[The numerals refer to pages]
+
+Abstract ideas of degree, <page 50>.
+
+Accessible ground, <page 100>, <page 100>, <page 119>.
+
+Accommodating oneself to the enemy, <page 145>, <page 148>.
+
+Adaptation to circumstances, <page 23>.
+
+Aides de-camp, <page 171>.
+
+"Aids to Scouting," quoted, <page 88>, <page 89>, <page 107>, <page 164>.
+
+Alliances, <page 60>, <page 119>, <page 140>, <page 142>.
+
+Allotments of land, <page 62>.
+
+Alps, crossings of the. <page 57>.
+
+Amiot, Pere, <page vii>, <page 1>.
+
+Anger, succeeded by gladness, <page 159>.
+
+Army, divisions of the, <page 17>, <page 33>.
+
+Army on the march, <page 140>.
+
+Arsenals, burning of, <page 151>.
+
+"Art of War," quoted by Han Hsin, <page 144>.
+
+Art of war in a nutshell, <page 44>.
+
+Athletics, <page 124>.
+
+Attack, skill in, <page 28>.
+
+Attack and defence, <page 25>, <page 44>.
+
+Autumn hair, <page 29>.
+
+ 
+
+Baden-Powell, General. See "Aids to Scouting."
+
+Baggage, <page 58>.
+
+Baggage-train, <page 60>.
+
+Baggage-trains, burning of, <page 151>.
+
+Bait, offered by the enemy, <page 68>.
+
+Balancing of chances, <page 31>.
+
+Banners. See Flags and banners.
+
+Bases of supply, <page 60>.
+
+Beasts, startled, sign of surprise attack, <page 89>.
+
+Belgians at Waterloo, <page 130>. Benevolence to spies, <page 170>.
+
+Biot's Chou Li, <page ix>.
+
+Birds rising, sign of ambuscade, <page 89>.
+
+Blucher, <page 48>.
+
+Bluster, <page 95>.
+
+Boers, <page 18>.
+
+"Book of Army Management,'' <page 63>.
+
+Buff-coats, <page 58>.
+
+Burning one's boats, <page 133>.
+
+Calamities, six, <page 105>.
+
+Calthrop, Capt.: his edition of Sun Tzu's text, <page xxxii>; his translation of Sun Tzu, <page viii>; quoted, passim.
+
+Camp, shifting, <page 133>.
+
+Camping, <page 80> sqq.
+
+Cannae, battle of, <page 11>.
+
+Casinum, <page 140>.
+
+"Catalogue of Chinese Books," <page xxxiv>.
+
+Chan Kuo Ts'e, quoted, to; referred to, <page xxiv>.
+
+Chan Tou Ta Chia Ping Fa, <page xviii>.
+
+Chang Ao, a commentator, <page xlii>.
+
+Chang Hsiu, <page 69>.
+
+Chang Liang, li, <page 109>, <page 116>.
+
+Chang Ni, <page 144>.
+
+Chang Shang-ying, <page lii>.
+
+Chang Shou-chieh, <page xvi>, <page xvii>.
+
+Chang Tsai, <page li>.
+
+Chang Tzu-shang, a commentator, <page xli>.
+
+[p. 193]
+
+Chang Yu's commentary on Sun Tzu, <page xl>; quoted, <page 5>, <page 8>, <page 9>, II, <page 20>, <page 21>, <page 22>, <page 24>, <page 25>, <page 27>, <page 30>, <page 33>, <page 34>, <page 35>, <page 39>, <page 42>, <page 44>, <page 46>, <page 49>, <page 50>, <page 51>, <page 55>, <page 56>, <page 58>, <page 60>, <page 63>, <page 64>, <page 65>, <page 66>, <page 68>, <page 69>, <page 72>, <page 73>, <page 74>, <page 75>, <page 76>, <page 77>, <page 78>, <page 80>, <page 81>, <page 82>, <page 83>, <page 85>, <page 87>, <page 88>, <page 89>, <page 90>, <page 92>, <page 94>, <page 97>, <page 99>, <page 103>, <page 105>, <page 107>, <page 109>, <page 111>, <page 112> <page 119>, <page 124>, <page 125>, <page 126>, <page 127>, <page 131>, <page 132>, <page 133>, <page 134>, <page 136>, <page 139>, <page 141>, <page 142>, <page 143>, <page 145>, <page 152>, <page 155>, <page 156>, <page 158>, <page 159>, <page 161>, <page 163>, <page 167>, <page 170>, <page 171>, <page 172>; referred to, <page 6>, <page 15>, <page 17>, <page 31>, <page 36>, <page 45>, <page 71>, <page 86>, <page 95>, <page 96>, <page 106>, <page 147>, <page 153>, <page 173>.
+
+Ch'ang mountains, <page 128>.
+
+Ch'ang-cho, battle of, <page 66>.
+
+Ch'ang-she, siege of, <page 154>.
+
+Chao State, army of, <page 28>, <page 143>; defeated by Chin, <page 166>; King of, <page 57>.
+
+Chao Chan, <page 106>.
+
+Chao Kua, <page xlviii>, <page 166>.
+
+Chao She, famous march of, <page 57>, <page 136>; his use of spies, <page 166>.
+
+Chao Yeh, <page xiv>.
+
+Chao Ying-ch'i, <page 78>.
+
+Chao Yuan-hao's rebellion, <page xli>.
+
+Ch'ao Kung-wu, quoted, <page xxxvi>, <page xxxvii>, <page xxxviii>. <page xl>, <page xli>.
+
+Chariots, <page 9>, <page 91>
+
+Chariot fighting, <page 15>, <page 16>.
+
+Chariot wheels, burying of, <page 129>.
+
+Chavannes, M.: his "Memoires Historiques" referred to, <page xiii>, <page xvi>, <page xlvi>, <page 57>.
+
+Ch'en Chen-sun, quoted, <page xxiii>.
+
+Ch'en Hao's commentary on Sun Tzu, <page xxxvi>, <page xxxviii>; quoted, <page 30>, <page 44>, <page 56>, <page 62>, <page 65>, <page 69>, <page 73>, <page 81>, <page 93>, <page 97>, <page 106>, <page 108>, <page 110>, <page 117>, <page 118>, <page 122>, <page 124>, <page 133>, <page 136>, <page 141>, <page 147>, <page 152>, <page 170>, <page 175>; referred to, <page 18>, <page 68>.
+
+Ch'en-ts'ang, siege of, <page 94>.
+
+Cheng, principality of, <page 104>, <page 116>.
+
+Cheng and ch'i. See Tactics, direct and indirect.
+
+Cheng Ch'iao, <page xl>.
+
+Cheng Hou, quoted, <page xliii>.
+
+Cheng Hsuan's commentary on the Chou Li, <page xviii>.
+
+Cheng Tuan, <page xlii>.
+
+Cheng Yu-hsien's I Shuo, <page xxxii>, <page xxxiv>; referred to, <page 36>, <page 53>, <page 58>, <page 70>, <page 136>.
+
+Cheng-an, city of, captured by Han Hsin, <page 28>.
+
+Ch'eng-hung, battle of, <page 78>.
+
+Ch'eng T'ang, <page xvi>, <page 173>, <page 175>.
+
+Chi Hsieh, editor of commentaries on Sun Tzu, <page xxxviii>, <page xli>.
+
+Chi-mo, siege of,. <page 90>.
+
+Chi T'ien-pao's edition of Sun Tzu, <page xxxi>, <page xxxii>, <page xxxiii>, <page xxxvi>, <page xxxvii>.
+
+Ch'i State, xii, xvi, <page 128>.
+
+Ch'i Chieh, <page 90>.
+
+Chia Hsu, a commentator, <page xli>.
+
+Chia-ku, meeting at, <page xlvii>.
+
+Chia Lin's commentary on Sun Tzu, <page xxxvi>, <page xxxviii>; quoted, <page 20>, <page 30>, <page 34>, <page 46>, <page 50>, <page 57>, <page 72>, <page 75>, <page 76>, <page 86>, <page 92>, <page 94>, <page 95>, <page 97>, <page 117>, <page 120>, <page 133>, <page 143>, <page 148>, <page 152>, <page 157>, <page 175>; referred to, <page 51>, <page 55>. <page 62>, <page 65>, <page 96>, <page 108>, <page 164>.
+
+Chia Yu, referred to, <page xlvii>.
+
+Chiang-ling, town of, <page 111>.
+
+Chiang Yuan, a spurious work, <page lii>.
+
+Chieh Kuei, the tyrant, <page 173>.
+
+Chieh-li, a Turkish Khan, <page 167>.
+
+Ch'ien Ch'io Lei Shu, <page liii>.
+
+Ch'ien Fu Lun, referred to, <page xxiv>.
+
+Ch'ien Han Shu, quoted <page 81>, <page 145>, <page 167>; referred to, <page li>, <page 28>, <page 34>, <page 57>, <page 69>; bibliographical section of, quoted, <page xvii>, <page xix>, <page li>; referred to, <page xviii>, <page xx>, <page liii>.
+
+Ch'ih Yu, <page 84>.
+
+Ch'in State, <page xii>, <page xvi>, <page 106>.
+
+Chin Shu, quoted, <page 78>, <page 116>; referred to, <page 123>, <page 165>.
+
+Ch'in State, <page 142>.
+
+China's experience of war, <page xliv>.
+
+Chinese characters, elasticity of, <page 159>.
+
+Chinese sentiment opposed to militarism, <page xliv>.
+
+Ching, Duke of Ch'i, <page xv>.
+
+[p. 194]
+
+Ching-chou Fu, <page 123>.
+
+Ching-hsing pass, battle of, <page 143>.
+
+Ching K'o, <page 127>.
+
+Ching Wang, period of, <page xxiii>.
+
+Chiu T'ang Shu, referred to, <page 104>, <page 167>; bibliographical section of, referred to, <page liii>.
+
+Chou Ch'in Shih I Tzu, text of Sun Tzu in, <page xxxi>.
+
+Chou dynasty, <page 174>.
+
+Chou Hsin, the tyrant, <page l>, <page 174>.
+
+Chou Li quoted, <page 14>, <page 55>, <page 60>, <page 68>, <page 92>, <page 146>; referred to, <page xxxix>, <page xlviii>, <page 64>; Biot's translation of, <page ix>.
+
+Chu Chih-wu, <page xxi>.
+
+Chu Fu's edition of Sun Tzu, <page xvii>, <page xxxi>.
+
+Chu Hsi, corrected by Legge, <page 32>; quoted, <page xliii>, <page xlvii>.
+
+Chu-ko Liang, <page 46>, <page 51>, <page 74>, <page 82>, <page 117>, <page 122>; supposititious works of, <page lii>.
+
+Chu-ko Wu-hou. See Chu-ko Liang.
+
+Ch'u State, <page xii>, <page xiii>, xvi, <page 124>; the hereditary enemy of Wu, <page xxvii>; Viscount of, <page 110>.
+
+Chuan Chu, <page xxi>, <page 128>.
+
+Chuan She-chu. See Chuan Chu.
+
+Chuang, Duke of Lu, <page 66>.
+
+Chuang, Prince of Ch'u, <page 141>, <page 162>.
+
+Chuang Tzu, referred to, <page 29>, <page 85>. 
+
+Chung Yung, <page xix>.
+
+Circumstances, art of studying, <page 68>.
+
+Classics, compared with Sun Tzu, <page xliii>.
+
+Clearness of orders, <page 107>.
+
+Clever fighter, the, <page 29>, <page 41>, <page 42>.
+
+Cohesion, <page 134>.
+
+Collapse, one of the six calamities, <page 105>, <page 106>.
+
+Columns, marching in, <page 49>.
+
+Commander, the, <page 2>, <page 3>. See also General.
+
+Commander-in-chief, killing the, <page 145>; presence of mind of the, <page 66>.
+
+Commentary, native, on Sun Tzu, <page ix>, <page xxxiv> sqq.
+
+Communications, line of, <page 101>, <page 119>.
+
+Compactness, <page 61>.
+
+Confucius, and the art of war, <page xlvi>, <page xlvii>, <page xlviii>, contemporary with Sun Tzu, <page xxx>; violates extorted oath, <page xlix>.
+
+Constellations, <page 153>.
+
+Contentious ground, <page 115>, <page 118>, <page 136>.
+
+Contraction and expansion, <page 134>.
+
+Conventional canons of warfare, <page 148>.
+
+Co-operation, <page 129>.
+
+Council-chamber, sternness in the, <page 146>.
+
+Country, natural features of, <page 60>.
+
+Courage, one standard of, <page 130>.
+
+Courant's "Catalogue des Livres Chinois," <page lii>.
+
+Cowardice, <page 78>.
+
+Critical ground, <page 134>, <page 135>.
+
+Cromwell's use of spies, <page 164>.
+
+Cross-divisions, <page 100>.
+
+Cunning, <page 145>.
+
+ 
+
+Danger, bracing effect of, <page 139>, <page 145>.
+
+Dangerously isolated ground, <page 72>.
+
+Deception, war based on, <page 6>, <page 132>.
+
+Decision, <page 37>, <page 38>.
+
+Deductive calculation, <page 163>.
+
+Defence, skill in, <page 27>.
+
+Deliberation, <page 63>.
+
+Demosthenes, the Athenian general, <page 118>.
+
+Desertion, <page 134>, <page 136>.
+
+Desperado, running amok, <page 125>.
+
+Desperate foe, not to be pressed, <page 69>, <page 94>.
+
+Desperate ground, <page 72>, <page 114>, <page 1> <page 17>, <page 120>, <page 125>, <page 126>, <page 135>, <page 138>, <page 143>.
+
+Deviation, artifice of, <page 57>, <page 63>.
+
+Difficult , <page 71>, <page 117>, <page 120>, <page 137>.
+
+Disaffection, signs of, <page 95>.
+
+Discipline, <page 2>, <page 3>, <page 4>, <page 98>, <page 111>.
+
+Disorder, seeming, <page 38>.
+
+Disorganisation. <page 105>, <page 107>.
+
+Dispersive ground, <page 114>, <page 118>, <page 135>.
+
+Disposition of troops, <page 26>.
+
+Dispositions, concealment of, <page 51>, <page 52> knowledge of the enemy's, <page 163>.
+
+Dissimulation, <page 61>.
+
+[p. 195]
+
+Dividing the enemy, <page 47>.
+
+Divination, to be prohibited, <page 126>.
+
+"Divine manipulation of the threads," <page 164>.
+
+Door, left open by the enemy, <page 147>.
+
+Doorkeepers, <page 171>.
+
+Drums, <page 34>, <page 64>, <page 65>.
+
+Dust, sign of the enemy, <page 89>.
+
+ 
+
+Earth, as opposed to Heaven, <page 2>, <page 4>, <page 27>, <page 28>, <page 113>; six principles connected with, <page 104>.
+
+Economy, false, <page 162>.
+
+Energy, <page 38>, <page 39>, <page 41>; concentration of, <page 124>.
+
+Entangling ground, too, <page 102>.
+
+Enterprise, the spirit of, <page 157>.
+
+Enticing the enemy, <page 102>.
+
+Erh-chu Chao, <page 138>.
+
+Erh Ya, quoted, <page 94>.
+
+Excellence, supreme, <page 17>; the acme of, <page 28>.
+
+Expenditure on war, <page 9>, <page 10>, <page 160>.
+
+ 
+
+Fabius Cunctator, <page 11>, <page 120>.
+
+Facile ground, <page 115>, <page 118>, <page 135>, <page 136>.
+
+Fan Chu's use of spies, <page 166>.
+
+Fei River, battle of the, <page 25>.
+
+Feng Hou, <page lii>, <page 84>.
+
+Feng I, a student of Sun Tzu, <page xlii>.
+
+Fire, as an aid to the attack, <page 156>; dropping, <page 151>, <page 152>; five ways of attacking with, <page 150>; material for, <page 152>; proper seasons for attacking with, <page 152>, <page 153>; to be started on the windward side, <page 155>.
+
+Five advantages, the, <page 72>, <page 74>, <page 75>.
+
+Five cardinal tastes, <page 36>.
+
+Five cardinal virtues, <page 3>.
+
+Five classes of State ceremonial, <page xlviii>.
+
+Five dangerous faults, <page 77>.
+
+Five developments in attacking with fire, <page 153> sqq.
+
+Five elements, the, <page 53>.
+
+Five essentials for victory, <page 23>, <page 24>.
+
+Five factors in war, r.
+
+Five musical notes, <page 36>.
+
+Five Pa Wang, <page xlix>, <page 141>.
+
+Five primary colours, <page 36>.
+
+Flags and banners, <page 16>, <page 34>, <page 64>, <page 65>.
+
+Flat country, campaigning in, <page 83>, <page 84>.
+
+Flight, <page 105>.
+
+Foraging, <page 12>, <page 15>, <page 123>, <page 161>.
+
+Foreknowledge, <page 163>.
+
+Forestalling the enemy, <page 147>.
+
+Forethought, want of, <page 97>.
+
+"Forty-one Years in India," referred to, <page 35>.
+
+Four seasons, the, <page 54>.
+
+Frederick the Great, quoted, <page 48>, <page 168>, <page 169>.
+
+Frontier passes, <page 146>.
+
+Frontal attacks, <page 45>.
+
+Fu Ch'ai, <page xvi>.
+
+Fu Chien, <page 25>, <page 115>.
+
+Fu-ch'u, King of Ch'u, <page 124>.
+
+Fu Kai, <page xxiii>, <page xxix>.
+
+Fu-k'ang-an, <page 63>.
+
+Fu Yen-ch'ing, <page 69>, <page 70>.
+
+ 
+
+General, the, <page 4>, <page 5>, <page 7>, <page 8>, <page 15>, <page 16>, <page 19>, <page 21>, <page 44>, <page 55>, <page 66>, <page 77>, <page 98>, <page 107>, <page 109>, <page 110>, <page 130>, <page 131>, <page 134>, <page 157>, <page 159>, <page 163>, <page 171>, <page 174>.
+
+Generals, professional, <page xxii>.
+
+Generalship, degrees of, <page 17>, <page 18>; the highest, <page 48>.
+
+Giles' Biographical Dictionary, quoted, <page 128>.
+
+Giles' Chinese-English Dictionary, referred to, <page 57>, <page 134>.
+
+Gongs, <page 34>, <page 64>.
+
+Grant, General, <page 47>.
+
+Great Wall of China, <page xliv>.
+
+Greeks, Homeric, <page 9>.
+
+Grindstone and egg, <page 35>.
+
+Ground, high and low, <page 84>; of intersecting highways, <page 71>, <page 116>, <page 119>, <page 135>, <page 137>; proper use of, <page 130>.
+
+Grounds, the nine, <page 114>, <page 134>, <page 138>.
+
+Guides, local, <page 60>, <page 140>.
+
+ 
+
+Han, red banners of, <page 144>.
+
+Han Chih. See Ch'in Han Shu, bibliographical section of.
+
+[p. 196]
+
+Han Kuan Chieh Ku, quoted, <page xx>. Han Hsin, <page xliv>, <page 28>, <page 33>, <page 34>, <page 81>, <page 143>, <page 167>; a student of Sun Tzu, <page xlii>; quoted, <page 68>.
+
+Han Shu. See Ch'ien Han Shu.
+
+Hannibal, <page 11>, <page 57>, <page 66>, <page 120>, <page 140>.
+
+Hasty temper, <page 78>.
+
+Hearing, quick, <page 29>.
+
+Heaven, <page 2>, <page 4>, <page 28>, <page 113>.
+
+Heights, precipitous, <page 100>, <page 103>.
+
+Hemmed-in ground, <page 72>, <page 117>, <page 120>, <page 135>, <page 137>.
+
+Henderson, Col., quoted, <page 6>, <page 42>, <page 48>, <page 52>, <page 59>, <page 101>, <page 130>, <page 131>.
+
+Herodotus, referred to, <page 129>.
+
+Ho Ch'u-fei, <page xl>.
+
+Ho Kuan Tzu, referred to, <page xxiv>.
+
+Ho Lu (or Ho Lu), King of Wu, <page xi>, <page xiii>, <page xvi>, <page xvii>, <page xviii>, <page xxvi>, <page 5>, <page 128>.
+
+Ho Shih. See Ho Yen-hsi.
+
+Ho-yang, night ride to, <page 65>.
+
+Ho Yen-hsi's commentary on Sun Tzu, <page xl>; quoted, <page 11>, <page 14>, <page 16>, <page 18>, <page 21>, <page 29>, <page 30>, <page 34>, <page 56>, <page 69>, <page 74>, <page 110>, <page 115>, <page 116>, <page 122>, <page 147>, <page 165>, <page 166>, <page 167>, <page 168>, <page 174>; referred to, xvii, <page 31>, <page 43>, <page 62>, <page 152>.
+
+Horses, tethering of, <page 129>.
+
+Hou Han Shu, quoted, <page 10>, <page 94>, <page 132>, <page 139>, <page 151>, <page 155>; referred to, <page xlii>.
+
+Hsi, the graduate, <page xxxiii>.
+
+Hsia dynasty, <page 174>.
+
+Hsiang, Duke of Sung, <page xlix>, <page 141>. Hsiang Chi, <page xlix>, <page 133>.
+
+Hsiang Liang, <page xlix>.
+
+Hsiang Yu. See Hsiang Chi.
+
+Hsiao State, <page 110>.
+
+Hsiao Chi, a commentator, <page xli>.
+
+Hsiao Hsien, <page 123>.
+
+Hsiao I, <page 153>, <page 166>.
+
+Hsiao Shih-hsien. See Hsiao I.
+
+Hsieh An, <page 25>.
+
+Hsieh Yuan, a commentator, <page xlii>.
+
+Hsien Hu, <page 106>.
+
+Hsin-ch'eng, town of, <page 122>.
+
+Hsin Hsu, <page xiv>.
+
+Hsin Shu (by Ts'ao Kung), <page xix>, <page xxxvi>.
+
+Hsin Shu (a work attributed to Chu-ko Liang), <page lii>.
+
+Hsin Tang Shu, referred to, <page 65>, <page 104>, <page 105>, <page 123>, <page 167>; bibliographical section of, referred to, <page xviii>, <page liii>.
+
+Hsing Li Hui Yao, quoted, <page xliii>, <page xlviii>.
+
+Hsing Shih Pien Cheng Shu, <page xv>.
+
+Hsiung-nu, <page 39>, <page 139>, <page 150>.
+
+Hsu Ch'ieh, quoted, <page 160>.
+
+Hsu-chou, invaded by Ts'ao Ts'ao, <page 73>.
+
+Hsu Wen Hsien T'ung K'ao, <page liii>.
+
+Hsuan Tsung, T'ang Emperor, <page xxxii>.
+
+Hsun Tzu, quoted, <page 80>.
+
+Hsun Ying, <page 73>.
+
+Hu Yen, <page xiii>.
+
+Hua-pi, city of, <page 73>.
+
+Hua-yin temple, <page xxxii>.
+
+Huai-nan Tzu, plagiary of Sun Tzu, <page xxiv>; quoted, <page xiv>.
+
+Huan, Duke of Ch'i, <page 128>, <page 141>.
+
+Huan Ch'ung, <page 25>.
+
+Huan Hsuan, <page 78>.
+
+Huang Ch'ao Ching Shih Wen Pien, <page liii>.
+
+Huang Chih-cheng, a commentator, <page xlii>.
+
+Huang Jun-yu, a commentator, <page xli>.
+
+Huang Mei, <page 78>.
+
+Huang-shih Kung, <page li>; quoted, <page 109>, <page 126>.
+
+Huang Ti. See Yellow Emperor.
+
+Huang-fu Sung, <page 94>, <page 154>, <page 155>.
+
+Human nature, to be studied, <page 134>.
+
+Humanity, misplaced, <page xlix>; soldiers to be treated with, <page 98>.
+
+Husbanding one's strength, <page 67>.
+
+Husbandry, impeded by war, <page 161>.
+
+ 
+
+I river, <page 127>.
+
+I Chih, <page 173>, <page 174>. <page 175>.
+
+I Ching, quoted, <page xv>.
+
+I-chou, <page 165>.
+
+I-ho, <page 115>.
+
+I Pu Che Chung, <page xliii>.
+
+I Shuo. See Cheng Yu-hsien.
+
+I-wu pass, <page 115>.
+
+[p. 197]
+
+I Yin. See I Chih.
+
+Iliad, heroes of the, <page 127>.
+
+Impoverishment of the people, <page 13>, <page 14>.
+
+Induction from experience, <page 163>.
+
+Inhumanity, the height of, <page 162>.
+
+Insubordination, <page 105>.
+
+Intuition necessary in dealing with spies, <page 169>.
+
+Invading force, principles to be observed by an, <page 123>.
+
+ 
+
+Jackson, Stonewall, <page 59>, <page 131>.
+
+Jan Yu, disciple of Confucius, <page xlvi>, <page xlviii>.
+
+Jang, siege of, <page 69>.
+
+Jingles, <page 149>, <page 158>.
+
+, <page 111>.
+
+Julius Caesar, <page 12>; his "De Bello Gallico" referred to, <page 108>.
+
+Junction of forces, <page 48>.
+
+ 
+
+K'ang Hsi's dictionary, referred to, <page 10>, <page 18>, <page 35>, <page 68>, <page 95>, <page 117>, <page 152>, <page 157>, <page 160>.
+
+Kao-ch'ang, <page 115>.
+
+Kao-fan. See Hu Yen.
+
+Kao Huan, afterwards Emperor, <page 137>.
+
+Kao Keng, <page 151>.
+
+Kao Tsu, first Han Emperor, <page 33>, <page 39>, <page 119>.
+
+Kao Tsu, Sui .Emperor, <page 168>.
+
+Kao-wu pass, <page 115>.
+
+Khitans, <page 69>.
+
+Khotan, <page 132>.
+
+Kiangnan rebels under Sui dynasty, <page 151>.
+
+Kindness to the soldiers, <page 110>, <page 111>.
+
+Kou Chien, King of Yueh, <page xvi>, <page 50>
+
+Ku Chin T'u Shu Chi Ch'ing, quoted, <page xvi>, <page xxxvii>, <page xxxix>; referred to, <page xix>, <page xli>, <page li>, <page liii>. See also Sun Tzu, T'u Shu text of.
+
+Kuan Chung, <page 128>.
+
+Kuan Tzu, <page xxi>.
+
+Kuang, King of Shan-shan, <page 139>, <page 151>.
+
+Kuang Po Wu Chih, <page liii>.
+
+Kuang Wu, Han Emperor, <page li>.
+
+Kuei-ku Tzu, <page li>.
+
+K'uei-chou, <page 123>.
+
+K'un Wei Ch'un Ch'iu, <page xxxvi>.
+
+Kung-sun Hung, <page lii>.
+
+Kuo Ch'ao Shih Jen Cheng Lueh, <page xxxii>.
+
+Kuo Hsun, <page 151>.
+
+Kutcha, King of, <page 132>.
+
+ 
+
+Ladder, kicking away the, <page 133>.
+
+Ladysmith, relief of, <page 79>.
+
+Land-tenure, ancient system of, <page xxv>, <page 161>.
+
+Lao Tzu, the Tao of, <page 2>; quoted, <page 153>, <page 158>. See also Tao Te Ching.
+
+Legge's "Chinese Classics," referred to, <page ix>, <page xxiv>, <page 23>, <page 32>.
+
+Lengthy operations, <page 10>, <page 11>.
+
+Li, length of the, <page 9>.
+
+Li Chi, referred to, <page 23>, <page 147>.
+
+Li Ching, the general, <page xliv>, <page 41>, <page 123>, <page 167>; quoted, <page 35>, <page 66>, <page 87>, <page 111>, <page 118>; supposed author of a work on war, <page lii>.
+
+Li Ching Ping Fa, <page lii>.
+
+Li Chu, <page 29>.
+
+Li Ch'uan's commentary on Sun Tzu, <page xxxvi>; quoted, <page 9>, <page 11>, <page 18>, <page 21>, <page 2>. <page 24>, <page 25>, <page 28>, <page 30>, <page 32>, <page 34>, <page 38>, <page 46>, <page 49>, <page 50>, <page 51>, <page 55>, <page 60>, <page 65>, <page 67>, <page 68>, <page 72>, <page 73>, <page 81>, <page 83>, <page 84>, <page 89>, <page 92>, <page 97>, <page 105>, <page 106>, <page 110>, <page 113>, <page 114>, <page 115>, <page 117>, <page 118>, <page 119>, <page 136>, <page 142>, <page 150>, <page 158>, <page 163>, <page 167>; referred to, <page 52>, <page 95>, <page 123>, <page 127>, <page 151>.
+
+Li Hsiang, <page 165>.
+
+Li Hsiung, <page 165>.
+
+Li I-chi, <page 167>.
+
+Li Kuang-pi, <page 65>.
+
+Li Ling, <page 154>.
+
+Li Shih-min, afterwards the Emperor T'ai Tsung, <page xliv>, <page lii>, <page 35>, <page 104>, <page 167>.
+
+Li Shou-cheng, <page 70>.
+
+Li Tai Chi Shih Nien Piao, quoted, <page 70>, <page 116>, <page 166>.
+
+Li T'e, <page 165>.
+
+Li Ts'ai, a commentator, <page xlii>.
+
+Li Wei-kung: See Li Ching.
+
+[p. 198]
+
+Li Wei Kung Wen Tui, <page lii>.
+
+Liang, kingdom of, <page 94>.
+
+Liang-chou, <page 115>.
+
+Liang Hsi, <page 115>.
+
+Lien P'o, <page 57>, <page 166>.
+
+Lin-chin, in Shensi, <page 34>.
+
+Lin Hsiang-ju, <page 166>.
+
+Line of least resistance, <page 53>.
+
+Liu Chou-tzu, <page 53>.
+
+Liu Hsiang, quoted, <page xiv>, <page xxiv>.
+
+Liu Pei, <page 59>.
+
+Liu Piao, <page 69>.
+
+Liu T'ao (attributed to T'ai Kung), <page xxi>, <page l>, <page li>, <page 144>, <page 174>; quoted, <page 22>, <page 62>, <page 78>, <page 84>.
+
+Liu Yu, <page 78>.
+
+Livy, quoted, <page 66>, <page 120>, <page 140>.
+
+Lo Shang, <page 165>.
+
+Lo-yang, <page 104>.
+
+Logs and stones, rolling, <page 41>.
+
+Longevity, <page 127>.
+
+Lou Ching, <page 39>.
+
+Lu State, <page 128>.
+
+Lu Te-ming, quoted, <page li>.
+
+Lu Kuang, <page 115>.
+
+Lu Meng, a disciplinarian, <page 111>; a student of Sun Tzu, <page xlii>.
+
+Lu Pu, <page xxxv>.
+
+Lu Shang, known as T'ai Kung, <page 1>, <page 174>, <page 175>. See also Liu T'ao.
+
+Lu Shih Ch'un Ch'iu, referred to, <page xxiv>, <page 37>.
+
+Lu Wang (or Lu Ya). See Lu Shang.
+
+Luan Yen, <page 106>.
+
+Lun Yu, quoted, <page xv>, <page 146>; referred to, <page xlvii>, <page xlix>, <page 47>, <page 64>, <page 156>.
+
+Lung Chu, <page 85>.
+
+ 
+
+Ma Lung, <page lii>.
+
+Ma Tuan-lin, <page xl>. See also Wen Hsien Tung K'ao.
+
+Ma Yuan, <page 80>.
+
+Maiden, coyness of a, <page 148>.
+
+Mansfield, Lord, <page 143>.
+
+Mantlets, <page 14>, <page 18>.
+
+Marches, forced, <page 59>.
+
+Marengo, battle of, <page 57>.
+
+"Marshal Turenne," quoted, <page 73>, <page 169>; referred to, <page 61>.
+
+Marshes, <page 60>.
+
+Measures, of land, <page 14>; of length, <page 32>; of weight, <page 15>, <page 32>.
+
+Mei Yao-ch'en's commentary on Sun Tzu, <page xxxviii>; quoted, <page 4>, <page 6>, <page 7>, <page 11>, <page 29>, <page 34>, <page 38>, <page 40>, <page 44>, <page 47>, <page 61>, <page 63>, <page 79>, <page 84>, <page 85>, <page 86>, <page 93>, <page 94>, <page 95>, <page 96>, <page 100>, <page 102>, <page 121>, <page 129>, <page 130>, <page 131>, <page 135>, <page 136>, <page 137>, <page 138>, <page 141>, <page 145>, <page 147>, <page 148>, <page 153>, <page 155>, <page 157>, <page 161>, <page 162>, <page 163>, <page 164>, <page 168>, <page 169>, <page 170>, <page 174>; referred to, <page 15>, <page 23>, <page 43>, <page 46>, <page 51>, <page 106>, <page 151>.
+
+"Memoires concernant les Chinois," quoted, <page vii>.
+
+"Memoires Historiques," referred to, <page xvi>. See also Chavannes.
+
+Mencius, quoted, <page xxv>, <page xliii>, <page 14>, <page 85>; referred to, <page 29>, <page 32>, <page 112>, <page 148>.
+
+Meng K'ang, <page xxxvi>.
+
+Meng Shih's commentary on Sun Tzu, <page xxxvi>; quoted, <page 2>, <page 11>, <page 15>, <page 61>, <page 77>, <page 78>, <page 116>, <page 137>, <page 147>.
+
+Meng Ta. <page 122>.
+
+Method, <page 2>, <page 3>, <page 31>.
+
+"Military Classic," <page 144>.
+
+Military tactics like water, <page 53>.
+
+Military virtues, <page 22>.
+
+Misfortune, three ways in which a ruler can cause, <page 21> sqq.
+
+Mistakes, making no, <page 30>.
+
+Modern text of Sun Tzu. See Sun Tzu.
+
+Modification of plans, <page 5>.
+
+Moltke, <page 17>.
+
+Moods, art of studying, <page 67>.
+
+Moral Law, the, <page 2>, <page 4>, <page 31>.
+
+Mounds, used in sieges, <page 19>.
+
+Mountains, <page 80>.
+
+Movable shelters, <page 18>.
+
+Mu, Duke of Chin, <page 141>.
+
+Mu-so, an instrument of torture, <page xlvi>.
+
+Mu T'ien Tzu Chuan, <page 152>.
+
+Mystification of one's men, <page 131>.
+
+Nang Wa, <page xiii>.
+
+[p. 199]
+
+Napoleon Bonaparte, <page 5>, <page 52>, <page 148>; his passage across Alps, <page 57>; not hampered by central authority, <page 24>; his "Maximes de Guerre," quoted, <page 84>, <page 109>; his "Pensees," quoted, <page 101>.
+
+Nelson, at Trafalgar, <page 37>.
+
+Nervousness, a sign of, <page 93>.
+
+Nicias, the Athenian general, <page 118> speech of, quoted, <page 125>.
+
+Night-fighting, <page 65>.
+
+Nine grounds (or situations), the, <page 72>, <page 114>.
+
+Nine punitive measures, the, <page xxxix>.
+
+Nine variations, the, <page 71>, <page 72>, <page 74>, <page 138>.
+
+"North hill", battle of the, <page 57>.
+
+ 
+
+O-yu, town of, <page 57>.
+
+Omens, not to be regarded, <page 126>.
+
+Onset of troops, <page 37>, <page 38>.
+
+Open ground, <page 116>, <page 119>, <page 137>.
+
+Opportunism, <page xlix>.
+
+Orders, not to be divulged, <page 142>, <page 143>.
+
+Original text of Sun Tzu. See Sun Tzu.
+
+Ou-yang Hsiu, quoted, <page xxxiv>, <page xxxv>, <page xxxviii>.
+
+Overawing the enemy, <page 141>.
+
+Over-caution, <page 158>.
+
+Over-solicitude for one's men, <page 79>.
+
+ 
+
+Pa Chen T'u, xviii.
+
+Pa Wang, the five, <page 141>.
+
+Pan Ch'ao, <page 63>; at Shan-shan, <page 139>, <page 150>; his attack on Yarkand, <page 132>, <page 167>.
+
+P'an Keng, <page 173>.
+
+P'ang Chuan, <page xii>, <page 40>.
+
+Passes, narrow, <page 100>, <page 103>.
+
+Peace, the true object of war, <page 162>.
+
+Pei Ch'i Shu, referred to, <page 138>.
+
+Pei Lun, <page xl>.
+
+Pei T'ang Shu Ch'ao, <page 25>, <page 36>, <page 64>, <page 67>.
+
+P'ei Hsing-chien, <page 103>.
+
+P'ei Wen Yun Fu, quoted, <page 94>; referred to, <page xlvi>, <page 69>, <page 146>.
+
+Pelliot, M., <page xxxvi>.
+
+Pi, battle of, <page 106>.
+
+Pi I-hsun, <page xviii>, <page xxvi>, <page xxxiv>. See also Sun Tzu Hsu Lu.
+
+Pi Kua, <page xxxiii>.
+
+Pi-yang, city of, <page 73>.
+
+P'i, siege of, <page 165>.
+
+Picked soldiers in front rank, <page 107>, <page 108>.
+
+Ping Fa Tsa Chan, <page xviii>.
+
+Ping Shu Yao Chueh, <page 67>.
+
+Pique, battles not to be fought out, of, <page 158>.
+
+Pitfalls, <page 60>.
+
+Plagiaries of Sun Tzu, <page xxiii>, <page xxiv>.
+
+Plans, baulking the enemy's, <page 17>; change of, <page 5>, <page 132>.
+
+Plataea, battle of, <page 129>.
+
+Playfair's "Cities and Towns of China", referred to, <page 57>.
+
+Plunder, <page 62>.
+
+Po Ch'i, <page xliv>, <page 117>, <page 166>.
+
+Po Chiang Chuan, <page xli>.
+
+Po P'ei, <page xiii>, <page xxiii>, <page xxix>.
+
+Po-teng, battle of, <page 39>.
+
+Po-ts'ai, a leader of the Yellow Turban rebels, <page 154>.
+
+Po Ya, referred to, <page 160>.
+
+P'o-t'ai, a spy, <page 165>
+
+Polybius, referred to, <page 120>.
+
+Port Arthur, siege of, <page 19>.
+
+Presence of mind, <page 66>.
+
+Punishment, <page 95>, <page 97>, <page 68>.
+
+ 
+
+Rabbits, not indigenous to China, <page 149>.
+
+Rapidity, <page 12>, <page 61>; the essence of war, <page 122>.
+
+Rewards, <page 15>, <page 95>, <page 142>.
+
+Reward and punishment, constancy in, <page 4>.
+
+Riches, soldiers not to acquire, <page 127>.
+
+River, crossing a, <page 129>.
+
+River warfare, <page 81>, <page 82>.
+
+Roberts, Lord, night march of, <page 35>; on Sun Tzu, <page xlii>.
+
+Rout, <page 105>, <page 107>.
+
+Ruin, one of the six calamities, <page 105>, <page 106>.
+
+[p. 200]
+
+Ruler, military commander independent of the, <page 109>; the enlightened, <page 157>, <page 159>, <page 174>.
+
+Rules of warfare, conventional, <page 148>.
+
+ 
+
+Salt-marshes, <page 83>.
+
+San Kuo Chih, quoted, <page 69>, <page 111>; referred to, <page xxxv>, <page xli>, <page xlii>. See also Wei Chili.
+
+San Lueh, <page li>; quoted, <page 62>, <page 158>.
+
+San Shih Erh Lei Ching, <page xviii>.
+
+San Ts'ai T'u Hui, <page liii>.
+
+San-yuan, <page 79>.
+
+"Science of War," quoted, <page 101>, <page 130>.
+
+Scouts, <page 88>, <page 89>.
+
+Screens, grass, <page 88>.
+
+Secrecy, <page 45>, <page 131>.
+
+Secrets, divulged by a spy, <page 170>.
+
+Sedan, capitulation of, <page 17>.
+
+Self-possession, <page 67>.
+
+Sensitiveness in a general, <page 79>.
+
+Sentries, <page 171>.
+
+Serious ground, <page 117>, <page 119>, <page 135>, <page 137>.
+
+Seven considerations, <page 1>, <page 4>.
+
+Sha-yuan, <page 168>.
+
+Shan-shan, <page 139>; King of, <page 150>, <page 151>.
+
+Shang dynasty, <page 173>.
+
+Shen, Duke of, <page 110>.
+
+Shen-wu of Ch'i, <page 168>.
+
+Shen Yu, a commentator, <page xli>.
+
+Shepherd driving sheep, <page 133>.
+
+Sheridan, General, <page 47>.
+
+Shih Chi, objection to the chronology of, <page xxvi>; quoted, <page xi>, <page xiii>, <page xv>, <page xx>, <page xlv>, <page 40>, <page 58>, <page 80>, <page 84>, <page 90>, <page 124>, <page 128>; referred to, <page xvi>, <page xxii>, <page xxiv>, <page xxxiv>, <page xlvi>, <page xlvii>, <page xlix>, <page l>. See also Ssu-ma Ch'ien.
+
+Shih Ching, quoted, xvi, <page 61>, <page 62>; referred to, <page 14>.
+
+Shih Huang Ti, <page 127>, <page 142>.
+
+Shih K'uang, <page 29>.
+
+Shih Liu Ts'e, <page lii>.
+
+Shih Ssu-ming, the rebel leader, <page 65>.
+
+Shu Ching, quoted, <page xv>; referred to, <page xlvii>, <page xlviii>.
+
+Shu Lu Chieh T'i, <page xxiii>.
+
+Shuai-jan, the, <page xxvi>, <page 128>, <page 129>.
+
+Shuo Wen, quoted <page 94>, <page 117>, <page 160>.
+
+Sicilian expedition, <page 118>.
+
+Sieges, <page 10>, <page 18>, <page 19>, <page 73>.
+
+Sight, sharp, <page 29>.
+
+Signal-fires, <page 65>.
+
+Signals, <page 33>.
+
+Signs, observation of, <page 88>.
+
+Situations, the nine. See Nine grounds.
+
+Six Chancellors of the Ch'in State, <page 142>.
+
+"Six States" period, <page xxii>.
+
+Skilful fighter, the, <page 30>.
+
+Skilful leaders of old, <page 120>.
+
+Solidarity of troops, <page 123>.
+
+Sophanes at Plataea, <page 129>.
+
+Sovereign, the, <page 55>; the wise, <page 163>.
+
+Spies, <page xlix>, <page 52>, <page 147>, <page 148>; converted, <page 90>, <page 166>, <page 172>, <page 173>; doomed, <page 167>, <page 172>, <page 173>; five classes of, <page 164>; Frederick's classification of, <page 168>; importance of, <page 175>; intimate relations to be maintained with, <page 168>; inward, <page 165>, <page 172>; local, <page 164>, <page 172>; surviving, <page 167>, <page 172>; to be properly paid, <page 162>, <page 169>.
+
+Spirit, an army's, <page 65>, <page 66>.
+
+Spirits, <page 163>.
+
+"Spy," evolution of the character meaning, <page 160>.
+
+Spying, end and aim of, <page 173>.
+
+Ssu K'u Ch'uan Shu Chien Ming Mu Lu, quoted, <page l>, <page li>, <page lii>.
+
+Ssu K'u Ch'uan Shu Tsung Mu T'i Yao, quoted, <page xx>, <page xli>, <page l>; referred to, <page xl>, <page lii>, <page liii>.
+
+Ssu ma Ch'ien, xiv, xx; quoted, <page xi>, <page xii>, <page xlv>; credibility of his narrative, xxvi; his letter to Jen An, referred to, <page xlvi>; his mention of the 13 chapters, <page xxx>. See also Shih Chi.
+
+Ssu-ma Fa, <page l>; quoted, <page xvi>, <page 14>, <page 17>, <page 78>, <page 126>, <page 143>.
+
+Ssu-ma I, <page 46>, <page 51>, <page 122>.
+
+Ssu-ma Jang-chu, <page xxii>, <page 1>, <page 98>.
+
+Stagnation, <page 157>.
+
+Standard text of Sun Tzu. See Sun Tzu.
+
+[p. 201]
+
+Stellar Mansions, the twenty-eight, <page 153>.
+
+Stonewall Jackson, biography of, quoted, <page 42>, <page 59>, <page 131>.
+
+Strategy and tactics, <page 52>.
+
+Strength, great, <page 29>.
+
+Stupidity, to be feigned, <page 145>.
+
+Su Hsun, quoted, <page xlii>.
+
+Su Shu, an ethical treatise, <page li>.
+
+Subdivisions of an army, <page 17>, <page 33>, <page 39>.
+
+Sui Shu, quoted, <page 151>; bibliographical section of, quoted, <page xviii>, <page xli>; referred to, <page xxxvi>, <page liii>.
+
+Sun Hao, a commentator, <page xli>.
+
+Sun Hsing-yen, <page xxxii>; his edition of Sun Tzu, <page ix>; his preface, <page xxxiv>; quoted, <page xvi>, <page xxix>, <page xxx>, <page xxxi>, <page xxxii>, <page xxxiii>, <page xxxvi>, <page xlviii>.
+
+Sun Pin, <page xii>, <page xv>, <page xvi>, <page 40>.
+
+Sun Tzu, archaic words in, <page xxiv>; bibliographical description of edition used, <page xxxiv>; corruptions in the text of, <page xxxi>; difficult passages in, <page xxxiv>; state of the text, <page 138>; probable date of the work, <page xxviii>.
+
+-- Modern text, <page 25>, <page 26>, <page 27>, <page 33>.
+
+-- Original text, <page xxxii>, <page xxxiii>, <page 2>, <page 16>, <page 27>, <page 29>, <page 43>, <page 47>, <page 53>, <page 58>, <page 62>, <page 64>, <page 67>, <page 84>, <page 86>, <page 87>, <page 88>, <page 91>, <page 92>, <page 95>, <page 98>, <page 113>, <page 119>, <page 121>, <page 153>, <page 154>, <page 168>.
+
+-- Standard text, <page xxxiv>, <page 10>, <page 58>, <page 91>, <page 95>, <page 117>, <page 127>, <page 164>.
+
+-- T'ai I Tun Chia text, <page xxxvi>.
+
+-- T'u Shu text, <page xxxi>, <page 16>, <page 21>, <page 25>, <page 29>, <page 30>, <page 32>, <page 33>, <page 35>, <page 37>, <page 40>, <page 43>, <page 46>, <page 47>, <page 50>, <page 52>, <page 58>, <page 64>, <page 67>, <page 69>, <page 84>, <page 87>, <page 91>, <page 92>, <page 94>, <page 95>, <page 96>, <page 105>, <page 110>, <page 114>, <page 117>, <page 120>, <page 121>, <page 133>, <page 135>, <page 140>, <page 145>, <page 146>, <page 153>, <page 159>, <page 164>, <page 167>, <page 168>, <page 171>, <page 172>, <page 175>.
+
+-- T'ung Tien text, <page xxxiii>, <page 1>, <page 10>, <page 12>, <page 19>, <page 22>, <page 23>, <page 25>, <page 41>, <page 45>, <page 47>, <page 50>, <page 53>, <page 58>, <page 59>, <page 62>, <page 64>, <page 65>, <page 67>, <page 68>, <page 74>, <page 77>, <page 81>, <page 83>, <page 85>, <page 86>, <page 87>, <page 88>, <page 89>, <page 91>, <page 92>, <page 93>, <page 94>, <page 95>, <page 98>, <page 101>, <page 104>, <page 108>, <page 112>, <page 113>, <page 117>, <page 119>, <page 136>, <page 137>, <page 152>, <page 153>, <page 153>, <page 159>, <page 164>, <page 167>, <page 170>, <page 171>, <page 172>.
+
+-- Yu Lan text, <page xxxiii>, <page 3>, <page 7>, <page 10>, <page 12>, <page 14>, <page 15>, <page 19>, <page 25>, <page 27>, <page 37>, <page 42>, <page 45>, <page 47>, <page 50>, <page 52>, <page 53>, <page 62>, <page 64>, <page 67>, <page 68>, <page 77>,, <page 81>, <page 83>, <page 84>, <page 85>, <page 86>, <page 87>, <page 88>, <page 89>, <page 92>, <page 93>, <page 94>, <page 95>, <page 98>, <page 108>, <page 112>, <page 121>, <page 129>, <page 141>, <page 153>, <page 158>, <page 159>, <page 161>, <page 164>, <page 167>, <page 170>, <page 171>, <page 172>.
+
+Sun Tzu Hsu Lu, <page xviii>, <page xxxiv>; quoted, <page xxiii>, <page xxiv>, <page 118>.
+
+Sun Tzu Hui Cheng, <page xlii>.
+
+Sun Tzu Ts'an T'ung, <page xlii>.
+
+Sun Tzu Wen Ta, <page xvii>.
+
+Sun Wu, a practical soldier, <page xxv>; conjectural outline of his life, <page xxix>; not a man of eminent position, <page xxviii>; probable origin of the legend connected with, <page xxix>; Ssu-ma Ch'ien's biography of, <page xi>; supposititious works of, <page xvii>, <page xviii>. See also Sun Tzu.
+
+Sun Wu Sun Tzu, <page xvii>.
+
+Sung Shih, referred to, <page xlii>; bibliographical section of, <page xvii>, <page xxxi>, <page xxxvi>, <page lii>, <page liii>.
+
+Superstitious doubts, <page 126>.
+
+Supplies, <page 137>, <page 161>; line of, <page 101>.
+
+ 
+
+Ta-hsi Wu, <page 168>.
+
+Ta Ming I T'ung Chih, quoted, <page xxxii>.
+
+Taboo character, <page 124>.
+
+Tactical manoeuvring, <page 56>.
+
+Tactician, the skilful, <page 128>.
+
+Tactics, direct and indirect, <page 20>, <page 34> sqq.; modification of; <page 52>, <page 53>; not to be repeated, <page 52>; variation of, <page 26>, <page 71>, <page 74>.
+
+T'ai Kung. See Lu Shang.
+
+T'ai Kung Ping Fa, <page li>.
+
+T'ai Ping Yu Lan, <page xvi>, <page xxxiii>, <page liii>. See also Sun Tzu, Yu Lan text.
+
+T'ai-po Shan-jen, quoted, <page 132>.
+
+T'ai Po Yin Ching, <page xxxvi>.
+
+T'ai Tsung, the Emperor. See Li Shih-min.
+
+T'ai Yuan Ching, referred to, <page xxiv>.
+
+Tallies, official, <page 146>.
+
+[p. 202]
+
+T'ang, prince of, <page xiii>.
+
+T'ang, the Completer. See Ch'eng Tang.
+
+T'ang Chien, <page 167>.
+
+T'ang Shu, bibliographical section of, referred to, <page xxxviii>, <page xli>. See also Hsin T'ang Shu and Chiu T'ang Shu.
+
+Tao Te Ching, quoted, <page xlix>, <page 147>, <page 155>, <page 158>, <page 161>.
+
+Temple, used for deliberations, <page 7>, <page 8>.
+
+Temporising ground, <page 100>, <page 102>. Tenacity, <page 125>.
+
+Teng Ch'iang, <page 78>.
+
+Teng Ming-shih, quoted, <page xv>.
+
+Terrain, natural advantages of, <page 108>; six kinds of, <page 100>.
+
+Textual criticism and emendations, <page 1>, <page 7>, <page 13>, <page 14>, <page 25>, <page 29>, <page 30>, <page 36>, <page 41>, <page 43>, <page 46>, <page 47>, <page 49>, <page 71>, <page 74>, S<page 6>, <page 87>, <page 91>, <page 94>, <page 99>, <page 113>, <page 117>, <page 121>, <page 124>, <page 127>, <page 133>, <page 158>, <page 167>.
+
+Thermopylae, <page 115>.
+
+Three ancient dynasties, the, <page xxxix>.
+
+Thucydides, quoted, <page 125>; referred to, <page 118>.
+
+Ti river, <page 144>.
+
+Tien Chi, <page 40>.
+
+T'ien-i-ko catalogue, quoted, <page xxxvi>, <page xl>.
+
+T'ien Pao, <page xv>.
+
+T'ien Pu, <page 105>.
+
+T'ien Tan, defender of Chi-mo, <page 90>, <page 120>, <page 155>; his use of spies, <page 166>. Time, value of, <page 12>; waste of, <page 157>.
+
+Tou Chien-te, King of Hsia, <page 104>.
+
+Tou Ku, <page 151>.
+
+Trafalgar, battle of, <page 37>.
+
+Training of officers and men. <page 4>.
+
+Trebia, battle of the, <page 66>.
+
+Ts'ai, prince of. <page xiii>.
+
+Ts'ao Kuei, mentioned in the Tso Chuan, <page xxi>; on the advantage of spirit, <page 66>; threatens Huan Kung, <page 128>.
+
+Ts'ao Kung or Ts'ao Ts'ao, <page xix>, <page xxxi>, <page xxxvi>, <page xlii>, <page xliv>, <page 4>, <page 59>, <page 69>, <page 76>, <page 151>; his commentary on Sun Tzu, <page xxxv>, <page xxxvii>, <page xxxviii>, <page xl>; quoted, <page 1>, <page 7>, <page 9>, <page 11>, <page 13>, <page 15>, <page 17>, <page 18>, <page 20>, <page 22>, <page 24>, <page 26>, <page 28>, <page 34>, <page 35>, <page 39>, <page 40>, <page 41>, <page 44>, <page 46>, <page 51>, <page 52>, <page 55>, <page 56>, <page 59>, <page 60>, <page 67>, <page 71>, <page 73>, <page 75>, <page 76>, <page 77>, <page 78>, <page 81>, <page 84>, <page 86>, <page 88>, <page 91>, <page 94>, <page 95>, <page 96>, <page 97>, <page 98>, <page 103>, <page 104>, <page 106>, <page 111>, <page 115>, <page 116>, <page 118>, <page 119>, <page 120>, <page 122>, <page 125>, <page 126>, <page 127>, <page 131>, <page 137>, <page 140>, <page 142>, <page 143>, <page 145>, <page 146>, <page 147>, <page 148>, <page 152>, <page 154>, <page 156>, <page 157>; referred to, <page 19>, <page 43>, <page 62>, <page 136>; his preface, <page xx>, <page xxxiv>; translated, <page xv> sqq.
+
+Tseng Shen, <page xxiv>.
+
+Tso Chuan, delivered to Wu Ch'i, <page xxiv>; has no mention of Sun Tzu, <page xx>, <page xxvi>, <page xxviii>; quoted, <page xxvii>, <page xxix>, <page xlix>, <page 19>, <page 59>, <page 65>, <page 89>, <page 97>, <page 106>, <page 111>, <page 162>; referred to, <page xxi>, <page xlvii>.
+
+Tso Tsung-t'ang, <page 63>.
+
+Tsui-li, battle of, <page xxx>.
+
+Tu Chung-wei, <page 69>, <page 70>.
+
+Tu Mu's commentary on Sun Tzu, <page xxxvi>, <page xxxvii>, <page xxxviii>; quoted, <page 4>, <page 11>, <page 14>, <page 15>, <page 18>, <page 19>, <page 23>, <page 26>, <page 28>, <page 29>, <page 30>, <page 31>, <page 33>, <page 34>, <page 37>. <page 39>, <page 40>, <page 41>, <page 42>, <page 44>, <page 45>, <page 46>, <page 50>, <page 52>, <page 55>, <page 56>, <page 57>, <page 59>, <page 60>, <page 61>, <page 62>, <page 64>, <page 67>, <page 68>. <page 69>, <page 75>, <page 76>, <page 77>, <page 78>, <page 80>, <page 81>, <page 82>, <page 83>, <page 84>, <page 86>, <page 88>, <page 89>, <page 90>, <page 92>, <page 93>, <page 94>, <page 95>, <page 96>, <page 98>, <page 101>, <page 105>, <page 106>, <page 107>, <page 110>, <page 111>, <page 112>, <page 114>, <page 115>, <page 118>, <page 119>, <page 122>, <page 124>, <page 126>, <page 131>, <page 133>, <page 136>, <page 137>, <page 138>, <page 146>, <page 148>, <page 149>, <page 151>, <page 152>, <page 153>, <page 154>, <page 155>, <page 156>, <page 157>, <page 158>, <page 161>, <page 163>, <page 164>, <page 165>, <page 167>, <page 168>, <page 169>, <page 171>, <page 175>; referred to, <page 20>, <page 65>, <page 73>, <page 150>; his preface, quoted, <page xix>, <page xxxvii>, <page xxxviii>, <page xlv>.
+
+T'u Shu Chih, <page lii>.
+
+Tu Yu, <page xxxiii>; his notes on Sun Tzu in the T'ung Tien, <page xxxvii>; quoted, <page 4>, <page 6>, <page 11>, <page 19>, <page 23>, <page 24>, <page 36>, <page 38>, <page 47>, <page 56>, <page 60>, <page 61>, <page 62>, <page 77>, <page 83>, <page 88>, <page 91>, <page 92>, ' <page 93>, <page 94>, <page 95>, <page 100>, <page 101>, <page 102>, <page 103>, <page 104>, <page 116>, <page 117>, <page 120>, <page 137>, <page 138>, <page 152>, <page 153>, <page 166>, <page 167>, <page 169>, <page 171>, <page 172>; referred to, <page 28>, <page 51>, <page 74>, <page 155>, <page 173>.
+
+[p. 203]
+
+T'u Shu encyclopaedia. See Ku Chin T'u Shu Chi Ch'eng.
+
+-- Text of Sun Tzu in the. See Sun Tzu.
+
+Tung Cho, <page xxxv>, <page 94>.
+
+Tung Chou Lieh Kuo, quoted, <page 56>.
+
+T'ung Chih, referred to, <page xxxii>, <page xxxvi>, <page xl>, <page xli>, <page liii>.
+
+T'ung Tien, <page xvii>, xxxiii, <page xxxvii>, <page lii>; <page liii>. See also Tu Yu.
+
+-- Text of Sun Tzu in the. See Sun Tzu.
+
+Turenne, Marshal, on deceiving the enemy, <page 61>; on sieges, <page 73>; on spies, <page 169>.
+
+Tzu-ch'an, saying of, <page xlix>.
+
+Tzu-ch'ang. See Nang Wa.
+
+ 
+
+"Unterricht des Konigs von Preussen," quoted, <page 168>, <page 169>.
+
+Uxbridge, Lord, <page 5>.
+
+ 
+
+Valleys, <page 80>.
+
+Victory, halfway towards, <page 111>, <page 112>; without fighting, <page 17>.
+
+Virtues, the five cardinal, <page 3>.
+
+ 
+
+Wan, town of, <page 122>.
+
+Wang Chien, <page 124>.
+
+Wang Hsi's commentary on Sun Tzu, <page xl>; quoted, <page 1>, <page 2>, <page 11>, <page 13>, <page 14>, <page 23>, <page 26>, <page 33>, <page 34>, <page 38>, <page 44>, <page 52>, <page 53>, <page 55>, <page 60>. <page 61>, <page 63>, <page 71>, <page 78>, <page 84>, <page 92>, <page 94>, <page 95>, <page 96>, <page 106>, <page 114>, <page 117>, <page 119>, <page 124>, <page 132>, <page 133>, <page 135>, <page 137>, <page 142>, <page 155>, <page 157>, <page 169>; referred to, <page 67>, <page 76>.
+
+Wang Kuo, the rebel, <page 94>.
+
+Wang Liao, <page 128>.
+
+Wang Ling, a commentator, <page xxxvii>, <page xli>. See also Wang Tzu.
+
+Wang Shih-ch'ung, <page 104>.
+
+Wang T'ing-ts'ou, <page 105>.
+
+Wang Tzu, quoted, <page 4>, <page 6>, <page 24>.
+
+Wang-tzu Ch'eng-fu, <page xiii>.
+
+War, want of fixity in, <page 54>.
+
+Warlike prince, <page 141>, <page 158>.
+
+Water, an aid to the attack, <page 156>.
+
+Waterloo, battle of, <page 5>, <page 48>, <page 130>.
+
+Weapons, <page 14>
+
+Weeping, <page 127>.
+
+Wei, kingdom of, <page xxxv>; province of, <page 105>.
+
+Wei river, <page 81>.
+
+Wei Chih (in the San Kuo Chih), <page xix>, <page xxxvi>.
+
+Wei <page 1>, <page 106>.
+
+Wei Liao Tzu, <page li>; quoted, <page 35>, <page 73>, <page 97>, <page 99>, <page 107>, <page 125>; referred to, <page xxiv>.
+
+Wei Po, <page 165>.
+
+Wei Wu Ti. See Ts'ao Kung.
+
+Well-being of one's men, to be studied, <page 123>.
+
+Wellington, his description of his army at Waterloo, <page 130>; on the eve of Waterloo, <page 5>; saying, of, <page 110>; skilful in dissimulation, <page 6>.
+
+Wen, Duke of Chin, <page 141>.
+
+Wen Hsien T'ung K'ao, quoted, <page xxxvii>, <page xxxviii>, <page xl>, <page xli>; referred to, <page xxi>, <page xxiii>, <page xxxvi>, <page liii>.
+
+Wen-su, King of, <page 132>.
+
+Wen Ti, Emperor of Sui dynasty, <page 151>.
+
+Wen Wang, <page l>, <page 174>.
+
+Western Sacred Mountain, <page xxxii>.
+
+Wind, days of, <page 153>; duration of, <page 155>.
+
+"Words on Wellington," quoted, <page 5>.
+
+Wu, city of, <page xiv>; king of, <page 118>. See also Ho Lu.
+
+Wu State, xxv, <page 49>, <page 50>, <page 129>, <page 159>; dates in the history of, <page xxvii>, <page xxviii>; first mentioned in history, <page xxvii>.
+
+Wu Ch'i, [p. l], <page 64>, <page 65>, <page 110>; compared with Sun Wu, <page xliii>; plagiary of Sun Tzu, <page xxiv>. See also Wu Tzu.
+
+Wu Ch'i Ching, <page lii>.
+
+Wu Huo, <page 29>.
+
+Wu Jen-chi, <page xxxiii>.
+
+Wu-lao, heights of, <page 104>.
+
+Wu Nien-hu, <page xxxiii>.
+
+Wu-tu, town of, <page 165>.
+
+Wu-tu Ch'iang, <page 80>.
+
+Wu Tzu, <page xix>, <page l>; quoted, <page 24>, <page 56>, <page 66>, <page 77>, <page 80>, <page 81>, <page 98>, <page 107>, <page 115>, <page 131>, <page 142>, <page 156>; referred to, <page xxiv>.
+
+[p. 204]
+
+Wu Tzu-hsu, <page xxix>, <page xlviii>: See also Wu Yuan.
+
+Wu Wang, <page xvi>, <page 20>, <page 175>.
+
+Wu Yuan, <page xiii>, <page xxiii>, <page 56>; a spurious treatise fathered on, <page xxix>.
+
+Wu Yueh Ch'un Ch'iu, quoted, <page xiv>, <page xviii>.
+
+Wylie's "Notes," referred to, <page xli>, <page lii>.
+
+ 
+
+Ya, King of Chao, <page 144>.
+
+Yang Han, <page 115>.
+
+Yang-p'ing, city of, <page 46>.
+
+Yangtsze river, <page 123>.
+
+Yao Hsiang, <page 78>.
+
+Yarkand, battle of, <page 132>.
+
+Yeh Shih or Yeh Shui-hsin, his theory about Sun Tzu, <page xxi>, <page xxiii>, <page xxv>; on Sun Tzu's style, <page xxiv>.
+
+Yellow Emperor, the, <page xvi>, <page 84>.
+
+Yellow Turban rebels, <page 154>.
+
+Yen, King of Hsu, <page xvi>, <page xlix>.
+
+Yen Shih-ku, <page 167>.
+
+Yen Ti, <page 84>.
+
+Yen Tzu, quoted, <page 98>.
+
+Yin and Yang, <page 2>.
+
+Yin dynasty, <page 173>, <page 174>.
+
+Yin Fu Ching, <page xxxvi>, <page 111>.
+
+Ying, capital of Ch'u, <page xii>, <page xiii>, <page xvi>, <page xxix>.
+
+Ying K'ao-shu, xxi.
+
+Yo Fei, a student of Sun Tzu, <page xlii>.
+
+Yo I, <page 117>.
+
+Yu Hai, quoted, <page xlii>; referred to, <page xxxvi>, <page xl>, <page lii>, <page liii>.
+
+Yu Lan encyclopaedia. See T'ai P'ing Yu Lan.
+
+-- Text of Sun Tzu in the. See Sun Tzu.
+
+Yuan, the two, opponents of Ts'ao Ts'ao, <page xxxv>.
+
+Yuan Chien Lei Han, <page liii>.
+
+Yuan Shao, <page 151>.
+
+Yueh State, <page 129>; compared with Wu, <page xxvi>, <page 49>, <page 50>; first mentioned in history, <page xxvii>.
+
+Yueh Chueh Shu, quoted, xiv.
+
+Yueh Yu, <page xxi>.
+
+Yung Lo Ta Tien, <page lii>.
+
+     
+The Art of War, by Lionel Giles, [1910], at sacred-texts.com
+
+[p. 205]
+
+  
+
+CORRIGENDA
+
+P. <page ix>, note: For "edition" read "translation."
+
+<page 14>, line 3: For "by" read "in the."
+
+" <page 16>, line 5: For "T." read "T'u Shu."
+
+" "  section 19, note: Before "War" insert "Soldiers are not to be used as playthings."
+
+" <page 17>,  section 1: #, etc. The more I think about it, the more I prefer the rendering suggested on p. <page 159>,  section 22, note.
+
+" "  section 1 note, and p. <page 78>, line 6: Insert "the" before "Ssu-ma Fa."
+
+" <page 33>, note on heading: Cf. X.  section 12, where # is translated "strength," though it might also be "conditions." The three words #, # and # have been much confused. It appears from the Shuo Wen that the last character is post-classical, so that Sun Tzu must have used either or a in all senses.
+
+" <page 45>, line 1: For "sublety" read "subtlety."
+
+" <page 63>, line 4: M. Chavannes writes in the T'oung Pao, 1906, p. 210: "Le general Pan Tch'ao n'a jamais porte les armes chinoises jusque sur les bords de la mer Caspienne." I hasten to correct my statement on this authority.
+
+" <page 80>, 9th line from the bottom: For # read #.
+
+" <page 100>,  section 23, note, and p. <page 126>, 5th line from bottom: For "Huang Shih-kung" read "Huang-shih Kung."
+
+" <page 124>, line 7: For "Ch'en" read "Ch'en Hao."
+
+" <page 136>, 11th line from bottom: Insert "to" before "select."
+
+" <page 152>,  section 2: Substitute semi-colon for full stop after "available."
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    

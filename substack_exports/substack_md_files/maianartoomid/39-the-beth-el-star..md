@@ -1,0 +1,191 @@
+---
+title: "The Beth-El Star"
+subtitle: A Christic Sacred Geometry Upwelling in 2025
+author: Maia Nartoomid
+collection: Maia Nartoomid Substack
+source_url: "https://maianartoomid.substack.com/p/the-beth-el-star?utm_source=substack&utm_medium=email&utm_content=share&action=share"
+feed_url: "https://maianartoomid.substack.com/feed"
+base_url: "https://maianartoomid.substack.com"
+slug: "the-beth-el-star"
+published_at: "2024-12-06T19:22:52.956Z"
+scraped_at: "2025-11-22T09:31:12.136786+00:00"
+likes: 0
+word_count: 1739
+spiritual_tags:
+  - Egyptian
+  - Templar
+  - Christos Stream
+  - Merkabah Light Body
+  - Activation Rite
+  - Akashic Practice
+  - Thoth
+  - Light Codes
+  - Temporal Alchemy
+  - Star Lineages
+lineages:
+  - Egyptian
+  - Templar
+  - Christos Stream
+modalities:
+  - Merkabah Light Body
+  - Activation Rite
+  - Akashic Practice
+beings:
+  - Thoth
+themes:
+  - Light Codes
+  - Temporal Alchemy
+  - Star Lineages
+images: []
+---
+
+# The Beth-El Star
+
+## A Christic Sacred Geometry Upwelling in 2025
+
+**2024-12-06T19:22:52.956Z**
+
+**Likes:** 0
+
+[https://substackcdn.com/image/fetch/$s_!17To!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35296080-1fc9-4cc9-88f4-29b3e3069b89_1456x816.png](https://substackcdn.com/image/fetch/$s_!17To!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35296080-1fc9-4cc9-88f4-29b3e3069b89_1456x816.png)
+
+
+<img src='images/The-Beth-El-Star_88966146.png' alt='' title='' width='1456' height='816' />
+
+**From past Thothic Transmissions of the 1990s**
+
+Beth\-El is also known as Bath\-Ra\-El. It is foremost an energetic doctrine, a pattern and a Light
+program issued from within the Mandate of the Violet Flame. The *Mandate of the Violet Flame* is a
+universal dispensation granted by the Master Intelligences of the 144,000 stellar thresholds, and is
+carried out under the authority of Lord Mikael. Thus the Beth\-El aspect of the greater mandate
+holds the pattern of organization for the birth, death, resurrection and ascension of the Christed
+I’Shoa (Jesus); and further, the continued archetypal perpetuation of this Christic passage in the
+3rd dimensional world for all souls incarnate within its experience.
+
+The Academy of Christ as well as the Guild of Bethel work through this pattern. The Guild of Bethel
+are record keepers and members of the Holy Order of Johannine Corpus of the Rose Mystica. Their
+primary directive is to preserve and work with all sacred Grail knowledge and history under the
+Beth\-El Trinity Star Tetrahedron.
+
+The Beth\-El is a sacred geometric consciousness configuration that was overlaid upon the Earth in
+2023 BC. In essence, it is the memory circuitry that aligns the Christos Ray to the undivided realms
+within the *Cube of Stars*; which simply stated is the full\-Light Metatronic program for redemption
+of matter. The Christos Ray as it has been inserted into the Earth, and not the universal or cosmic
+Christos.
+
+[https://substackcdn.com/image/fetch/$s_!y7zV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81f39186-71c2-4742-b412-c37f2ad0c0e2_1024x1024.png](https://substackcdn.com/image/fetch/$s_!y7zV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81f39186-71c2-4742-b412-c37f2ad0c0e2_1024x1024.png)
+
+
+<img src='images/The-Beth-El-Star_46773602.png' alt='' title='' width='603' height='603' />
+
+The sacred geometry of the Beth\-El is comprised of three star tetrahedrons interlinked. Its center
+point’s geographical location on the planet is determined through the complex dynamics of the
+triplicity of its geometry. At the time of I’shoa’s birth, it was located not surprisingly at
+Bethlehem. This center point is now (in 1990’s) to be found in Manitoba, Canada. It has been at
+Fortingall, Scotland at times, and will return there again at some point in the future. Briefly
+stated, the geographical location of the Beth\-El’s center point or node is determined primarily
+by the radiations of Christic infusion into the core of the planet. This is an ongoing process with
+which the Beth\-El Trinity Star interacts.
+
+The Beth\-El grid is in constant motion. It is composed of three elliptical circles which spin in
+equilateral patterns created from the natural interface of the magnetic energy zones between the
+regions which comprise the overall Earth chakra system. These magnetic fields are radiating on the
+surface of the planet like patterns of sound current on the surface of a plate. Take a plate and
+place some sand upon it, and then set it upon a loudspeaker playing at high volume and you will see
+what we mean.
+
+Each of the three elliptical circles of the Beth\-El carries a positive and negative
+‘seed\-atom’ at opposite ends of its elliptic. When these three circles find themselves in a
+specific alignment with one an other, the negative and positive atoms from these elliptical circles
+pair between themselves creating an anchoring of the circles at certain points on the globe where
+this dynamic occurs. It is at these points as a result of this anchoring, that the three
+interlinking star\-tetrahedrons form creating the Beth\-El star. As the etheric frequency of the
+planet shifts \- which is an ongoing cyclic occurrence \- a minute break in the magnetic current of
+the interior Earth chakras occurs which releases the anchoring of the three elliptical circles, and
+thus the triple tetrahedral Beth\-El star. The circles are then freed to continue the ‘dance’
+along their magnetic paths once again. While the Beth\-El grid was created and inserted by high
+level sentient beings, it was placed into this natural dynamic for its modus operandi.
+
+The Beth\-El configuration spins through the greater Grail planetary geometric that contains the 13
+Major Grail Thresholds. From this it is obvious that the Beth\-El may anchor its center on both
+major Grail points and other locations as well.
+
+[https://substackcdn.com/image/fetch/$s_!nEkb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F099cc2fb-d080-4c6a-9408-710f998b411c_1456x816.png](https://substackcdn.com/image/fetch/$s_!nEkb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F099cc2fb-d080-4c6a-9408-710f998b411c_1456x816.png)
+
+
+<img src='images/The-Beth-El-Star_89413505.png' alt='' title='' width='1456' height='816' />
+
+**Now in 2025** I ask where the BETH\-EL node is situated. I received that it has been once again in Fortingal for some years, but on October 5th it will again be anchored in BETHLEHEM.
+
+*When this position is reached, the BETH\-EL will activate on a level it has never before achieved, guided by the Guild of Beth\-El. There will then flow from the Mandate of the Violet Flame as a fiery shield of protection and sovereignty upon the Holy Land. The whole Order of the World depends upon this in its procession into the Ascension Threshold.*
+
+**Back to the 1990’s Transmission**
+
+At the time of I’shoa’s birth, Israel (which includes Bethlehem) was a planetary center for the
+activation of certain divine Light patterns. These Light patterns were dormant but resonant in the
+human brain/mind complex. They had been successfully suppressed in Egypt by the fallen Amun
+priesthood but were being returned to planetary consciousness through the mind/heart of Israel's
+consciousness.
+
+**"Bethlehem Angle" in Planetary Geometry:** A "Bethlehem angle" is a crucial component in establishing a direct harmonic between significant locations like Mount Schiehallion in Fortingall, Scotland, Rosslyn Chapel, the holy Island (Angelsey), and Glastonbury. This uses "Bethlehem triangles" to unify parts of the planet's energetic grid.
+
+\[Note from Sha’Maia: [William
+Buehler](https://billbuehler.blogspot.com/2009/07/introduction-to-sacred-geometry-reshel.html)
+discovered the “Bethlehem Angle” based on information he received from my Thoth translations.\]
+
+[https://substackcdn.com/image/fetch/$s_!RNr2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40410718-dcbb-4be3-b259-05da936993e8_1024x1024.png](https://substackcdn.com/image/fetch/$s_!RNr2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40410718-dcbb-4be3-b259-05da936993e8_1024x1024.png)
+
+
+<img src='images/The-Beth-El-Star_35954098.png' alt='' title='' width='609' height='609' />
+
+**2025 Onward**
+
+**How Humanity May Support This Connection:** Humanity can support this important connection and the broader planetary transformation through several key actions and principles:
+
+• **Heart Ascension and Compassion**: Focus on raising one's Heart consciousness vibration and
+extending compassion to others. This is seen as an absolute necessity for achieving the full
+transcendence of LP\-40 (Ascension Flashpoint). Compassion for others is described as the perfect
+vehicle to raise Heart consciousness.
+
+• **Spiritual Alignment and Inner Work**: Be attuned to inner guidance. The acceleration of the
+ascension timeframe primarily depends on the "Heart ascension principle". Individuals are encouraged
+to:
+
+***Pray, be still and listen, be humble, cast out fear, do not rush where angels fear to tread. Love
+one another.***
+
+• **Becoming Architects of Higher Selves**: The period leading up to and including 2025 and
+beyond, emphasizes a "greater realization of the GOLDEN MEAN" and a call for balance, requiring
+humanity to become "architects of our Higher Selves".
+
+• **Activating Energetic Protocols**: Utilize protocols like the **TZO Protocol**, which involves
+touching the third finger to the heart and reciting an affirmation to connect to GAIA’s Heart
+(Central Sun Atoma). This system is holistic, designed to balance Earth's frequency realm and help
+humanity shield against mind\-altering frequencies.
+
+• **Anchoring Light**: For those called to live in designated *Golden Taya Allotments* (major
+ascension centers), their main purpose may be to anchor Metatronic Light in these areas.
+
+• **Awakening as Light Bearers**: Humanity is urged to "Rise Up!" as Light Bearers, acknowledging
+their divine duty to move Earth into the New Earth Hologram. The Sun Key infusion, for example, is
+intended to empower these individuals to become "eagles in soaring merkabahs of Light".
+
+**RELATED: [Mandate of the Violet Flame](https://youtu.be/r5QUuuo1X-I?si=mL_ZSxZ353cVIC7t) / [TZO Protocol](https://youtu.be/1hMnndh4zvw?si=iJ7abULtDISeb6Em) / [Golden Taya](https://youtu.be/QE2X4SUHKq0?si=VxvANlP_ai1ybpNv) / [The Sun Key](https://youtu.be/sjnm2zIQLGc?si=HN1vjhjRYR287H9y)** 
+
+Subscribe
+
+[Share](https://maianartoomid.substack.com/p/the-beth-el-star?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+**\~\~\~\~\~  
+[Personal Akasha Life Pulse from Thoth \&
+Sha’Maia:](https://newearthstar.org/about-maia/akashic-consultations/) Helps you to synchronize
+with this fundamental cosmic rhythm, and also reflects how your "Life Pulse" session connects you to
+your New Earth Star frequency. Both written (5\-6 pages) and a live Zoom exploration. \~\~\~\~\~**
+
+**All my Substack images and articles are FREE. Please help me promote them. Support my work further, by considering some of my paid offerings (consultations \& activation store) and donations.**
+
+**[my website](http://newearthstar.org/) / [YouTube channel](https://www.youtube.com/@bluestarrising-thetemplara3835) / [Akasha Life Pulse Sessions](https://newearthstar.org/about-maia/akashic-consultations/)/ [Maia’s Redbubble](https://www.redbubble.com/people/maianartoomid/explore?asc=u&page=1&sortOrder=recent) / [published works](https://newearthstar.org/published-works/) / [activation store](https://newearthstar.org/maias-activation-store/)**
+
+**(personal art templates for healing \& self\-discovery)**
+
+**[MONTHLY DONATIONS](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=SKZ4FZCYBM4H4): Donate $20 or more per month and you will have access to the [Vault of Thoth](https://newearthstar.org/vault-of-thoth/). Thank you!**

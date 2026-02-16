@@ -1,0 +1,38 @@
+# Virtual environments
+.venv/
+sol-env/
+venv/
+env/
+
+# Nested git repos (separate projects)
+aiAgents/
+documentAI/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+
+# Environment variables
+.env
+
+# Node
+node_modules/
+
+# Large content files (exceed GitHub 100MB limit)
+spiritMythos/spiritmythos_content.txt
+spiritMythos/spiritmythos_content_noDups.txt
+textOut/
+
+# Lock files
+*.~lock.*
+
+# OS files
+Thumbs.db
+.DS_Store

@@ -1,0 +1,259 @@
+---
+title: The Moment of our Dominion
+subtitle: Aligning our personal atoma to the Atoma of the Earth
+author: Maia Nartoomid
+collection: Maia Nartoomid Substack
+source_url: "https://maianartoomid.substack.com/p/the-sun-key-compass?utm_source=publication-search"
+feed_url: "https://maianartoomid.substack.com/feed"
+base_url: "https://maianartoomid.substack.com"
+slug: "the-moment-of-our-dominion"
+published_at: "2024-12-06T19:22:52.956Z"
+scraped_at: "2025-11-22T09:31:12.136786+00:00"
+likes: 0
+word_count: 2857
+spiritual_tags:
+  - Templar
+  - Merkabah Light Body
+  - Activation Rite
+  - Akashic Practice
+  - Meditative Journey
+  - Temple Work
+  - Thoth
+  - Light Codes
+  - Temple Mysteries
+  - Temporal Alchemy
+  - Star Lineages
+lineages:
+  - Templar
+modalities:
+  - Merkabah Light Body
+  - Activation Rite
+  - Akashic Practice
+  - Meditative Journey
+  - Temple Work
+beings:
+  - Thoth
+themes:
+  - Light Codes
+  - Temple Mysteries
+  - Temporal Alchemy
+  - Star Lineages
+images: []
+---
+
+# The Moment of our Dominion
+
+## Aligning our personal atoma to the Atoma of the Earth
+
+**2024-12-06T19:22:52.956Z**
+
+**Likes:** 0
+
+[https://substackcdn.com/image/fetch/$s_!_VnV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7731013-15db-4b2e-a934-b1f2eb0e1710_1456x816.png](https://substackcdn.com/image/fetch/$s_!_VnV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7731013-15db-4b2e-a934-b1f2eb0e1710_1456x816.png)
+
+
+<img src='images/The-Moment-of-our-Dominion_65425943.png' alt='' title='' width='1456' height='816'
+/>
+
+**Exploration of Thoth Transmissions through the [ThothStream](https://nesialibraryproject.wordpress.com/thothstream-knowledge-base/) knowledge base (TS).**
+
+The central sun of the planet, known as the Atoma, is a brilliant mass of atomic particles located
+at the very center of the Earth's hollow sphere. It is often referred to as the "heart of the
+planet" and is considered the "Holy of Holies" by its inhabitants, a central chamber of the Temple
+that contained sacred relics. The Atoma is essential for the Earth's purification and rebirth
+through its cyclic action.
+
+[https://substackcdn.com/image/fetch/$s_!eW2x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63e328e-66c7-402e-8f4a-6f2c598ee685_1456x816.png](https://substackcdn.com/image/fetch/$s_!eW2x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63e328e-66c7-402e-8f4a-6f2c598ee685_1456x816.png)
+
+
+<img src='images/The-Moment-of-our-Dominion_25997184.png' alt='' title='' width='1456' height='816'
+/>
+
+**Structure and Function:** The Atoma contracts and expands in a pulsing action, sending energy waves throughout the central cavity and into the Earth's many "arteries" like caverns, natural tunnels, and "pores". It houses four polarity chambers composed of "hyper\-atoms" with inverted nuclei, a result of an incomplete chain reaction of hydrogen changing into helium. This incomplete reaction means the Atoma is in a constant process of folding inward, similar to the initial stages of black hole formation, but the Earth's magnetic field prevents it from fully collapsing, suspending it between violent chain reactions and inward volution. The innermost part of the Atoma is called the Anii, a "Seed Flame" or "Holy Seed," which is a bursting of transformation and completeness, akin to a nova. It is a balanced masculine\-feminine dynamic, with its outer shell perceived as masculine and its inner "white core" (which appears black due to an inversion of Light\-atoms) as feminine, giving rise to the name "Lady of the Midnight Sun".
+
+[https://substackcdn.com/image/fetch/$s_!Immy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44d12bb0-c60f-4d07-b9e6-cecae2c19693_1456x816.png](https://substackcdn.com/image/fetch/$s_!Immy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44d12bb0-c60f-4d07-b9e6-cecae2c19693_1456x816.png)
+
+
+<img src='images/The-Moment-of-our-Dominion_27754839.png' alt='' title='' width='1456' height='816'
+/>
+
+**Interaction with Solar Light**: The Earth's Atoma interacts with the outer Solar Sun (called the "Atana") through light waves, which are the optical evidence of magnetic and other advanced energy waves. Solar light beams do not constantly enter the Earth's core; instead, a procession called the Rega Passage occurs only during the equinoxes and solstices. Light beams entering through the polar openings (Northern and Southern Doors) are specially adapted by etheric x\-grams for harmonious reception by spectral\-polar magnetic lenses. The Northern Door passage leads to the Atoma's positively polarized chambers, while the Southern Door leads to the negatively polarized chambers. Within the Anii, the energies from these passages undergo an intricate exchange or "purifying of blood," transforming their x\-grams. This refined energy, or "gold," is mostly received inter\-dimensionally, but some is circulated throughout the planet by the pulsing of the Earth\-heart.
+
+[https://substackcdn.com/image/fetch/$s_!DLRF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36fd48fe-a02a-4f9b-94c1-90154c74c66f_1024x1024.png](https://substackcdn.com/image/fetch/$s_!DLRF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36fd48fe-a02a-4f9b-94c1-90154c74c66f_1024x1024.png)
+
+
+<img src='images/The-Moment-of-our-Dominion_25070330.png' alt='' title='' width='613' height='613'
+/>
+
+**Thoth / Sha’Maia in 2025:**
+
+The atoma is deeply involved in Earth's ongoing transformation. Each living thing has an atoma a few
+inches outside the body above the high heart. In plants, it is found just above the nucleus of the
+root.
+
+The atoma is the seed of life, containing what Thoth refers to the Intelligence of Dominion.
+“Dominion” is essentially the divine signal of the right BE \- the I AM signature projected from
+Divine Intelligence through the soul and into the incarnated form. This include the
+“incarnation” of all energy and matter. While the atomas seem individualized in the greater
+morphogenic field, they are all self\-actualized through the greater ATOM of BEING. This from the
+atoma of a plant to that of a giant star\-sun.
+
+When a human or mammal of any species is in the womb the fetus is developing its atoma through the
+signals of the mother’s atoms via the umbilical cord. At birth, when the cord it severed the
+infant is no longer connected to the mother’s atoma and this instantly activates its own atoma.
+The “cry” and gulp of air into the lungs is the signal to the high heart to send the signal of
+awakening to the atoma.
+
+Unfortunately this is also the moment the child is exposed to all the artificial frequencies and
+electro\-magnetics of the modern world. The atoma is attempting to balance the field, and connect
+fully to the atoma of the inner earth, as each creature born on earth is OF the earth, no matter the
+star genetics involved. The chaos of the surface earth field with its artificial signals makes a
+full connection not possible. We are simply doing the best we can from birth to transition from the
+body. Our atomas are working over\-time to keep us alive and healthy. In order to do this we must
+rely on the inter\-relationship between the inner earth atoma and our individual atoma.
+
+But what about Star Kindred who were born on another planet but are here with us now? Remember the
+morphogenic field. This field is active beyond space and time.
+
+[https://substackcdn.com/image/fetch/$s_!WzOm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feeabd4d1-1b49-46fe-895b-c0bee18543b0_928x1232.png](https://substackcdn.com/image/fetch/$s_!WzOm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feeabd4d1-1b49-46fe-895b-c0bee18543b0_928x1232.png)
+
+
+<img src='images/The-Moment-of-our-Dominion_00514573.png' alt='' title='' width='588'
+height='780.6206896551724' />
+
+**Back to the human child and adult:**
+
+Thoth is speaking to me now about what he is choosing to call *Natal Cord Re\-Tracing*. Before I
+expand on this topic, let us look at the umbilical (natal) cord itself.
+
+We think of it solely as a tube that connects the baby to the mother to receive nutrients while it
+is in the womb. However, it is much more than that. As Thoth has previously stated, it supplies the
+connection to the atoma of the mother. Yet there's more. It also defines the state of Dominion.
+Dominion registers in the being. It is the I AM frequency that performs the sequencing of spiritual
+and physical growth of the child. This is not set in stone. The will is involved. However, the basic
+plan, the foundation, is contained within the spiritual intelligence coming from the Atoma.
+
+Now that the child is separated from the umbilical and thus the mother, that spiritual intelligence
+is performed in the atoma of the infant; and as it grows into adulthood, these signals are
+personified and developed as a frequency of heart response to universal accord.
+
+[https://substackcdn.com/image/fetch/$s_!grnU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39f066ab-7382-4a73-9dab-16a767490f46_1024x1024.png](https://substackcdn.com/image/fetch/$s_!grnU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39f066ab-7382-4a73-9dab-16a767490f46_1024x1024.png)
+
+
+<img src='images/The-Moment-of-our-Dominion_84695218.png' alt='' title='' width='581' height='581'
+/>
+
+There is yet another aspect to this and that is the navel. The navel becomes the equivalent of the
+umbilical cord in that it projects an astral version of the natal cord. This enables the individual
+to seek out and connect with the atomas of other living beings, so that that commonality of spirit,
+the bonding of divine heritage, is formed. Thus, each individual thrives in its own state of
+resonance. We are collective beings but also individualized states. These two quantum experiences
+overlap forming a vesica and this vesica must be fed and nourished. The communication between the
+atomas of living things accomplishes this. Certainly there are other parts of the whole but that is
+the main reference point.
+
+[https://substackcdn.com/image/fetch/$s_!IbDi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d218ef9-702b-44d7-954c-933deb43ab57_1456x816.png](https://substackcdn.com/image/fetch/$s_!IbDi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d218ef9-702b-44d7-954c-933deb43ab57_1456x816.png)
+
+
+<img src='images/The-Moment-of-our-Dominion_94412127.png' alt='' title='' width='1456' height='816'
+/>
+
+The **GENIUS** abides in the atoma. The main collective is within the Atoma of the inner earth. Each
+individual atoma contains a fractal of that Genius.
+
+**Thoth’s definition of Planetary Genius:**
+
+*It is the completed thought form containing the identity of consciousness for your World Domain from its Alpha through Omega. It is untainted, free of all illusion, and yet it is not omnipotent, as it defines and identifies, therefore it has a distinct polarity, and that polarity is to qualify and preserve the Eschaton (last days) of the Earth.*
+
+*In the Book of Zarathustrian Lords (lost book from Akasha), the Genius is the single most important vehicle in the completion of Victory over Evil, for an incarnated soul who has received his/her Genius is the one (form of) being who can utterly destroy the Beast.*
+
+[https://substackcdn.com/image/fetch/$s_!F8K-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5ed0c41-dafa-415c-9b25-e64945a562be_1456x816.png](https://substackcdn.com/image/fetch/$s_!F8K-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5ed0c41-dafa-415c-9b25-e64945a562be_1456x816.png)
+
+
+<img src='images/The-Moment-of-our-Dominion_60778584.png' alt='' title='' width='1456' height='816'
+/>
+
+**Let us return to Natal Cord Re\-Tracing.**
+
+Thoth is extending to us the concept of re\-tracing to the moment of sparking the connection of your
+atoma as the infant, to the Atoma of the center of the earth. When that first moment occurred there
+was a clear and complete connection. It lasted only a mili\-second before the magnetics of the
+surface world caused it to move off\-center. Yet that MOMENT for you still exists outside the realm
+of linear time and space. It is PURE and it is POWERFUL. More so now beginning in 2025, when the SUN
+KEY within the earth’s Atoma was powered up to a new octave.
+
+**What process may we enter to bring that Moment back to us?**
+
+Calling forth like Lazarus from the Tomb! There are various processes you may use. Here is one in
+alignment with Thoth Teachings. You may not wish to engage it all. Find what resonates in the
+moment. It is important though, not to just do it once, but be consistent in repletion. Perhaps each
+morning before you arise to “greet the sun (atoma).”
+
+◦ Call upon your QSS (Quantum Supersoul): This action streams the "zero point"into your body,
+allowing you to "re\-calibrate all to this reference". This is essentially a conscious reset to your
+original, untainted state.
+
+◦ Utilize the **[TZO
+Protocol](https://nesialibraryproject.wordpress.com/tzo-lectic-grid-protocol/)**: Generate a
+specific charge or signal through your human heart chakra to connect to Gaia’s Heart (the Central
+Sun Atoma). Affirm your role as "Gaia's Channel" to quicken and connect the nadis nodes on Earth to
+the TZO grid, nullifying violations and summoning angelic assistance.
+
+◦ Align with the **[Sun Key's Dynamic](https://youtu.be/sjnm2zIQLGc?si=GZy4QZ6AykK-Wnjn)**:
+Consciously tune into the new octave of energy being emanated by the Sun Key from the Earth's Atoma.
+Visualize this energetic infusion re\-attuning the planet and your own being to its true axis. The
+Sun Key's mission to "reunite parts of the whole" is a key aspect here.
+
+4\. Embrace the New Earth Hologram: As the Earth is "giving birth" to the New Earth Hologram, consciously creating this within your own DNA crystals is vital. This involves responding to the "Sacred Tone or Word" from the Earth's center, which is changing in tone and frequency. By aligning your crystalline lodestones in your DNA to this "Harrum," you begin to create your New Earth Merkabah.
+
+5\. Become an Architect of Your High Self: Thoth urges humanity to "become the architects of our High Selves". This involves deliberately planting the "seeds of our own re\-birthing" within the new framework. The Sun Key infusion, which empowers the transformation into "merkabahs of Light," supports this.
+
+6\. Allow for Cellular Transformation: The influx of these higher frequencies, especially around LP\-40, will initiate profound changes. Humanity needs new DNA codings to operate in this multidimensional state, and reactivating dormant genetic codes initiates biochemical mutation. The M\-Stra Molecule is key to transforming blood into a "full light\-crystal energy".
+
+This process can be likened to finding a perfectly preserved blueprint of your original self within
+a vast cosmic archive. With the Earth's powerful central processor (the Atoma) now boosted by a new,
+high\-frequency energy source (the Sun Key), you have an unprecedented opportunity to consciously
+retrieve and implement that blueprint, restoring your original, unburdened connection to the Divine
+within yourself and the planet.
+
+[https://substackcdn.com/image/fetch/$s_!AoGU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a37c71e-443a-4f05-bc28-64eeaa4e6830_1456x816.png](https://substackcdn.com/image/fetch/$s_!AoGU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a37c71e-443a-4f05-bc28-64eeaa4e6830_1456x816.png)
+
+
+<img src='images/The-Moment-of-our-Dominion_89429190.png' alt='' title='' width='1456' height='816'
+/>
+
+**How may you help your child to better engage the dance between their atoma and that of the planet?**
+
+Until the age of puberty, a child is still influenced to some degree by the mother’s atoma. From
+about the age of two the father’s atoma as well…IF the male parent is interacting with the
+child. This would apply to the mother’s interaction as well. If a child is adopted, especially
+very young, the atoma influence with transition to the adoptive parents. When no strong parental
+influence (as being transferred from one foster home to another) will cause the child to more
+strongly insulate him or herself from the atoma morphogenic field. This can cause mental or physical
+health problems. However a strong soul will simply dive deeper into its own atoma frequency.
+
+**For Your Child**
+
+Touch just above the heart on his or her chest and visualize your golden luminous atoma
+“feeding” the child’s with great love and support.
+
+An older child may be willing to follow a simple meditation of his or her own design, to “dance”
+with the Inner Sun.
+
+**For additional work with the atomas read [The Sun Key Compass](https://maianartoomid.substack.com/p/the-sun-key-compass?utm_source=publication-search).**
+
+**[Study Video Playlist](https://vimeo.com/showcase/11866949)**
+
+Subscribe
+
+[Share](https://maianartoomid.substack.com/p/the-moment-of-our-dominion?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+**\~\~\~\~\~  
+[Personal Akasha Life Pulse from Thoth \&
+Sha’Maia:](https://newearthstar.org/about-maia/akashic-consultations/) Helps you to synchronize
+with this fundamental cosmic rhythm, and also reflects how your "Life Pulse" session connects you to
+your New Earth Star frequency. Both written (5\-6 pages) and a live Zoom exploration. \~\~\~\~\~**
+
+**All my Substack images and articles are FREE. Please help me promote them. Support my work further, by considering some of my paid offerings (consultations \& activation store) and donations.**
+
+**[my website](http://newearthstar.org/) / [YouTube channel](https://www.youtube.com/@bluestarrising-thetemplara3835) / [Akasha Life Pulse Sessions](https://newearthstar.org/about-maia/akashic-consultations/)/ [Maia’s Redbubble](https://www.redbubble.com/people/maianartoomid/explore?asc=u&page=1&sortOrder=recent) / [published works](https://newearthstar.org/published-works/) / [activation store](https://newearthstar.org/maias-activation-store/) personal art templates for healing \& self\-discovery)**

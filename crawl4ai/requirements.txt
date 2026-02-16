@@ -1,0 +1,2 @@
+# requirements.txt for crawl4ai
+# Add your dependencies below

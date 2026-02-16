@@ -1,0 +1,32 @@
+# Local Copy: ChristMatrix URLs
+
+- https://christmatrix.com/
+- https://christmatrix.com/about/
+- https://christmatrix.com/abundance-and-prosperity/
+- https://christmatrix.com/art-gallery/
+- https://christmatrix.com/blog/
+- https://christmatrix.com/book-foreword/
+- https://christmatrix.com/book-press-release/
+- https://christmatrix.com/book-reviews-for-the-measure-of-christs-love/
+- https://christmatrix.com/can-i-learn-to-channel/
+- https://christmatrix.com/category/spirituality/
+- https://christmatrix.com/catherine-julian-dove/
+- https://christmatrix.com/christ-for-kids/
+- https://christmatrix.com/contact-us/
+- https://christmatrix.com/events/
+- https://christmatrix.com/guest-posts/
+- https://christmatrix.com/how-can-we-protect-the-children-from-psychic-assaults/
+- https://christmatrix.com/how-you-can-benefit-from-a-channeled-reading/
+- https://christmatrix.com/meditation-is-gymnastics-for-the-soul-2/
+- https://christmatrix.com/meditation-is-gymnastics-for-the-soul/
+- https://christmatrix.com/mercury-retrograde/
+- https://christmatrix.com/motivational-speaker-life-coach/
+- https://christmatrix.com/resources-2/
+- https://christmatrix.com/sacred-meditation-blanket/
+- https://christmatrix.com/saturn-return/
+- https://christmatrix.com/show-archive-links-2/
+- https://christmatrix.com/specials-including-cds-tapes-for-sake/
+- https://christmatrix.com/testimonials/
+- https://christmatrix.com/what-are-the-ascended-master-teachings/
+- https://christmatrix.com/where-does-spiritual-guidance-originate/
+- https://christmatrix.com/who-are-the-ascended-masters/

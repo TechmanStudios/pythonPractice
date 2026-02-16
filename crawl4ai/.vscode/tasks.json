@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Run crawl4ai main script",
+			"command": "python main.py",
+			"group": "test",
+			"problemMatcher": [],
+			"args": []
+		}
+	]
+}

@@ -1,0 +1,18 @@
+# Creating your account
+
+Get started Getting started on TikTok Getting started on TikTok 1.3M views Last updated: Jan 29, 2025 Are you looking for a place where you can laugh, learn, share, create, and connect with over a billion people from all over the world? You're in luck! We couldn't be more excited to welcome you to TikTok. Read below to find out how you can begin your creator journey.
+
+
+## Creating your account
+
+Joining the TikTok community is super easy! Follow these steps to get started: Download the TikTok app. Open the app and choose a sign-up method (email, phone number, or third-party platform). Follow the steps to create your account.
+
+
+## Setting up your profile
+
+Once you've got an account, it's time to make it all yours! You'll be assigned a generic username immediately, but there’s no rush—you can personalize it whenever you like. If you want to help your account stand out and connect with your community more easily, upload a profile picture, choose a nickname, and add a little bio to introduce yourself. We want your time on TikTok to be as positive and safe as possible, so we recommend adjusting your account and privacy settings to create your preferred experience. For those under 16, we automatically set your account to "private" for safety. If you're older, your profile will start off "public," but you'll be able to change your privacy settings anytime by hitting the Menu button (the three lines in the top right corner) on your profile. Looking for a bit more guidance? Visit the TikTokHelp Centerto find all the answers you need. Help Center Help Center
+
+
+## Navigating TikTok
+
+Now that you're all set up, the fun can begin! It all starts with theFor You feedor its more popular name among the creator community, the FYP. This is where you'll find content directly tailored to your specific interests! It's so effective that our users spend 96% of their time on TikTok scrolling through the For You feed. It's powered by TikTok's uniquerecommendation system, which learns from your interactions in order to suggest more relevant content for you.Basically, the more you enjoy TikTok, the easier it will be to deliver you the content you love most. For You feed recommendation system recommendation system Basically, the more you enjoy TikTok, the easier it will be to deliver you the content you love most. Swipe left to discover more feeds likeShop(if available), Following (featuring videos from users you follow), Explore, andSTEM(if available). Shop Shop STEM STEM Now, let's talk icons! On each video, you'll see: The profile icon:Tap to visit the creator's profile and follow them. The profile icon: The heart icon:Give it a tap to show some love by liking the video. The heart icon: The comment bubble:Join the conversation in the comments section. The comment bubble: The bookmark icon:Save your favorite videos to watch later. The bookmark icon: The share arrow:Spread the word by sharing content on other social platforms. The share arrow: The spinning icon:Explore the song or sound featured in the video on the Sound Detail page. The spinning icon: Not vibing with a video in your feed? No worries! Just long-press on it and tap the "not interested" icon. This will help us improve your feed in the future! If you're still curious, we've got more details about navigating TikTok as a beginnerhere. here here Ready to be part of an incredible global community? Create your account today!Head toTikTok.comto get started. Ready to be part of an incredible global community? Create your account today! TikTok.com TikTok.com Already thinking about your first post? Learn more aboutfinding your vibe and community. finding your vibe and community finding your vibe and community
